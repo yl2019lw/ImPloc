@@ -1,0 +1,28 @@
+Actin filaments
+Cell Junctions
+Centrosome
+Cytokinetic bridge
+Cytoplasmic bodies
+Cytosol
+Endoplasmic reticulum
+Endosomes
+Focal adhesion sites
+Golgi apparatus
+Intermediate filaments
+Lipid droplets
+Lysosomes
+Microtubule organizing center
+Microtubules
+Midbody
+Mitochondria
+Mitotic spindle
+Nuclear bodies
+Nuclear membrane
+Nuclear speckles
+Nucleoli
+Nucleoli fibrillar center
+Nucleoplasm
+Nucleus
+Peroxisomes
+Plasma membrane
+Vesicles

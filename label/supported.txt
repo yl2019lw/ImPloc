@@ -1,0 +1,5295 @@
+Gene,label
+ENSG00000001167,Nucleoplasm;
+ENSG00000001629,;Cytosol;Plasma membrane
+ENSG00000001630,Endoplasmic reticulum;
+ENSG00000002330,Mitochondria;
+ENSG00000002549,;Cytosol
+ENSG00000002746,;Cytosol
+ENSG00000002822,;Nuclear membrane;Nucleoplasm
+ENSG00000002834,;Cytosol;Plasma membrane
+ENSG00000003147,;Cytosol;Vesicles
+ENSG00000003402,;Cytosol;Nucleus;Plasma membrane
+ENSG00000003756,Nucleoplasm;
+ENSG00000003989,;Cell Junctions;Plasma membrane
+ENSG00000004468,;Plasma membrane
+ENSG00000004478,Cytosol;Nucleoplasm;
+ENSG00000004487,Nucleoplasm;
+ENSG00000004660,;Cytosol
+ENSG00000004700,Nucleoplasm;
+ENSG00000004779,;Mitochondria
+ENSG00000004864,;Mitochondria
+ENSG00000004866,;Nucleoplasm
+ENSG00000004897,Nucleoplasm;
+ENSG00000004961,Mitochondria;
+ENSG00000004975,Nuclear bodies;Nucleoplasm;
+ENSG00000005007,;Nucleoplasm
+ENSG00000005020,;Cytosol;Nucleoplasm
+ENSG00000005022,;Mitochondria
+ENSG00000005073,;Nucleoplasm
+ENSG00000005100,;Nucleoli
+ENSG00000005156,;Nucleoplasm
+ENSG00000005194,;Mitochondria
+ENSG00000005339,Nuclear bodies;Nucleoplasm;
+ENSG00000005381,;Vesicles
+ENSG00000005436,;Nucleoplasm
+ENSG00000005469,;Vesicles
+ENSG00000005486,Golgi apparatus;
+ENSG00000005513,;Nucleus
+ENSG00000005700,;Nucleoplasm
+ENSG00000005810,;Nucleus
+ENSG00000005812,Nuclear bodies;
+ENSG00000005882,;Mitochondria
+ENSG00000005884,;Plasma membrane
+ENSG00000006042,;Nucleoplasm
+ENSG00000006047,;Nucleoli fibrillar center
+ENSG00000006062,;Cytosol
+ENSG00000006125,;Vesicles
+ENSG00000006194,;Cytosol
+ENSG00000006210,;Plasma membrane
+ENSG00000006453,Cytosol;Plasma membrane;
+ENSG00000006530,;Mitochondria
+ENSG00000006611,Cytosol;
+ENSG00000006638,;Plasma membrane
+ENSG00000006695,;Mitochondria
+ENSG00000006704,;Nucleoplasm
+ENSG00000006712,;Nucleoplasm
+ENSG00000006744,Nucleoplasm;
+ENSG00000006747,Plasma membrane;
+ENSG00000007080,Cytosol;Plasma membrane;
+ENSG00000007168,Centrosome;
+ENSG00000007372,Nucleoplasm;
+ENSG00000008018,;Nucleus
+ENSG00000008083,;Nucleus
+ENSG00000008086,Nucleoplasm;
+ENSG00000008128,;Cytosol;Nuclear speckles
+ENSG00000008226,;Cytosol
+ENSG00000008256,;Cytosol
+ENSG00000008294,Cytosol;Microtubule organizing center;
+ENSG00000008311,Mitochondria;Vesicles;
+ENSG00000008323,;Cell Junctions
+ENSG00000008405,;Nucleus
+ENSG00000008441,;Nucleoplasm
+ENSG00000008988,;Cytosol;Endoplasmic reticulum
+ENSG00000009307,Cytosol;
+ENSG00000009724,;Golgi apparatus
+ENSG00000009765,;Plasma membrane
+ENSG00000009844,;Cytosol;Vesicles
+ENSG00000009950,;Nucleus
+ENSG00000009954,;Nuclear bodies
+ENSG00000010017,;Cytosol;Nucleoplasm
+ENSG00000010030,Nucleoplasm;
+ENSG00000010072,;Nucleoplasm
+ENSG00000010219,Vesicles;
+ENSG00000010244,Nucleus;
+ENSG00000010256,;Mitochondria
+ENSG00000010270,;Vesicles
+ENSG00000010278,;Plasma membrane
+ENSG00000010292,;Cytosol;Nucleus
+ENSG00000010318,;Nucleoplasm
+ENSG00000010610,;Plasma membrane
+ENSG00000010626,;Nucleoli
+ENSG00000010671,;Vesicles
+ENSG00000010803,;Nucleoplasm
+ENSG00000010810,Cytosol;Plasma membrane;
+ENSG00000010818,;Nucleoplasm
+ENSG00000011052,Cytosol;
+ENSG00000011243,;Nuclear speckles
+ENSG00000011260,;Nucleoli
+ENSG00000011275,;Cytosol
+ENSG00000011295,Mitochondria;
+ENSG00000011304,;Nucleoplasm
+ENSG00000011376,;Mitochondria
+ENSG00000011405,;Nucleus
+ENSG00000011422,;Plasma membrane
+ENSG00000011426,Nucleoplasm;
+ENSG00000011451,Nucleoplasm;
+ENSG00000011454,Cytosol;
+ENSG00000011478,;Golgi apparatus
+ENSG00000011485,;Cytosol;Vesicles
+ENSG00000011523,;Microtubule organizing center
+ENSG00000012061,Nucleoplasm;
+ENSG00000012660,Endoplasmic reticulum;
+ENSG00000012779,;Nucleoplasm
+ENSG00000012822,Cytosol;
+ENSG00000013275,;Cytosol;Nucleus
+ENSG00000013364,Cytosol;
+ENSG00000013374,Nucleoli;Nucleus;
+ENSG00000013441,;Nuclear membrane;Nucleoplasm
+ENSG00000013561,;Cytosol
+ENSG00000013573,;Centrosome;Nucleoli fibrillar center;Nucleus
+ENSG00000013588,Plasma membrane;Vesicles;
+ENSG00000013619,;Nucleoplasm
+ENSG00000013810,Mitotic spindle;Centrosome;Cytosol;Microtubule organizing center
+ENSG00000014123,;Endoplasmic reticulum
+ENSG00000014138,;Nucleoplasm
+ENSG00000014216,;Cytosol
+ENSG00000014641,;Cytosol
+ENSG00000014919,;Mitochondria
+ENSG00000015153,;Nucleoplasm
+ENSG00000015171,;Nucleoplasm
+ENSG00000015475,;Cytosol
+ENSG00000016082,Nucleoplasm;
+ENSG00000017260,;Golgi apparatus
+ENSG00000018189,;Cytosol
+ENSG00000018408,Cytosol;Nucleoplasm;Nuclear bodies
+ENSG00000018510,Peroxisomes;
+ENSG00000019186,Mitochondria;
+ENSG00000019505,;Vesicles
+ENSG00000019582,;Golgi apparatus
+ENSG00000019995,;Cytosol;Nucleoplasm
+ENSG00000020129,;Cytosol
+ENSG00000020426,Nucleoplasm;
+ENSG00000020633,;Cytosol;Nucleus
+ENSG00000020922,Nucleoplasm;
+ENSG00000021355,;Cytoplasmic bodies
+ENSG00000021762,Vesicles;
+ENSG00000021776,Nucleoplasm;
+ENSG00000022267,;Cytosol
+ENSG00000022556,;Cytosol
+ENSG00000023191,Cytosol;Nucleoplasm
+ENSG00000023228,;Mitochondria
+ENSG00000023287,;Cytosol
+ENSG00000023330,Mitochondria;Nucleoplasm
+ENSG00000023445,;Cytosol;Nucleoplasm
+ENSG00000023572,Nucleoplasm;
+ENSG00000023608,;Nucleoli;Nucleus
+ENSG00000023697,;Nucleus
+ENSG00000023734,Cytosol;Nucleoplasm
+ENSG00000023892,Nucleoplasm;
+ENSG00000023902,;Mitochondria
+ENSG00000024422,;Plasma membrane
+ENSG00000024526,;Nucleoli fibrillar center;Nucleus
+ENSG00000025156,;Nucleoplasm
+ENSG00000025293,Nucleoplasm;Nuclear membrane
+ENSG00000025770,Nucleoplasm;Cytokinetic bridge
+ENSG00000025772,Cytosol;
+ENSG00000025796,;Endoplasmic reticulum
+ENSG00000026508,Golgi apparatus;Plasma membrane;
+ENSG00000027001,Mitochondria;
+ENSG00000028116,;Endoplasmic reticulum
+ENSG00000028203,;Nucleoplasm
+ENSG00000028277,Nucleoplasm;Vesicles;
+ENSG00000028528,Endosomes;Lysosomes
+ENSG00000028839,Nucleoplasm;
+ENSG00000029153,Nucleoli;Nucleus;
+ENSG00000029363,Nuclear speckles;
+ENSG00000029725,Vesicles;
+ENSG00000030582,Endoplasmic reticulum;Endosomes;Lysosomes;
+ENSG00000031691,Nucleoplasm;
+ENSG00000031698,Cytosol;
+ENSG00000031823,Nucleoplasm;
+ENSG00000032219,;Nucleoplasm
+ENSG00000032389,;Nucleoli;Nucleus
+ENSG00000033030,Nucleoplasm;
+ENSG00000033050,;Cytosol
+ENSG00000033170,Cytosol;Golgi apparatus;
+ENSG00000033178,Cytosol;Nucleoplasm;
+ENSG00000033327,;Plasma membrane
+ENSG00000033867,;Focal adhesion sites;Plasma membrane
+ENSG00000034152,;Cytosol;Nucleoplasm
+ENSG00000034693,;Peroxisomes
+ENSG00000035403,Focal adhesion sites;
+ENSG00000035664,;Vesicles
+ENSG00000035687,;Cytosol
+ENSG00000035928,Nucleus;
+ENSG00000036054,Golgi apparatus;
+ENSG00000036473,;Mitochondria
+ENSG00000036672,;Cytosol
+ENSG00000037042,;Microtubule organizing center
+ENSG00000037241,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000037280,Nuclear speckles;Plasma membrane;Cell Junctions
+ENSG00000037474,;Nucleus
+ENSG00000037757,;Cytosol;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000037897,Nucleus;
+ENSG00000038210,;Cytosol
+ENSG00000038219,Nucleoplasm;
+ENSG00000038358,Cytoplasmic bodies;Nucleoplasm
+ENSG00000038427,;Vesicles
+ENSG00000039068,;Cell Junctions;Golgi apparatus;Plasma membrane
+ENSG00000039123,;Nucleus
+ENSG00000039319,Cytosol;Vesicles;
+ENSG00000039560,;Nucleus
+ENSG00000039650,;Nucleoli;Nucleus
+ENSG00000040341,;Cytosol;Nucleoplasm
+ENSG00000040487,Vesicles;
+ENSG00000040531,;Vesicles
+ENSG00000040608,;Plasma membrane
+ENSG00000040633,Nucleoplasm;
+ENSG00000041357,;Cytosol;Nucleus
+ENSG00000041802,;Cytosol;Nuclear bodies;Nucleus
+ENSG00000042088,;Nucleus
+ENSG00000042493,Nucleus;
+ENSG00000043039,;Nucleoplasm
+ENSG00000043143,Nucleoplasm;
+ENSG00000043355,;Nuclear bodies
+ENSG00000044115,Cell Junctions;Plasma membrane;
+ENSG00000046604,Cell Junctions;Plasma membrane
+ENSG00000046647,;Cytosol
+ENSG00000046651,;Microtubules
+ENSG00000046774,;Cytosol;Nucleus
+ENSG00000047315,;Nucleoplasm
+ENSG00000047410,Nuclear membrane;
+ENSG00000047579,;Microtubules;Midbody
+ENSG00000047617,;Plasma membrane
+ENSG00000047849,;Cytosol;Microtubules;Plasma membrane
+ENSG00000047932,Golgi apparatus;Cytosol
+ENSG00000048028,;Nuclear bodies;Nucleoplasm
+ENSG00000048162,Nucleoli;
+ENSG00000048392,;Cytosol;Nucleoplasm
+ENSG00000048405,;Cytosol;Nucleoli
+ENSG00000048649,Nucleoplasm;
+ENSG00000048828,Cytosol;
+ENSG00000049283,;Vesicles
+ENSG00000049449,Endoplasmic reticulum;
+ENSG00000049541,;Nucleoplasm
+ENSG00000049618,;Nucleoplasm
+ENSG00000049768,;Nucleoplasm
+ENSG00000050405,Actin filaments;Cytosol;Focal adhesion sites;Plasma membrane;
+ENSG00000050426,;Mitochondria
+ENSG00000051128,;Cytosol;Plasma membrane
+ENSG00000051180,Nucleoli;Cytosol;Mitochondria
+ENSG00000051596,Nucleoplasm;
+ENSG00000052749,;Nucleoli
+ENSG00000052841,;Cytosol;Plasma membrane
+ENSG00000052850,;Nucleoplasm
+ENSG00000053371,;Cytosol
+ENSG00000053747,Endoplasmic reticulum;
+ENSG00000054118,Nuclear speckles;
+ENSG00000054282,Centrosome;
+ENSG00000054598,;Nucleoplasm
+ENSG00000054654,Nuclear membrane;
+ENSG00000054967,;Nucleus
+ENSG00000055044,Nucleoli fibrillar center;Nucleus
+ENSG00000055130,;Nucleus
+ENSG00000055208,;Cytosol
+ENSG00000055332,Cytosol;
+ENSG00000055483,Nuclear speckles;Nucleoli;
+ENSG00000055609,;Nucleoplasm
+ENSG00000055917,Cytosol;
+ENSG00000056586,;Vesicles
+ENSG00000057252,Endoplasmic reticulum;
+ENSG00000057294,Cell Junctions;Nucleoplasm
+ENSG00000057935,;Nucleus
+ENSG00000058091,;Cytosol;Nucleus
+ENSG00000058262,;Endoplasmic reticulum
+ENSG00000058272,Actin filaments;Cytosol;
+ENSG00000058335,;Golgi apparatus
+ENSG00000058404,;Cell Junctions;Plasma membrane
+ENSG00000058453,;Centrosome
+ENSG00000058600,Nucleoplasm;
+ENSG00000058668,;Plasma membrane
+ENSG00000058804,;Nuclear membrane
+ENSG00000059122,Nuclear bodies;
+ENSG00000059145,;Cytosol
+ENSG00000059377,;Vesicles
+ENSG00000059573,Mitochondria;
+ENSG00000059691,;Mitochondria
+ENSG00000060138,;Cytosol
+ENSG00000060237,;Cytosol
+ENSG00000060339,;Golgi apparatus;Nucleoplasm
+ENSG00000060688,;Nuclear speckles
+ENSG00000060762,Mitochondria;
+ENSG00000060971,Peroxisomes;
+ENSG00000061273,;Cytosol
+ENSG00000062485,Mitochondria;
+ENSG00000062598,;Cytosol
+ENSG00000062822,;Nucleoplasm
+ENSG00000063046,Cytosol;
+ENSG00000063127,;Golgi apparatus
+ENSG00000063176,;Vesicles
+ENSG00000063177,Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000063244,Nuclear speckles;Nucleoplasm
+ENSG00000063245,Cytosol;
+ENSG00000063322,;Nucleoplasm
+ENSG00000063438,;Cytosol;Nucleoplasm
+ENSG00000063660,;Plasma membrane
+ENSG00000064012,Cytosol;
+ENSG00000064115,;Cytosol;Nucleus
+ENSG00000064393,;Nucleus
+ENSG00000064419,Vesicles;
+ENSG00000064490,Nucleoplasm;
+ENSG00000064601,Vesicles;
+ENSG00000064607,Nucleoplasm;
+ENSG00000064655,;Cytosol
+ENSG00000064687,;Cell Junctions;Golgi apparatus;Plasma membrane
+ENSG00000064692,;Cytoplasmic bodies
+ENSG00000064703,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000064933,;Nuclear bodies;Nucleoplasm
+ENSG00000064961,Nucleoplasm;
+ENSG00000064989,;Plasma membrane
+ENSG00000064995,;Nucleoplasm
+ENSG00000065054,;Plasma membrane
+ENSG00000065135,;Centrosome
+ENSG00000065150,;Cytosol;Nucleoplasm
+ENSG00000065154,;Mitochondria
+ENSG00000065183,Nucleoli;
+ENSG00000065243,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000065325,;Plasma membrane
+ENSG00000065328,;Nucleoli;Nucleus
+ENSG00000065427,;Cytosol
+ENSG00000065457,;Nucleoplasm
+ENSG00000065485,;Golgi apparatus;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000065518,;Mitochondria
+ENSG00000065526,Nucleoplasm;
+ENSG00000065534,Actin filaments;Plasma membrane
+ENSG00000065548,Cytosol;
+ENSG00000065618,;Plasma membrane
+ENSG00000065675,Microtubule organizing center;
+ENSG00000065717,;Nuclear bodies
+ENSG00000065809,;Nucleoplasm
+ENSG00000065883,;Nuclear speckles
+ENSG00000065923,;Vesicles
+ENSG00000065970,;Nucleoli fibrillar center;Nucleus
+ENSG00000065978,Cytosol;Vesicles
+ENSG00000065989,;Plasma membrane
+ENSG00000066027,;Cytosol
+ENSG00000066044,;Cytosol;Nucleoli;Nucleus
+ENSG00000066135,;Nucleoli fibrillar center
+ENSG00000066136,;Nucleoplasm
+ENSG00000066230,;Plasma membrane
+ENSG00000066336,;Nucleoplasm
+ENSG00000066379,;Nucleoli fibrillar center
+ENSG00000066422,Nucleoplasm;
+ENSG00000066455,;Golgi apparatus
+ENSG00000066739,;Nucleoplasm
+ENSG00000066777,Cytosol;Golgi apparatus;Nucleoplasm;
+ENSG00000066855,;Cytosol;Mitochondria
+ENSG00000067048,;Cytosol;Nucleus
+ENSG00000067057,;Cytosol
+ENSG00000067066,;Nuclear bodies;Nucleus
+ENSG00000067113,;Plasma membrane
+ENSG00000067208,;Golgi apparatus;Vesicles
+ENSG00000067225,Cytosol;
+ENSG00000067334,Nucleoli;
+ENSG00000067365,;Nucleoli;Nucleus
+ENSG00000067369,Nuclear bodies;
+ENSG00000067596,;Nuclear bodies;Nucleoplasm
+ENSG00000067704,Mitochondria;
+ENSG00000067829,Mitochondria;
+ENSG00000067992,;Mitochondria
+ENSG00000068024,;Cytosol;Nucleoplasm
+ENSG00000068078,;Endoplasmic reticulum
+ENSG00000068305,;Nucleoplasm
+ENSG00000068323,;Nucleoplasm
+ENSG00000068394,Nucleoplasm;
+ENSG00000068650,Vesicles;
+ENSG00000068654,;Nucleoli fibrillar center;Nucleus
+ENSG00000068796,Centrosome;Nucleoli;Nucleus;
+ENSG00000068878,;Nucleoplasm
+ENSG00000069011,;Nucleoli
+ENSG00000069248,;Nuclear membrane
+ENSG00000069275,;Nucleus
+ENSG00000069329,;Endosomes;Lysosomes
+ENSG00000069399,;Nucleoplasm
+ENSG00000069849,;Plasma membrane
+ENSG00000069956,Cytosol;
+ENSG00000070010,Endoplasmic reticulum;
+ENSG00000070061,;Cytosol;Nucleoplasm
+ENSG00000070081,Golgi apparatus;
+ENSG00000070214,;Mitochondria
+ENSG00000070366,;Cytosol;Nucleoli
+ENSG00000070444,Nucleoplasm;
+ENSG00000070476,;Nucleoli
+ENSG00000070495,;Nucleoplasm
+ENSG00000070669,Cytosol;
+ENSG00000070756,;Cytosol
+ENSG00000070759,Nucleoplasm;
+ENSG00000070761,;Nucleus
+ENSG00000070785,;Cytosol;Vesicles
+ENSG00000070808,;Cell Junctions;Plasma membrane
+ENSG00000070814,Nucleoli fibrillar center;
+ENSG00000070831,Cytokinetic bridge;Microtubules;
+ENSG00000070882,;Cytosol;Nucleoli
+ENSG00000070950,Nuclear bodies;Nucleoplasm;
+ENSG00000070961,;Plasma membrane
+ENSG00000071127,;Cell Junctions;Plasma membrane
+ENSG00000071242,;Nucleoplasm
+ENSG00000071243,;Nucleus
+ENSG00000071282,;Cytosol;Nucleus
+ENSG00000071462,;Nucleoli;Nucleus
+ENSG00000071564,Nucleoplasm;
+ENSG00000071626,Cytosol;Nucleoplasm;
+ENSG00000071655,;Nucleoplasm
+ENSG00000071794,Nucleus;
+ENSG00000071859,Nucleoplasm;
+ENSG00000071894,Nucleoplasm;
+ENSG00000072133,;Nucleus
+ENSG00000072134,;Vesicles
+ENSG00000072163,;Focal adhesion sites
+ENSG00000072201,;Cell Junctions;Cytosol
+ENSG00000072274,;Endosomes;Lysosomes
+ENSG00000072310,;Cytosol;Golgi apparatus
+ENSG00000072364,;Nucleoli fibrillar center;Nucleus
+ENSG00000072501,Nucleoplasm;
+ENSG00000072518,;Plasma membrane
+ENSG00000072571,Centrosome;Cytosol;Microtubules;
+ENSG00000072682,Endoplasmic reticulum;Vesicles
+ENSG00000072736,;Cytosol;Nucleoplasm
+ENSG00000072756,Mitochondria;
+ENSG00000072778,;Mitochondria
+ENSG00000072832,;Centrosome;Cytosol
+ENSG00000072849,;Endoplasmic reticulum
+ENSG00000073008,;Plasma membrane
+ENSG00000073050,Nucleoplasm;
+ENSG00000073111,;Nucleoplasm
+ENSG00000073282,Nucleoplasm;
+ENSG00000073350,;Cytosol
+ENSG00000073536,;Nucleoli
+ENSG00000073578,Mitochondria;
+ENSG00000073584,;Nucleoplasm
+ENSG00000073614,;Nuclear bodies
+ENSG00000073712,;Focal adhesion sites;Nucleoplasm
+ENSG00000073756,;Endoplasmic reticulum
+ENSG00000073792,Cytosol;
+ENSG00000073921,;Vesicles
+ENSG00000073969,;Cytosol
+ENSG00000074047,;Nucleoli;Nucleus
+ENSG00000074071,;Mitochondria
+ENSG00000074181,;Actin filaments;Cytosol;Nucleoplasm
+ENSG00000074201,;Cytosol;Nucleus
+ENSG00000074219,Nucleoplasm;
+ENSG00000074266,;Nucleoplasm
+ENSG00000074319,;Cytosol
+ENSG00000074416,;Nucleoplasm
+ENSG00000074590,;Nucleoli fibrillar center;Nucleus
+ENSG00000074603,;Cytosol
+ENSG00000074696,Endoplasmic reticulum;
+ENSG00000074800,Cytosol;Plasma membrane;
+ENSG00000075131,;Nucleus
+ENSG00000075142,;Cytosol;Nucleoplasm
+ENSG00000075188,;Nucleoplasm
+ENSG00000075239,Mitochondria;
+ENSG00000075275,;Plasma membrane
+ENSG00000075292,Nucleoplasm;Vesicles
+ENSG00000075415,;Mitochondria
+ENSG00000075426,Nucleus;
+ENSG00000075618,;Cytosol;Plasma membrane
+ENSG00000075643,;
+ENSG00000075702,Cytosol;Microtubule organizing center
+ENSG00000075785,;Lysosomes
+ENSG00000075886,;Microtubules
+ENSG00000075891,;Nucleoli
+ENSG00000075914,;Nuclear speckles
+ENSG00000076003,Nucleoplasm;
+ENSG00000076043,;Mitochondria
+ENSG00000076053,Nucleoplasm;
+ENSG00000076108,Nuclear speckles;
+ENSG00000076201,;Nuclear bodies;Nucleoplasm
+ENSG00000076242,Nucleoplasm;
+ENSG00000076321,;Cytosol;Golgi apparatus
+ENSG00000076351,;Plasma membrane
+ENSG00000076513,;Plasma membrane
+ENSG00000076641,Plasma membrane;
+ENSG00000076706,Plasma membrane;
+ENSG00000076928,Cytosol;Plasma membrane
+ENSG00000076944,Cytosol;
+ENSG00000077009,Nucleoplasm;Vesicles;
+ENSG00000077044,;Cytosol
+ENSG00000077092,Nucleoplasm;
+ENSG00000077097,Nucleus;
+ENSG00000077157,;Actin filaments;Plasma membrane
+ENSG00000077235,;Nucleoli;Nucleus
+ENSG00000077254,;Golgi apparatus
+ENSG00000077312,Nucleoplasm;
+ENSG00000077348,Nucleoli;
+ENSG00000077380,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000077420,Cytosol;Plasma membrane;
+ENSG00000077463,;Nucleoplasm
+ENSG00000077498,Vesicles;
+ENSG00000077514,;Nucleus
+ENSG00000077549,Cytosol;Nucleoplasm;Vesicles;
+ENSG00000077721,;Cytosol;Nucleoplasm;Plasma membrane;Vesicles
+ENSG00000077782,;Nucleoli
+ENSG00000077935,;Nucleoplasm
+ENSG00000078018,;Cytosol;Nucleoli
+ENSG00000078043,;Nucleoplasm
+ENSG00000078053,;Cytosol
+ENSG00000078070,Mitochondria;
+ENSG00000078081,Vesicles;
+ENSG00000078140,;Cytosol
+ENSG00000078237,Cytosol;
+ENSG00000078246,;Nucleoli;Nucleus;Plasma membrane
+ENSG00000078399,;Nucleus
+ENSG00000078403,;Nucleoplasm
+ENSG00000078549,;Vesicles
+ENSG00000078668,;Mitochondria
+ENSG00000078674,Centrosome;
+ENSG00000078747,;Nucleoplasm
+ENSG00000078808,Golgi apparatus;
+ENSG00000078900,;Golgi apparatus;Nucleoplasm
+ENSG00000079102,;Nucleoplasm
+ENSG00000079112,;Cell Junctions
+ENSG00000079134,Nuclear speckles;
+ENSG00000079150,;Endoplasmic reticulum
+ENSG00000079246,Nucleoplasm;
+ENSG00000079277,;Nucleoplasm
+ENSG00000079308,Focal adhesion sites;
+ENSG00000079313,;Nuclear bodies;Nucleoplasm
+ENSG00000079332,;Endoplasmic reticulum
+ENSG00000079335,;Nucleoplasm
+ENSG00000079387,Focal adhesion sites;Nucleus;
+ENSG00000079432,;Nucleoplasm
+ENSG00000079435,;Cytosol
+ENSG00000079459,;Endoplasmic reticulum
+ENSG00000079691,;Cytosol
+ENSG00000079739,Actin filaments;
+ENSG00000079785,Cytosol;Nucleoplasm;
+ENSG00000079819,Plasma membrane;Cell Junctions;Nucleus
+ENSG00000079950,Lysosomes;
+ENSG00000079999,;Cytosol;Nucleoplasm
+ENSG00000080189,;Golgi apparatus
+ENSG00000080224,Nucleoplasm;
+ENSG00000080546,;Nucleoli fibrillar center;Nucleus
+ENSG00000080603,;Nuclear bodies;Nucleoplasm
+ENSG00000080608,;Nucleoli
+ENSG00000080819,Mitochondria;
+ENSG00000080823,;Endoplasmic reticulum
+ENSG00000080824,Cytosol;
+ENSG00000080839,Nucleoplasm;
+ENSG00000080986,;Nucleoplasm
+ENSG00000081019,;Nucleoplasm
+ENSG00000081026,;Cell Junctions
+ENSG00000081059,Nucleoplasm;
+ENSG00000081154,;Nucleus
+ENSG00000081181,;Mitochondria
+ENSG00000081189,;Vesicles
+ENSG00000081277,Nucleoplasm;
+ENSG00000081307,Cytosol;
+ENSG00000081377,;Nucleoplasm
+ENSG00000081721,;Nucleus
+ENSG00000082014,Nucleoplasm;
+ENSG00000082126,;Cytosol
+ENSG00000082146,;Cytosol
+ENSG00000082212,Mitochondria;
+ENSG00000082397,Plasma membrane;
+ENSG00000082497,;Nucleoplasm
+ENSG00000082512,;Cytosol
+ENSG00000082516,Cytosol;Nuclear bodies
+ENSG00000082556,;Plasma membrane
+ENSG00000082684,;Cytosol
+ENSG00000082701,Nucleus;
+ENSG00000082805,;Cytosol;Plasma membrane;Vesicles
+ENSG00000082898,Cytosol;Nuclear membrane;Nucleoplasm;Vesicles;
+ENSG00000083093,;Nucleoplasm
+ENSG00000083223,;Cytosol
+ENSG00000083307,;Nucleoplasm
+ENSG00000083312,;Cytoplasmic bodies;Cytosol;Nucleoplasm
+ENSG00000083454,;Cytosol
+ENSG00000083520,;Cytosol;Nucleus
+ENSG00000083535,;Microtubule organizing center
+ENSG00000083544,Cytosol;Nucleoplasm;
+ENSG00000083635,Nucleoli;Nucleus;
+ENSG00000083642,Nucleoplasm;
+ENSG00000083720,Mitochondria;
+ENSG00000083799,;Microtubule organizing center
+ENSG00000083845,;Cytosol;Endoplasmic reticulum
+ENSG00000083937,;Cytosol
+ENSG00000084072,;Nuclear speckles
+ENSG00000084092,;Mitochondria
+ENSG00000084207,;Cytosol;Mitochondria
+ENSG00000084453,;Plasma membrane
+ENSG00000084463,Nucleoplasm;
+ENSG00000084674,;Cytosol
+ENSG00000084676,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000084693,;Cytokinetic bridge
+ENSG00000084754,Mitochondria;
+ENSG00000084764,;Cytosol
+ENSG00000084774,;Nucleoplasm
+ENSG00000085224,;Nuclear bodies
+ENSG00000085231,;Nucleoplasm
+ENSG00000085274,;Nucleus
+ENSG00000085276,;Nuclear speckles
+ENSG00000085377,Cytosol;
+ENSG00000085382,;Endoplasmic reticulum
+ENSG00000085491,Mitochondria;
+ENSG00000085662,;Cytosol;Nucleus
+ENSG00000085719,;Cytosol;Nucleoli;Nucleus
+ENSG00000085721,;Nucleoli
+ENSG00000085733,;Plasma membrane
+ENSG00000085760,Mitochondria;
+ENSG00000085788,;Cytosol
+ENSG00000085832,Cytosol;Vesicles;
+ENSG00000085999,Nucleoplasm;
+ENSG00000086061,;Cytosol;Microtubules
+ENSG00000086062,Golgi apparatus;
+ENSG00000086065,;Cytosol;Midbody
+ENSG00000086102,Nucleus;Cytosol
+ENSG00000086200,Nucleoli fibrillar center;Nucleus;
+ENSG00000086232,;Cytosol;Nucleus
+ENSG00000086504,;Mitochondria
+ENSG00000086544,;Nuclear speckles
+ENSG00000086589,Nucleus;
+ENSG00000086598,;Vesicles
+ENSG00000086758,Cytosol;Nucleoplasm;
+ENSG00000086827,;Cytosol;Endoplasmic reticulum
+ENSG00000087053,;Vesicles
+ENSG00000087077,;Cytosol;Focal adhesion sites
+ENSG00000087087,Nucleoplasm;
+ENSG00000087095,;Cell Junctions;Nucleoli;Nucleus
+ENSG00000087191,;Cytosol;Plasma membrane
+ENSG00000087206,Nuclear bodies;
+ENSG00000087253,Endoplasmic reticulum;Lipid droplets;
+ENSG00000087263,;Cytosol;Nucleus
+ENSG00000087269,Nucleoli;Nucleus;
+ENSG00000087274,Nucleoplasm;Plasma membrane;
+ENSG00000087299,Mitochondria;
+ENSG00000087302,;Nucleoplasm
+ENSG00000087303,;Plasma membrane
+ENSG00000087365,Nuclear speckles;
+ENSG00000087460,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000087470,Cytosol;Vesicles
+ENSG00000087494,;Cytosol;Nucleoplasm
+ENSG00000087495,Nucleoplasm;
+ENSG00000087502,;Nucleoli;Vesicles
+ENSG00000087510,;Nucleoplasm
+ENSG00000087842,;Cytosol
+ENSG00000088002,;Cytosol;Vesicles
+ENSG00000088035,;Endoplasmic reticulum
+ENSG00000088205,Nucleoli;
+ENSG00000088247,Nucleoplasm;
+ENSG00000088280,;Vesicles
+ENSG00000088325,Cytokinetic bridge;Microtubule organizing center;Mitotic spindle;Nucleoplasm;
+ENSG00000088367,;Plasma membrane
+ENSG00000088538,Cytosol;
+ENSG00000088756,;Cell Junctions
+ENSG00000088808,;Cytosol;Nucleoplasm
+ENSG00000088826,;Nuclear membrane;Nucleoplasm
+ENSG00000088833,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000088888,Mitochondria;
+ENSG00000088930,Nucleoli;Nucleus;
+ENSG00000088992,;Cytosol;Nucleus
+ENSG00000089022,;Cytosol;Nucleoplasm
+ENSG00000089050,;Nucleoplasm
+ENSG00000089057,;Golgi apparatus;Vesicles
+ENSG00000089063,Endoplasmic reticulum;
+ENSG00000089154,Cytosol;
+ENSG00000089157,;Cytosol;Endoplasmic reticulum
+ENSG00000089159,Focal adhesion sites;Cytosol
+ENSG00000089195,;Nucleus
+ENSG00000089199,Vesicles;
+ENSG00000089220,;Plasma membrane
+ENSG00000089234,;Cytosol
+ENSG00000089250,;Plasma membrane
+ENSG00000089280,Nucleoplasm;
+ENSG00000089486,;Centrosome;Nucleoplasm
+ENSG00000089639,Cytosol;Nucleoplasm;
+ENSG00000089685,Cytokinetic bridge;
+ENSG00000089693,;Nucleoplasm
+ENSG00000089775,Nucleoplasm;
+ENSG00000089902,Nucleoplasm;
+ENSG00000090013,;Cytosol
+ENSG00000090020,;Plasma membrane
+ENSG00000090054,;Endoplasmic reticulum
+ENSG00000090060,Nucleoplasm;
+ENSG00000090061,;Nucleoplasm
+ENSG00000090097,;Cytosol
+ENSG00000090273,Cytosol;
+ENSG00000090316,Nucleoplasm;
+ENSG00000090447,;Nucleoplasm
+ENSG00000090487,;Cytosol;Vesicles
+ENSG00000090520,;Endoplasmic reticulum
+ENSG00000090565,;Microtubule organizing center;Vesicles
+ENSG00000090615,Golgi apparatus;
+ENSG00000090621,Cytosol;
+ENSG00000090674,;Plasma membrane
+ENSG00000090686,;Cytosol;Mitochondria;Nucleoplasm
+ENSG00000090776,;Plasma membrane
+ENSG00000090861,Cytosol;
+ENSG00000090863,;Golgi apparatus
+ENSG00000090889,Cytokinetic bridge;Nucleoplasm;
+ENSG00000090975,;Vesicles
+ENSG00000091010,;Nucleoplasm
+ENSG00000091073,;Nuclear membrane;Nucleoplasm
+ENSG00000091140,;Mitochondria
+ENSG00000091164,Cytosol;
+ENSG00000091262,;Plasma membrane
+ENSG00000091436,;Cytosol
+ENSG00000091483,Mitochondria;
+ENSG00000091490,Nucleus;
+ENSG00000091527,Cytosol;Nucleoli;Plasma membrane;
+ENSG00000091583,;Golgi apparatus
+ENSG00000091592,;Cytosol;Nucleoplasm
+ENSG00000091640,;Nucleus
+ENSG00000091732,;Nuclear membrane;Nucleus
+ENSG00000092036,;Focal adhesion sites;Plasma membrane
+ENSG00000092067,Nucleoplasm;
+ENSG00000092094,;Nucleoplasm
+ENSG00000092140,;Cytosol
+ENSG00000092148,;Nucleoli;Nucleus
+ENSG00000092199,Nucleoplasm;
+ENSG00000092201,;Nucleus
+ENSG00000092208,;Nuclear bodies
+ENSG00000092330,Nuclear bodies;
+ENSG00000092421,;Nucleus
+ENSG00000092531,;Plasma membrane
+ENSG00000092621,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000092820,Plasma membrane;
+ENSG00000092853,Nucleoplasm;Golgi apparatus
+ENSG00000092929,;Cytosol;Vesicles
+ENSG00000092964,;Cytosol
+ENSG00000092978,;Nuclear speckles
+ENSG00000093000,Nuclear membrane;Nucleoplasm;
+ENSG00000093009,;Cytosol;Nucleoplasm
+ENSG00000094631,;Nucleoplasm
+ENSG00000094804,;Cytokinetic bridge;Cytosol;Mitotic spindle;Nucleus
+ENSG00000094916,Nucleus;
+ENSG00000095002,;Nucleoplasm;Vesicles
+ENSG00000095066,;Cytosol;Vesicles
+ENSG00000095139,Golgi apparatus;Vesicles;
+ENSG00000095303,;Golgi apparatus;Vesicles
+ENSG00000095319,;Nucleus
+ENSG00000095574,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000095585,;Cytoplasmic bodies;Plasma membrane
+ENSG00000095637,;Focal adhesion sites;Plasma membrane
+ENSG00000095777,;Actin filaments
+ENSG00000095787,;Nucleoplasm
+ENSG00000095794,;Nucleus
+ENSG00000095951,;Nuclear bodies;Nucleoplasm
+ENSG00000096060,Nucleoplasm;
+ENSG00000096063,;Cytosol;Nucleus
+ENSG00000096088,;Nucleus
+ENSG00000096384,;Cytosol
+ENSG00000096401,;Nucleoplasm
+ENSG00000096654,;Nucleus
+ENSG00000096696,Cell Junctions;
+ENSG00000096717,Cytosol;Mitochondria;Nucleus;
+ENSG00000096746,;Nucleoplasm
+ENSG00000096968,;Nucleoplasm
+ENSG00000097007,Nucleoplasm;Nuclear bodies
+ENSG00000097021,;Cytosol
+ENSG00000097033,Cytosol;
+ENSG00000097046,;Cytokinetic bridge;Mitotic spindle;Nucleoplasm
+ENSG00000099139,;Golgi apparatus
+ENSG00000099194,Endoplasmic reticulum;
+ENSG00000099204,;Cytosol
+ENSG00000099260,;Actin filaments
+ENSG00000099284,Nucleoplasm;
+ENSG00000099290,;Vesicles
+ENSG00000099326,;Nucleus
+ENSG00000099331,;Cytosol
+ENSG00000099377,;Lipid droplets
+ENSG00000099381,;Nuclear speckles
+ENSG00000099622,;Nucleus
+ENSG00000099769,;Nucleoplasm
+ENSG00000099783,Nucleoplasm;
+ENSG00000099797,;Endoplasmic reticulum
+ENSG00000099800,;Mitochondria
+ENSG00000099804,;Cytosol;Nuclear speckles
+ENSG00000099810,;Cytosol
+ENSG00000099812,Focal adhesion sites;Plasma membrane;
+ENSG00000099817,;Nucleoplasm
+ENSG00000099821,;Mitochondria
+ENSG00000099849,;Microtubule organizing center
+ENSG00000099864,Plasma membrane;
+ENSG00000099875,;Nuclear bodies
+ENSG00000099889,Cell Junctions;Plasma membrane
+ENSG00000099901,;Cytosol
+ENSG00000099910,;Mitotic spindle
+ENSG00000099917,;Nucleus
+ENSG00000099940,;Cytosol;Nucleoplasm
+ENSG00000099942,Nucleoplasm;
+ENSG00000099956,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000099968,;Mitochondria
+ENSG00000099992,Plasma membrane;
+ENSG00000099995,Nuclear speckles;
+ENSG00000100003,;Cytosol;Nucleus
+ENSG00000100014,;Actin filaments
+ENSG00000100023,Nucleoplasm;
+ENSG00000100028,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000100029,Nucleoli;Nucleus;
+ENSG00000100083,;Nucleoplasm;Vesicles
+ENSG00000100084,Nucleoplasm;
+ENSG00000100105,;Nucleoplasm
+ENSG00000100116,;Nucleoplasm
+ENSG00000100139,;Cell Junctions;Cytosol;Microtubule organizing center
+ENSG00000100142,Nucleoli fibrillar center;Nucleus;
+ENSG00000100146,;Nucleoplasm
+ENSG00000100162,Cytosol;
+ENSG00000100196,Endoplasmic reticulum;
+ENSG00000100201,Nuclear speckles;
+ENSG00000100207,;Nuclear bodies;Nucleoplasm
+ENSG00000100209,;Cytosol;Mitochondria
+ENSG00000100216,Mitochondria;
+ENSG00000100220,;Cytosol;Nucleoplasm
+ENSG00000100225,;Cytosol;Nucleus
+ENSG00000100227,Nuclear speckles;Cytoplasmic bodies
+ENSG00000100239,;Cytosol
+ENSG00000100242,;Nuclear membrane
+ENSG00000100243,Endoplasmic reticulum;
+ENSG00000100266,;Plasma membrane;Vesicles
+ENSG00000100280,;Golgi apparatus;Vesicles
+ENSG00000100294,;Mitochondria
+ENSG00000100296,;Nucleoplasm
+ENSG00000100297,Nucleoplasm;
+ENSG00000100307,;Cytosol;Nucleoplasm
+ENSG00000100316,;Cytosol;Nucleoli
+ENSG00000100319,;Nucleoplasm
+ENSG00000100320,;Nucleoplasm
+ENSG00000100321,;Cytosol
+ENSG00000100324,Cytosol;Nuclear speckles;
+ENSG00000100330,;Cytosol;Nucleoplasm
+ENSG00000100336,;
+ENSG00000100345,;Actin filaments;Cytosol;Plasma membrane
+ENSG00000100347,Mitochondria;
+ENSG00000100348,Mitochondria;
+ENSG00000100353,;Cytosol
+ENSG00000100359,;Golgi apparatus
+ENSG00000100365,;Cytosol
+ENSG00000100372,;Peroxisomes
+ENSG00000100380,Cytosol;
+ENSG00000100387,;Nucleoplasm
+ENSG00000100393,Nucleoplasm;
+ENSG00000100401,Cytosol;Nuclear membrane;Vesicles;
+ENSG00000100410,Nucleoplasm;
+ENSG00000100412,;Mitochondria
+ENSG00000100413,;Centrosome;Nucleoplasm;Vesicles
+ENSG00000100416,;Mitochondria
+ENSG00000100425,;Nuclear speckles
+ENSG00000100426,;Nucleoplasm
+ENSG00000100442,;Cytosol
+ENSG00000100478,;Vesicles
+ENSG00000100479,;Nuclear bodies;Nucleoplasm
+ENSG00000100483,;Cytosol
+ENSG00000100490,Nucleoplasm;Vesicles;
+ENSG00000100503,Centrosome;Nucleoli
+ENSG00000100504,;Cytosol;Plasma membrane
+ENSG00000100505,;Cytosol
+ENSG00000100526,Cytosol;
+ENSG00000100532,;Nucleoplasm
+ENSG00000100568,Vesicles;Golgi apparatus
+ENSG00000100575,Mitochondria;
+ENSG00000100591,;Cytosol
+ENSG00000100593,;Nucleoplasm
+ENSG00000100603,Nucleoplasm;
+ENSG00000100604,;Vesicles
+ENSG00000100614,;Cytosol
+ENSG00000100629,;Microtubule organizing center
+ENSG00000100644,;Nuclear bodies;Nucleoplasm
+ENSG00000100650,Nucleoli;Nucleus;
+ENSG00000100664,;Cytosol;Plasma membrane
+ENSG00000100697,;Cytosol
+ENSG00000100714,Cytosol;
+ENSG00000100722,Nuclear speckles;
+ENSG00000100726,;Cytosol;Nuclear bodies
+ENSG00000100749,;Cytosol;Nucleus
+ENSG00000100764,Cytosol;Nucleoplasm;
+ENSG00000100784,Nucleoplasm;
+ENSG00000100796,;Nucleoplasm
+ENSG00000100804,;Centrosome;Nucleus
+ENSG00000100811,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000100813,;Nucleoplasm
+ENSG00000100815,Golgi apparatus;
+ENSG00000100823,Nucleus;
+ENSG00000100852,;Cytosol
+ENSG00000100867,Mitochondria;Nucleus;
+ENSG00000100883,;Cytosol
+ENSG00000100888,;Nucleoplasm
+ENSG00000100889,Mitochondria;
+ENSG00000100890,;Mitochondria
+ENSG00000100897,Nucleoplasm;
+ENSG00000100902,;Nucleoplasm
+ENSG00000100906,Cytosol;
+ENSG00000100916,;Nucleoplasm
+ENSG00000100941,Nuclear speckles;
+ENSG00000100949,Nucleoplasm;
+ENSG00000100968,;Cytosol;Nuclear speckles
+ENSG00000100982,;Cytokinetic bridge;Microtubules;Nucleoplasm
+ENSG00000100983,;Nucleus
+ENSG00000101049,;Nucleoplasm
+ENSG00000101057,Cytosol;Nucleoplasm;
+ENSG00000101076,;Nucleoplasm
+ENSG00000101096,;Cytosol;Nucleoplasm
+ENSG00000101109,Cytosol;Nucleoplasm;Nuclear bodies
+ENSG00000101115,Nucleoplasm;
+ENSG00000101138,Nucleoplasm;
+ENSG00000101146,;Nucleoli fibrillar center;Nucleus
+ENSG00000101158,;Nuclear bodies;Nucleoplasm
+ENSG00000101160,;Vesicles
+ENSG00000101161,Nuclear speckles;
+ENSG00000101187,;Cell Junctions
+ENSG00000101188,;Plasma membrane
+ENSG00000101189,;Nucleus
+ENSG00000101190,;Nucleoplasm
+ENSG00000101193,;Cell Junctions;Nucleoplasm
+ENSG00000101197,;Cytosol;Nucleus
+ENSG00000101199,;Golgi apparatus;Vesicles
+ENSG00000101210,Cytosol;Nucleoli;
+ENSG00000101213,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000101216,Nucleoplasm;
+ENSG00000101224,;Mitotic spindle;Vesicles
+ENSG00000101236,;Golgi apparatus
+ENSG00000101246,;Golgi apparatus
+ENSG00000101255,;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000101265,;Cytosol;Nucleoplasm
+ENSG00000101266,;Nucleoplasm
+ENSG00000101294,;Endoplasmic reticulum
+ENSG00000101306,;Endoplasmic reticulum
+ENSG00000101310,;Vesicles
+ENSG00000101347,;Nucleoplasm
+ENSG00000101361,Nucleoli fibrillar center;
+ENSG00000101365,Mitochondria;
+ENSG00000101367,Cytosol;Microtubule organizing center;
+ENSG00000101384,;Golgi apparatus;Plasma membrane
+ENSG00000101412,Nucleoplasm;Centrosome
+ENSG00000101413,;Nucleoplasm
+ENSG00000101439,;Golgi apparatus;Vesicles
+ENSG00000101440,;Vesicles
+ENSG00000101444,;Cytosol
+ENSG00000101445,;Nuclear speckles;Plasma membrane
+ENSG00000101457,Nucleus;
+ENSG00000101463,;Vesicles
+ENSG00000101473,;Vesicles
+ENSG00000101546,;Mitochondria
+ENSG00000101557,;Cytosol
+ENSG00000101558,Endoplasmic reticulum;
+ENSG00000101577,;Actin filaments;Cytosol;Plasma membrane
+ENSG00000101654,Nucleoplasm;
+ENSG00000101665,;Cytosol;Nucleoplasm
+ENSG00000101745,;Nucleoplasm
+ENSG00000101746,;Nucleus
+ENSG00000101751,;Nuclear speckles
+ENSG00000101773,;Nucleoplasm
+ENSG00000101811,Nuclear bodies;Nucleoplasm;
+ENSG00000101843,;Cytosol;Intermediate filaments
+ENSG00000101868,;Nucleoplasm
+ENSG00000101882,;Nucleoplasm
+ENSG00000101888,;Cytosol;Nucleoplasm
+ENSG00000101940,;Nucleoplasm
+ENSG00000101966,;Cytosol;Nucleoplasm
+ENSG00000102010,;Plasma membrane
+ENSG00000102030,Cytosol;Nucleoli;
+ENSG00000102034,;Nuclear bodies
+ENSG00000102038,;Nucleoplasm
+ENSG00000102081,Cytosol;
+ENSG00000102100,;Golgi apparatus
+ENSG00000102103,Nuclear speckles;
+ENSG00000102119,Nuclear membrane;Endoplasmic reticulum
+ENSG00000102178,;Cytosol;Nucleoplasm
+ENSG00000102181,;Plasma membrane
+ENSG00000102189,;Vesicles
+ENSG00000102195,;Plasma membrane
+ENSG00000102226,;Nucleoplasm
+ENSG00000102241,Nucleoplasm;
+ENSG00000102243,;Nucleus
+ENSG00000102271,;Microtubules
+ENSG00000102309,;Nucleoli;Nucleus
+ENSG00000102316,Cytosol;Nucleoli;Nucleus;
+ENSG00000102317,;Nucleoplasm
+ENSG00000102349,;Nucleoplasm
+ENSG00000102384,;Nuclear bodies
+ENSG00000102445,;Cytosol
+ENSG00000102471,Vesicles;
+ENSG00000102554,;Nucleoplasm
+ENSG00000102572,;Cytosol;Nucleoli
+ENSG00000102683,;Nucleoplasm
+ENSG00000102699,;Cytosol
+ENSG00000102710,;Nucleoli fibrillar center
+ENSG00000102738,;Mitochondria
+ENSG00000102755,;Plasma membrane
+ENSG00000102760,;Nucleoli;Nucleus
+ENSG00000102786,Nucleoplasm;Actin filaments
+ENSG00000102796,;Nucleoplasm
+ENSG00000102870,;Nucleus
+ENSG00000102878,;Nuclear speckles
+ENSG00000102897,;Nucleoplasm
+ENSG00000102901,Nuclear bodies;
+ENSG00000102908,;Cytosol;Nucleus
+ENSG00000102935,Nucleus;
+ENSG00000102967,Mitochondria;
+ENSG00000102974,;Nucleoplasm
+ENSG00000102977,Nuclear bodies;
+ENSG00000102978,;Cytosol;Microtubules;Nucleoplasm
+ENSG00000102981,;Actin filaments;Cell Junctions;Cytosol
+ENSG00000102984,;Nuclear speckles
+ENSG00000103005,;Nucleus
+ENSG00000103035,Nucleoplasm;
+ENSG00000103037,;Nucleus
+ENSG00000103056,;Endoplasmic reticulum
+ENSG00000103066,;Vesicles
+ENSG00000103067,Nucleoplasm;
+ENSG00000103121,;Mitochondria
+ENSG00000103126,;Nucleoli;Vesicles
+ENSG00000103168,;Nucleoli fibrillar center;Nucleus
+ENSG00000103194,Cytosol;Nucleoplasm;
+ENSG00000103197,Cytosol;
+ENSG00000103199,Cytosol;Nucleoplasm;
+ENSG00000103202,;Mitochondria
+ENSG00000103222,;Plasma membrane
+ENSG00000103249,;Nucleoplasm
+ENSG00000103257,;Cytosol;Plasma membrane
+ENSG00000103266,;Cytosol;Nucleoplasm
+ENSG00000103274,;Cytosol
+ENSG00000103275,Cytosol;
+ENSG00000103316,;Cytosol
+ENSG00000103343,;Nucleoplasm
+ENSG00000103351,;Nucleoplasm
+ENSG00000103356,;Mitochondria
+ENSG00000103365,Golgi apparatus;
+ENSG00000103381,;Cytosol;Plasma membrane
+ENSG00000103423,;Mitochondria
+ENSG00000103490,;Cytosol;Nucleoli;Nucleus
+ENSG00000103494,;Cytosol
+ENSG00000103495,Nucleus;
+ENSG00000103496,Plasma membrane;
+ENSG00000103507,;Mitochondria
+ENSG00000103510,;Nucleoplasm
+ENSG00000103540,;Centrosome
+ENSG00000103549,Nucleoplasm;
+ENSG00000103550,;Nucleoli
+ENSG00000103591,;Cytosol
+ENSG00000103642,;Mitochondria
+ENSG00000103671,;Nuclear bodies;Nucleoplasm
+ENSG00000103769,Microtubule organizing center;Vesicles;
+ENSG00000103811,;Vesicles
+ENSG00000103978,;Golgi apparatus
+ENSG00000103995,;Centrosome
+ENSG00000104059,;Nucleus
+ENSG00000104064,;Nucleoplasm
+ENSG00000104067,Cell Junctions;
+ENSG00000104112,Vesicles;
+ENSG00000104131,Cytosol;
+ENSG00000104133,;Cytosol;Nucleoli;Plasma membrane
+ENSG00000104147,;Nucleoplasm
+ENSG00000104177,;Nucleoplasm
+ENSG00000104218,;Microtubule organizing center
+ENSG00000104299,Nucleoplasm;
+ENSG00000104312,Cytosol;
+ENSG00000104313,;Nuclear bodies;Nucleoplasm
+ENSG00000104324,;Golgi apparatus;Vesicles
+ENSG00000104325,;Mitochondria
+ENSG00000104327,;Vesicles
+ENSG00000104331,;Golgi apparatus
+ENSG00000104343,;Nucleoli
+ENSG00000104356,;Nucleoli
+ENSG00000104369,;Nucleus
+ENSG00000104381,;Mitochondria
+ENSG00000104408,Cytosol;Nuclear bodies;
+ENSG00000104413,Nuclear bodies;Nucleoplasm;
+ENSG00000104419,;Cytosol;Microtubules
+ENSG00000104442,;Mitochondria
+ENSG00000104447,;Nucleoplasm
+ENSG00000104450,;Cytosol
+ENSG00000104497,;Vesicles
+ENSG00000104517,;Cytosol;Nucleoplasm
+ENSG00000104518,;Nucleoplasm
+ENSG00000104529,;Nucleoli fibrillar center;Nucleus
+ENSG00000104537,;Plasma membrane
+ENSG00000104611,Cytosol;
+ENSG00000104671,;Cytosol;Nucleoli;Plasma membrane
+ENSG00000104687,;Cytosol
+ENSG00000104689,;Nucleoplasm
+ENSG00000104691,;Endoplasmic reticulum
+ENSG00000104695,;Nucleoplasm
+ENSG00000104722,Intermediate filaments;
+ENSG00000104731,;Nucleoli
+ENSG00000104738,Nucleoplasm;
+ENSG00000104756,;Nucleoplasm
+ENSG00000104765,Mitochondria;Nuclear speckles
+ENSG00000104805,;Golgi apparatus;Microtubules
+ENSG00000104823,;Mitochondria
+ENSG00000104824,;Nucleoplasm
+ENSG00000104833,;Microtubules
+ENSG00000104852,Nucleoplasm;
+ENSG00000104859,Nucleus;
+ENSG00000104880,Cytosol;
+ENSG00000104881,Cytosol;
+ENSG00000104884,;Nucleoplasm
+ENSG00000104885,Nucleoplasm;
+ENSG00000104889,Cytosol;Nucleus;
+ENSG00000104960,;Nucleus
+ENSG00000104964,;Nucleoplasm
+ENSG00000104973,;Nucleoplasm
+ENSG00000104976,;Nuclear bodies;Nucleoplasm
+ENSG00000104979,;Nucleoli;Nucleus
+ENSG00000104980,Mitochondria;
+ENSG00000105011,;Nucleoplasm
+ENSG00000105053,;Nucleus
+ENSG00000105058,;Nucleoli;Nucleus
+ENSG00000105063,Cytosol;
+ENSG00000105127,;Nucleoplasm
+ENSG00000105136,;Nucleoli fibrillar center;Nucleus
+ENSG00000105173,Nucleoplasm;
+ENSG00000105176,;Cytosol;Nucleoplasm
+ENSG00000105186,Cytosol;
+ENSG00000105193,Cytosol;Endoplasmic reticulum;
+ENSG00000105197,;Mitochondria;Nucleoplasm
+ENSG00000105202,Nucleoli fibrillar center;
+ENSG00000105220,;Cytosol;Plasma membrane
+ENSG00000105221,;Cytosol;Nucleus
+ENSG00000105248,;
+ENSG00000105254,;Cytosol
+ENSG00000105258,Nucleoplasm;
+ENSG00000105281,Plasma membrane;
+ENSG00000105287,;Cytosol;Nucleoplasm
+ENSG00000105289,Cell Junctions;
+ENSG00000105298,;Nuclear speckles;Nucleoplasm
+ENSG00000105323,Nucleoplasm;
+ENSG00000105325,;Nuclear membrane;Nucleoplasm
+ENSG00000105355,Lipid droplets;Cytosol
+ENSG00000105364,;Cytosol;Endoplasmic reticulum;Nucleoli;Nucleoli fibrillar center;Nucleus
+ENSG00000105372,;Nucleoplasm
+ENSG00000105373,Nucleoli;
+ENSG00000105379,Mitochondria;
+ENSG00000105383,;Plasma membrane
+ENSG00000105388,;Plasma membrane
+ENSG00000105393,;Cytosol;Nuclear bodies;Nucleus
+ENSG00000105397,;Cytosol
+ENSG00000105398,;Cytosol
+ENSG00000105401,Cytosol;
+ENSG00000105438,;Golgi apparatus;Vesicles
+ENSG00000105443,;Cytosol;Plasma membrane
+ENSG00000105447,;Nucleoli
+ENSG00000105483,Cytosol;Nucleoplasm;
+ENSG00000105486,;Nucleoplasm
+ENSG00000105497,;Cytosol;Nucleoplasm
+ENSG00000105509,;Plasma membrane
+ENSG00000105607,;Mitochondria
+ENSG00000105610,;Nucleoplasm
+ENSG00000105618,;Nucleus
+ENSG00000105619,;Nuclear membrane;Nucleoplasm
+ENSG00000105662,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000105669,Golgi apparatus;
+ENSG00000105676,Cytosol;
+ENSG00000105698,Nucleoplasm;
+ENSG00000105701,;Cytosol;Endoplasmic reticulum;Mitochondria
+ENSG00000105705,Nucleoplasm;
+ENSG00000105717,Vesicles;
+ENSG00000105722,Nucleoplasm;
+ENSG00000105732,;Nucleoplasm
+ENSG00000105737,;Plasma membrane
+ENSG00000105750,;Nucleus
+ENSG00000105755,Mitochondria;
+ENSG00000105810,;Cytosol;Nucleoplasm
+ENSG00000105819,;Mitochondria
+ENSG00000105821,;Cytosol
+ENSG00000105849,;Nucleoli fibrillar center;Nucleus
+ENSG00000105851,;Plasma membrane
+ENSG00000105856,Nuclear speckles;
+ENSG00000105866,Nucleoplasm;Cytosol
+ENSG00000105879,;Nuclear speckles
+ENSG00000105928,Cytosol;
+ENSG00000105939,Cytosol;
+ENSG00000105953,Mitochondria;
+ENSG00000105963,;Cytosol
+ENSG00000105967,;Nucleoplasm
+ENSG00000105974,;Golgi apparatus
+ENSG00000105976,;Cytosol;Plasma membrane
+ENSG00000105993,;Nucleoplasm
+ENSG00000105997,;Nucleoplasm
+ENSG00000106009,;Nucleoplasm
+ENSG00000106028,;Mitochondria
+ENSG00000106066,;Endoplasmic reticulum
+ENSG00000106070,;Vesicles
+ENSG00000106077,;Mitochondria
+ENSG00000106086,;Golgi apparatus
+ENSG00000106105,;Cytosol
+ENSG00000106125,;Cytosol;Vesicles
+ENSG00000106153,Mitochondria;
+ENSG00000106211,Cytosol;Plasma membrane
+ENSG00000106244,Cytosol;Plasma membrane;
+ENSG00000106266,;Vesicles
+ENSG00000106278,;Cytosol
+ENSG00000106290,;Nucleoplasm
+ENSG00000106341,;Nucleoplasm
+ENSG00000106344,Nucleoli;
+ENSG00000106348,;Cytosol;Rods & Rings
+ENSG00000106367,;Golgi apparatus;Vesicles
+ENSG00000106459,;Nucleoplasm
+ENSG00000106460,;Endosomes;Lysosomes
+ENSG00000106462,;Nucleoplasm
+ENSG00000106546,;Cytosol;Nucleoplasm
+ENSG00000106554,;Mitochondria
+ENSG00000106603,;Mitochondria
+ENSG00000106605,;Cytosol
+ENSG00000106608,;Cytosol
+ENSG00000106624,;Vesicles
+ENSG00000106628,Nucleoplasm;
+ENSG00000106638,;Cytosol
+ENSG00000106683,;Cytosol;Nuclear speckles
+ENSG00000106723,;Nucleoplasm
+ENSG00000106799,;Plasma membrane
+ENSG00000106803,Endoplasmic reticulum;
+ENSG00000106809,;Endoplasmic reticulum
+ENSG00000106829,;Nucleus
+ENSG00000106948,;Centrosome;Nucleoplasm
+ENSG00000106976,;Nucleoplasm
+ENSG00000106992,;Cytosol
+ENSG00000106993,;Cytosol
+ENSG00000107104,;Plasma membrane
+ENSG00000107130,Plasma membrane;
+ENSG00000107159,Plasma membrane;Cytosol
+ENSG00000107165,;Vesicles
+ENSG00000107175,;Cytosol
+ENSG00000107185,Cytosol;Plasma membrane
+ENSG00000107201,;Cytosol
+ENSG00000107223,;Cytosol;Nucleus
+ENSG00000107249,;Nucleoplasm
+ENSG00000107262,;Nucleoplasm
+ENSG00000107282,;Golgi apparatus
+ENSG00000107290,;Nucleus
+ENSG00000107317,;Nucleoplasm
+ENSG00000107338,Cytosol;Nucleoplasm;
+ENSG00000107371,;Nucleoplasm
+ENSG00000107438,;Actin filaments
+ENSG00000107485,;Nucleoplasm
+ENSG00000107560,;Vesicles
+ENSG00000107566,;Endoplasmic reticulum
+ENSG00000107581,;Cytosol
+ENSG00000107625,Nucleoli;
+ENSG00000107651,Vesicles;
+ENSG00000107669,;Nucleus
+ENSG00000107672,Nucleoplasm;
+ENSG00000107679,Nucleus;Cytosol
+ENSG00000107745,;Mitochondria
+ENSG00000107796,;Actin filaments
+ENSG00000107798,;Vesicles
+ENSG00000107819,Mitochondria;
+ENSG00000107862,;Golgi apparatus
+ENSG00000107863,;Cell Junctions;Plasma membrane
+ENSG00000107874,Cytosol;Nucleoplasm;
+ENSG00000107882,;Nucleus
+ENSG00000107897,Peroxisomes;
+ENSG00000107902,;Cytosol;Nuclear speckles
+ENSG00000107929,Cytosol;
+ENSG00000107937,Nucleoli;
+ENSG00000107949,;Nucleoplasm
+ENSG00000107951,;Mitochondria
+ENSG00000107959,;Mitochondria
+ENSG00000107960,;Nucleus
+ENSG00000107968,;Cytosol
+ENSG00000108021,;Cytosol;Nucleus
+ENSG00000108039,Cytosol;
+ENSG00000108055,;Nucleoplasm
+ENSG00000108064,Mitochondria;
+ENSG00000108091,;Cytosol
+ENSG00000108094,Nucleoplasm;
+ENSG00000108107,;Cytosol;Endoplasmic reticulum
+ENSG00000108179,;Mitochondria
+ENSG00000108219,;Vesicles
+ENSG00000108256,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000108262,Cytosol;Focal adhesion sites;
+ENSG00000108298,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000108306,;
+ENSG00000108312,Nucleoli fibrillar center;
+ENSG00000108344,;Cytosol;Nucleoplasm
+ENSG00000108384,;Cytosol;Mitochondria;Nucleus
+ENSG00000108387,;Nucleoplasm
+ENSG00000108406,;Nucleus
+ENSG00000108423,Cytosol;Nucleoplasm;
+ENSG00000108424,;Cytosol;Nuclear membrane;Nucleoplasm
+ENSG00000108433,;Golgi apparatus;Nucleoplasm
+ENSG00000108439,;Cytosol;Nucleoplasm
+ENSG00000108443,;Nucleoplasm
+ENSG00000108465,;Cytosol
+ENSG00000108468,;Nuclear bodies;Nucleus
+ENSG00000108469,;Cytosol;Nucleus
+ENSG00000108510,;Nucleus
+ENSG00000108515,;Cytosol;Plasma membrane
+ENSG00000108518,;Cytosol
+ENSG00000108557,Nucleoplasm;
+ENSG00000108559,;Nucleoplasm
+ENSG00000108576,;Golgi apparatus;Vesicles
+ENSG00000108578,;Cytosol
+ENSG00000108588,Endoplasmic reticulum;
+ENSG00000108591,;Cytosol
+ENSG00000108592,Nucleoli;
+ENSG00000108599,;Cytosol
+ENSG00000108602,Cytosol;
+ENSG00000108604,Nucleoplasm;
+ENSG00000108651,Nucleoli;
+ENSG00000108654,Nucleoplasm;
+ENSG00000108774,Endosomes;
+ENSG00000108786,;Cytosol
+ENSG00000108788,;Cytosol;Nuclear membrane;Nucleoplasm
+ENSG00000108799,;Nucleoplasm
+ENSG00000108829,Endoplasmic reticulum;
+ENSG00000108839,;Cytosol
+ENSG00000108840,;Cytosol;Nuclear speckles
+ENSG00000108848,Nuclear speckles;
+ENSG00000108854,;Nuclear speckles
+ENSG00000108861,;Nucleoplasm
+ENSG00000108883,;Nucleoplasm
+ENSG00000108924,Nucleus;
+ENSG00000108961,;Nucleoplasm
+ENSG00000108984,;Cytosol;Nucleus
+ENSG00000109072,;Endoplasmic reticulum;Vesicles
+ENSG00000109079,Nucleoli;
+ENSG00000109111,;Cytosol;Nucleoplasm
+ENSG00000109118,Nucleoplasm;
+ENSG00000109132,Nucleoplasm;
+ENSG00000109171,Centrosome;Cytosol;
+ENSG00000109184,;Vesicles
+ENSG00000109189,Nucleoli;
+ENSG00000109205,;Cytosol;Nucleoplasm
+ENSG00000109220,Plasma membrane;Vesicles;
+ENSG00000109320,;Cytosol;Nucleoplasm
+ENSG00000109323,;Vesicles
+ENSG00000109381,;Nuclear bodies;Nucleoplasm
+ENSG00000109390,;Mitochondria
+ENSG00000109445,;Nucleoli
+ENSG00000109475,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000109519,;Mitochondria
+ENSG00000109534,;Nucleoli fibrillar center
+ENSG00000109586,Golgi apparatus;
+ENSG00000109606,Nuclear speckles;
+ENSG00000109670,;Nucleoplasm;Vesicles
+ENSG00000109674,Nucleoplasm;
+ENSG00000109685,;Nucleus
+ENSG00000109686,;Cytosol;Nucleoplasm
+ENSG00000109756,;Vesicles
+ENSG00000109762,;Vesicles
+ENSG00000109787,Nucleoplasm;
+ENSG00000109814,Nucleoplasm;
+ENSG00000109819,;Nucleoplasm
+ENSG00000109846,Cytosol;Plasma membrane;
+ENSG00000109854,;Cytosol
+ENSG00000109861,;Vesicles
+ENSG00000109911,;Nucleoplasm
+ENSG00000109919,;Mitochondria
+ENSG00000109920,Nuclear speckles;
+ENSG00000109944,;Nucleoplasm
+ENSG00000109956,;Vesicles
+ENSG00000110002,Nucleus;
+ENSG00000110025,;Cytosol
+ENSG00000110031,Cytosol;Focal adhesion sites;Nuclear speckles
+ENSG00000110047,;Plasma membrane
+ENSG00000110048,Cytosol;Golgi apparatus;Nucleus
+ENSG00000110063,;Cytosol;Nucleoplasm
+ENSG00000110066,;Nucleus
+ENSG00000110074,;Mitochondria
+ENSG00000110075,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000110090,;Mitochondria
+ENSG00000110092,;Nucleoplasm
+ENSG00000110104,Nucleoli;Nucleus;
+ENSG00000110107,Nuclear speckles;
+ENSG00000110172,;Cytosol
+ENSG00000110218,Plasma membrane;
+ENSG00000110274,Centrosome;Nucleoplasm
+ENSG00000110321,Cytosol;
+ENSG00000110330,;Cytosol;Nucleoli fibrillar center;Nucleus
+ENSG00000110344,;Nuclear speckles
+ENSG00000110367,;Cytoplasmic bodies
+ENSG00000110395,;Cytosol
+ENSG00000110422,;Cytosol;Nuclear bodies
+ENSG00000110446,;Vesicles
+ENSG00000110514,;Cytosol
+ENSG00000110536,;Mitochondria
+ENSG00000110619,Cytosol;
+ENSG00000110651,;Plasma membrane
+ENSG00000110675,;Cytosol
+ENSG00000110697,Cytosol;Cytoplasmic bodies;Microtubule organizing center
+ENSG00000110711,;Cytosol
+ENSG00000110713,;Nucleoplasm
+ENSG00000110717,;Mitochondria
+ENSG00000110768,Nucleoplasm;
+ENSG00000110801,;Cytosol
+ENSG00000110851,;Nucleoplasm
+ENSG00000110888,;Cytosol
+ENSG00000110906,;Nucleoplasm
+ENSG00000110911,;Mitochondria
+ENSG00000110931,;Cytosol
+ENSG00000110955,Mitochondria;
+ENSG00000110958,;Cytosol
+ENSG00000111011,Nuclear speckles;
+ENSG00000111049,;Nucleoplasm
+ENSG00000111057,Cytosol;
+ENSG00000111087,Cytosol;Nucleoplasm;
+ENSG00000111110,;Nucleoplasm
+ENSG00000111142,;Cytosol
+ENSG00000111144,;Cytosol;Nucleoplasm
+ENSG00000111145,;Nucleoplasm
+ENSG00000111206,;Nucleoli;Nucleus
+ENSG00000111237,;Cytosol
+ENSG00000111266,;Nucleoplasm
+ENSG00000111276,;Nucleus
+ENSG00000111300,;Cytosol
+ENSG00000111321,;Golgi apparatus
+ENSG00000111325,;Nuclear bodies;Nucleoplasm
+ENSG00000111328,;Nucleoplasm
+ENSG00000111331,;Cytosol;Nucleoplasm
+ENSG00000111348,;Cytosol
+ENSG00000111358,;Nucleoplasm
+ENSG00000111361,;Cytosol
+ENSG00000111364,;Cytosol;Nucleoli;Nucleus
+ENSG00000111424,Nucleoplasm;
+ENSG00000111432,;Nucleoplasm
+ENSG00000111530,Cytosol;Golgi apparatus;Nucleoplasm;
+ENSG00000111540,;Vesicles
+ENSG00000111554,;Centrosome
+ENSG00000111602,;Nucleus
+ENSG00000111605,Nuclear speckles;Nucleoplasm;
+ENSG00000111615,Nucleoli;Nucleus;
+ENSG00000111639,;Mitochondria
+ENSG00000111640,Cytosol;Plasma membrane;
+ENSG00000111641,;Nucleoli
+ENSG00000111642,Nucleus;
+ENSG00000111652,;Nucleoplasm
+ENSG00000111653,;Nucleus
+ENSG00000111669,Nucleoplasm;
+ENSG00000111670,;Golgi apparatus
+ENSG00000111674,;Cytosol;Plasma membrane
+ENSG00000111676,Nucleoplasm;
+ENSG00000111678,;Nuclear speckles
+ENSG00000111679,;Nucleoli;Nucleus
+ENSG00000111700,;Plasma membrane
+ENSG00000111707,;Nuclear bodies
+ENSG00000111711,;Vesicles
+ENSG00000111716,Cytosol;
+ENSG00000111727,;Nucleoplasm
+ENSG00000111752,;Nucleus
+ENSG00000111775,;Mitochondria
+ENSG00000111802,;Nuclear bodies;Nucleoplasm
+ENSG00000111816,;Cytosol;Nucleus
+ENSG00000111817,;Cytosol;Nucleoplasm
+ENSG00000111834,;Nucleus
+ENSG00000111845,;Nucleoplasm
+ENSG00000111846,;Golgi apparatus
+ENSG00000111875,Nucleus;
+ENSG00000111879,;Golgi apparatus
+ENSG00000111885,;Golgi apparatus
+ENSG00000111911,;Cytosol;Nucleoli
+ENSG00000112029,;Nucleoplasm
+ENSG00000112039,;Nucleoplasm
+ENSG00000112062,;Nuclear speckles
+ENSG00000112081,;Nucleoplasm
+ENSG00000112118,Nucleoplasm;
+ENSG00000112130,;Nucleus
+ENSG00000112139,;Golgi apparatus;Plasma membrane
+ENSG00000112167,Vesicles;
+ENSG00000112182,;Cytosol;Nucleus
+ENSG00000112183,Cytosol;Nucleoplasm;
+ENSG00000112208,;Nucleoplasm
+ENSG00000112210,Cytosol;Plasma membrane;
+ENSG00000112234,Nuclear speckles;
+ENSG00000112237,;Nucleoplasm
+ENSG00000112242,;Nuclear speckles;Nucleoplasm
+ENSG00000112249,;Cytosol
+ENSG00000112276,;Cell Junctions;Plasma membrane
+ENSG00000112294,Mitochondria;
+ENSG00000112306,;Cytosol
+ENSG00000112312,Nucleoplasm;
+ENSG00000112357,;Vesicles
+ENSG00000112425,Nucleoplasm;
+ENSG00000112473,;Endoplasmic reticulum
+ENSG00000112531,;Nucleoplasm
+ENSG00000112561,;Nucleoplasm
+ENSG00000112578,Nucleoli;Nucleus
+ENSG00000112592,;Nucleoplasm
+ENSG00000112624,;Nucleoplasm
+ENSG00000112658,;Nucleus
+ENSG00000112685,;Vesicles
+ENSG00000112697,;Mitochondria
+ENSG00000112701,;Nucleoplasm
+ENSG00000112739,;Nuclear speckles
+ENSG00000112782,;Plasma membrane
+ENSG00000112851,;Nuclear speckles;Plasma membrane
+ENSG00000112877,;Centrosome
+ENSG00000112893,;Golgi apparatus
+ENSG00000112941,;Golgi apparatus;Nuclear membrane;Nucleoplasm
+ENSG00000112964,;Plasma membrane
+ENSG00000112972,;Cytosol;Nucleus;Plasma membrane
+ENSG00000112984,;Cleavage furrow;Cytokinetic bridge
+ENSG00000112992,Mitochondria;
+ENSG00000113013,Mitochondria;
+ENSG00000113083,;Endoplasmic reticulum
+ENSG00000113108,;Cytosol
+ENSG00000113141,Nuclear speckles;
+ENSG00000113163,Golgi apparatus;Nucleoplasm;
+ENSG00000113194,Lipid droplets;Endoplasmic reticulum
+ENSG00000113205,;Vesicles
+ENSG00000113282,;Vesicles
+ENSG00000113312,Cytosol;
+ENSG00000113319,;Endoplasmic reticulum
+ENSG00000113328,;Nucleoplasm
+ENSG00000113368,Nuclear membrane;
+ENSG00000113384,;Golgi apparatus;Vesicles
+ENSG00000113387,;Nucleoli;Nucleus
+ENSG00000113391,;Cytosol;Nucleoplasm
+ENSG00000113407,;Cytosol
+ENSG00000113456,;Nucleoplasm
+ENSG00000113460,Nucleoli;
+ENSG00000113522,Nucleoplasm;
+ENSG00000113558,;Nucleus
+ENSG00000113569,Nuclear membrane;
+ENSG00000113580,Cytosol;Nucleoplasm;Mitochondria
+ENSG00000113593,;Nuclear bodies
+ENSG00000113643,Cytosol;
+ENSG00000113648,;Nucleus
+ENSG00000113649,Nucleoplasm;
+ENSG00000113657,;Cytosol
+ENSG00000113658,;Cytosol;Nucleoplasm
+ENSG00000113719,Vesicles;Nucleoplasm
+ENSG00000113721,;Vesicles
+ENSG00000113734,;Endoplasmic reticulum
+ENSG00000113758,;Actin filaments
+ENSG00000113761,Nucleus;
+ENSG00000113810,;Cytosol;Nuclear speckles
+ENSG00000113812,;Nucleus
+ENSG00000113845,Mitochondria;Nucleus
+ENSG00000113916,Nucleoplasm;
+ENSG00000113924,;Golgi apparatus
+ENSG00000114021,;Cytosol
+ENSG00000114023,Mitochondria;Cytosol
+ENSG00000114026,Nucleoplasm;
+ENSG00000114030,Cytosol;Nucleus;
+ENSG00000114125,;Nucleoplasm
+ENSG00000114126,;Nucleus
+ENSG00000114127,;Cytosol;Plasma membrane
+ENSG00000114302,;Golgi apparatus;Microtubule organizing center;Vesicles
+ENSG00000114315,;Nucleus
+ENSG00000114316,;Cytosol
+ENSG00000114346,Cytosol;Nucleus;
+ENSG00000114353,;Cytosol;Plasma membrane
+ENSG00000114388,;Cytosol
+ENSG00000114391,;Cytosol;Endoplasmic reticulum
+ENSG00000114416,Cytosol;
+ENSG00000114423,;Cytosol
+ENSG00000114439,Cytosol;Nucleoplasm;
+ENSG00000114450,Plasma membrane;
+ENSG00000114491,;Cytosol
+ENSG00000114503,Nucleoplasm;
+ENSG00000114544,;Plasma membrane
+ENSG00000114554,Nucleus;Cytosol
+ENSG00000114573,;Cytosol;Nucleus;Vesicles
+ENSG00000114626,;Cytosol
+ENSG00000114670,;Nucleoplasm
+ENSG00000114738,;Nucleoplasm
+ENSG00000114742,;Vesicles
+ENSG00000114745,;Golgi apparatus
+ENSG00000114767,;Nucleus
+ENSG00000114770,;Plasma membrane
+ENSG00000114779,;Cytosol;Nucleoli;Nucleus
+ENSG00000114790,;Plasma membrane
+ENSG00000114805,Vesicles;
+ENSG00000114857,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000114861,Nucleoplasm;
+ENSG00000114867,Cytosol;
+ENSG00000114904,;Cytosol
+ENSG00000114982,Nucleus;
+ENSG00000115053,Nucleoli;Nucleus
+ENSG00000115109,;Plasma membrane
+ENSG00000115112,;Nucleoli fibrillar center
+ENSG00000115128,;Nucleoplasm
+ENSG00000115129,;Vesicles
+ENSG00000115137,;Cytosol
+ENSG00000115145,;Vesicles
+ENSG00000115163,;Nucleoplasm
+ENSG00000115216,;Cytosol
+ENSG00000115233,;Nucleoplasm
+ENSG00000115234,;Vesicles
+ENSG00000115241,Nucleoplasm;
+ENSG00000115255,;Endoplasmic reticulum
+ENSG00000115263,;Endoplasmic reticulum;Vesicles
+ENSG00000115266,;Cytokinetic bridge;Cytosol;Midbody
+ENSG00000115271,;Cytosol
+ENSG00000115274,;Nucleoli;Nucleus
+ENSG00000115275,Endoplasmic reticulum;
+ENSG00000115289,Nucleoplasm;
+ENSG00000115295,Vesicles;
+ENSG00000115310,Endoplasmic reticulum;
+ENSG00000115317,;Mitochondria
+ENSG00000115325,;Cytosol
+ENSG00000115339,;Golgi apparatus
+ENSG00000115363,;Vesicles
+ENSG00000115364,;Mitochondria
+ENSG00000115415,Cytosol;Nucleoplasm;
+ENSG00000115419,;Mitochondria
+ENSG00000115421,Nucleoplasm;
+ENSG00000115425,;Peroxisomes
+ENSG00000115468,;Golgi apparatus
+ENSG00000115484,;Cytosol
+ENSG00000115504,;Cytosol;Plasma membrane
+ENSG00000115514,Cytosol;
+ENSG00000115524,Nuclear speckles;
+ENSG00000115539,Cytosol;Nucleus;
+ENSG00000115548,Nucleoplasm;
+ENSG00000115616,;Cell Junctions
+ENSG00000115641,Actin filaments;Focal adhesion sites;
+ENSG00000115657,Golgi apparatus;Cytosol;Mitochondria;Nucleoplasm;Plasma membrane
+ENSG00000115677,;Cytosol
+ENSG00000115687,;Cytosol
+ENSG00000115750,;Nucleoli
+ENSG00000115760,;Golgi apparatus;Vesicles
+ENSG00000115761,;Nucleoli
+ENSG00000115806,Golgi apparatus;
+ENSG00000115825,;Cytosol
+ENSG00000115827,;Nucleoplasm
+ENSG00000115841,;Cytosol;Mitotic spindle
+ENSG00000115866,Cytosol;
+ENSG00000115875,Nucleoplasm;
+ENSG00000115884,;Focal adhesion sites
+ENSG00000115902,;Centrosome
+ENSG00000115919,;Cytosol
+ENSG00000115942,;Nucleoplasm
+ENSG00000115944,Mitochondria;Nucleoli;
+ENSG00000115946,;Nucleoli
+ENSG00000115947,;Nucleoli;Nucleus
+ENSG00000115966,Nucleoplasm;
+ENSG00000115977,;Cytosol;Plasma membrane
+ENSG00000115998,Nucleus;
+ENSG00000116001,;Cytosol;Nucleoplasm
+ENSG00000116014,;Plasma membrane
+ENSG00000116016,Nucleoplasm;
+ENSG00000116017,;Cytosol;Nucleoplasm
+ENSG00000116030,;Nuclear bodies;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000116062,;Nucleoplasm
+ENSG00000116095,Golgi apparatus;
+ENSG00000116096,;Cytosol
+ENSG00000116117,;Cell Junctions
+ENSG00000116120,;Cytosol;Nucleus
+ENSG00000116132,;Nucleoplasm
+ENSG00000116161,Cytosol;Nucleoplasm;
+ENSG00000116171,Peroxisomes;
+ENSG00000116199,;Golgi apparatus
+ENSG00000116212,Nucleoplasm;
+ENSG00000116221,;Mitochondria
+ENSG00000116254,;Nuclear speckles;Nucleoplasm
+ENSG00000116260,;Golgi apparatus
+ENSG00000116285,;Cytosol
+ENSG00000116288,;Cytosol;Nucleus
+ENSG00000116299,;Plasma membrane
+ENSG00000116337,Cytosol;
+ENSG00000116350,;Nuclear speckles
+ENSG00000116353,;Mitochondria
+ENSG00000116455,;Cytosol;Nucleoplasm
+ENSG00000116459,;Mitochondria
+ENSG00000116478,Nucleoplasm;
+ENSG00000116497,;Nuclear speckles
+ENSG00000116521,;Vesicles
+ENSG00000116539,;Nucleoplasm
+ENSG00000116560,Nucleoplasm;
+ENSG00000116580,Nuclear bodies;Nucleoplasm;
+ENSG00000116604,Nucleoplasm;
+ENSG00000116670,;Cytosol;Nucleoli
+ENSG00000116679,;Cytosol
+ENSG00000116698,;Cytosol
+ENSG00000116701,Cytosol;Nucleoli
+ENSG00000116711,;Cytosol
+ENSG00000116717,;Nuclear speckles
+ENSG00000116752,;Nuclear speckles
+ENSG00000116754,;Nuclear speckles
+ENSG00000116774,;Vesicles
+ENSG00000116791,;Cytosol
+ENSG00000116830,;Cytosol
+ENSG00000116863,Nucleoplasm;
+ENSG00000116874,;Mitochondria
+ENSG00000116898,;Mitochondria
+ENSG00000116903,;Cytosol
+ENSG00000116918,;Cytosol;Nucleoplasm
+ENSG00000116954,;Nucleus;Vesicles
+ENSG00000116984,;Cytosol
+ENSG00000116990,;Nucleus
+ENSG00000117020,;Cytosol
+ENSG00000117054,Mitochondria;
+ENSG00000117091,;Plasma membrane
+ENSG00000117118,;Mitochondria
+ENSG00000117133,Nucleoli;
+ENSG00000117139,;Nucleus
+ENSG00000117143,;Cytosol
+ENSG00000117153,;Vesicles
+ENSG00000117222,Nucleoli;Nucleus;
+ENSG00000117318,;Nucleoplasm
+ENSG00000117360,Nucleoplasm;
+ENSG00000117394,Plasma membrane;
+ENSG00000117395,Nucleoli;
+ENSG00000117399,Cytosol;Nucleus;
+ENSG00000117411,;Golgi apparatus
+ENSG00000117448,;Cytosol
+ENSG00000117450,;Mitochondria
+ENSG00000117475,;Golgi apparatus;Nucleus
+ENSG00000117505,;Nucleus
+ENSG00000117519,Actin filaments;Cytosol;
+ENSG00000117523,Cytosol;
+ENSG00000117525,Vesicles;
+ENSG00000117528,Peroxisomes;
+ENSG00000117592,;Cytosol
+ENSG00000117593,;Mitochondria
+ENSG00000117595,Cytosol;Nucleus
+ENSG00000117614,;Nuclear speckles
+ENSG00000117632,;Cytosol
+ENSG00000117650,;Centrosome;Nucleus
+ENSG00000117676,;Cytosol;Nucleus
+ENSG00000117691,Nucleus;
+ENSG00000117697,;Nuclear speckles;Nucleoplasm
+ENSG00000117707,;Nucleoplasm
+ENSG00000117713,Nucleoplasm;
+ENSG00000117724,;Nucleoplasm
+ENSG00000117748,Nuclear bodies;Nucleoplasm;
+ENSG00000117751,Nuclear speckles;Nucleoplasm;
+ENSG00000117758,;Golgi apparatus;Nucleoplasm;Vesicles
+ENSG00000117859,;Golgi apparatus;Vesicles
+ENSG00000117877,Nucleoli fibrillar center;Nucleus;
+ENSG00000117899,;Cytosol;Endoplasmic reticulum;Nuclear bodies
+ENSG00000117906,Endoplasmic reticulum;
+ENSG00000117983,;Vesicles
+ENSG00000118007,Nuclear bodies;Nucleus;
+ENSG00000118046,;Cytosol;Nucleoplasm
+ENSG00000118058,;Nucleoplasm
+ENSG00000118193,;Cytosol;Midbody ring
+ENSG00000118200,;Microtubule ends
+ENSG00000118246,;Mitochondria
+ENSG00000118257,;Plasma membrane;Vesicles
+ENSG00000118260,Nucleoplasm;
+ENSG00000118308,;Vesicles
+ENSG00000118418,Nucleus;Cytosol
+ENSG00000118495,;Nuclear bodies
+ENSG00000118503,;Vesicles
+ENSG00000118514,;Centrosome
+ENSG00000118515,Nuclear speckles;
+ENSG00000118518,;Cytosol;Plasma membrane
+ENSG00000118579,;Nucleoplasm
+ENSG00000118655,;Nuclear bodies;Nucleoplasm
+ENSG00000118689,Nucleus;
+ENSG00000118705,;Endoplasmic reticulum
+ENSG00000118707,;Nucleoplasm
+ENSG00000118762,Endoplasmic reticulum;
+ENSG00000118777,Nucleus;Plasma membrane;
+ENSG00000118785,;Golgi apparatus
+ENSG00000118804,;Cytosol
+ENSG00000118816,;Golgi apparatus
+ENSG00000118873,;Cytosol
+ENSG00000118900,;Nuclear bodies;Nucleoplasm
+ENSG00000118939,;Cytosol
+ENSG00000118971,;Nucleoplasm
+ENSG00000118985,;Nucleoplasm
+ENSG00000118997,;Cytosol
+ENSG00000119041,;Nucleus
+ENSG00000119042,;Nucleoplasm
+ENSG00000119048,;Cytosol;Nucleoplasm;Plasma membrane;Vesicles
+ENSG00000119139,Cell Junctions;Cytosol;Plasma membrane;Nucleoplasm
+ENSG00000119185,;Cytosol;Nucleoplasm
+ENSG00000119242,;Centrosome
+ENSG00000119280,;Cytosol
+ENSG00000119285,Mitochondria;Nucleoli fibrillar center;
+ENSG00000119318,;Cytosol;Nucleoplasm
+ENSG00000119328,;Cytosol;Nucleoplasm
+ENSG00000119335,;Nucleoplasm
+ENSG00000119383,Cytosol;Nucleoplasm;
+ENSG00000119392,;Nuclear membrane
+ENSG00000119396,;Vesicles
+ENSG00000119397,;Centrosome
+ENSG00000119408,;Cytosol;Microtubule organizing center;Nucleoplasm
+ENSG00000119421,Mitochondria;
+ENSG00000119431,;Nucleoli
+ENSG00000119471,;Mitochondria
+ENSG00000119487,;Nucleoplasm
+ENSG00000119522,;Vesicles
+ENSG00000119523,Actin filaments;Cytosol;
+ENSG00000119547,;Nucleoplasm
+ENSG00000119596,;Nuclear speckles;Nucleoplasm
+ENSG00000119650,;Microtubule organizing center;Microtubules
+ENSG00000119669,Nucleoplasm;
+ENSG00000119685,;Cytosol;Plasma membrane
+ENSG00000119698,;Cytosol
+ENSG00000119705,;Mitochondria
+ENSG00000119707,Nuclear speckles;
+ENSG00000119711,Mitochondria;
+ENSG00000119720,;Mitochondria;Nucleoplasm
+ENSG00000119772,;Nucleoplasm
+ENSG00000119777,;Endoplasmic reticulum
+ENSG00000119778,;Nucleoplasm
+ENSG00000119787,;Endoplasmic reticulum
+ENSG00000119812,;Vesicles
+ENSG00000119820,;Golgi apparatus
+ENSG00000119844,Cytosol;Golgi apparatus;Vesicles
+ENSG00000119866,Nucleoplasm;Nuclear bodies
+ENSG00000119878,;Nucleoli;Nucleus
+ENSG00000119888,;Plasma membrane
+ENSG00000119899,;Plasma membrane
+ENSG00000119906,;Nucleus
+ENSG00000119917,;Cytosol;Mitochondria
+ENSG00000119929,;Cytosol;Nucleoplasm
+ENSG00000119950,;Nucleoli;Nucleus
+ENSG00000119953,;Nuclear bodies;Nucleus
+ENSG00000120053,;Cytosol;Nucleoplasm
+ENSG00000120063,;Cytosol
+ENSG00000120068,;Nucleoplasm
+ENSG00000120071,;Nucleoplasm
+ENSG00000120075,Nucleus;
+ENSG00000120149,;Nuclear speckles
+ENSG00000120156,;Plasma membrane
+ENSG00000120254,;Mitochondria
+ENSG00000120265,;Cytosol
+ENSG00000120278,Nucleoplasm;
+ENSG00000120333,;Mitochondria;Nuclear membrane
+ENSG00000120370,Cytosol;Golgi apparatus;Nucleus
+ENSG00000120437,;Cytosol
+ENSG00000120451,;Mitochondria
+ENSG00000120458,;Nuclear bodies;Nucleoplasm
+ENSG00000120526,;Cytosol;Nucleoplasm
+ENSG00000120539,Nucleoplasm;
+ENSG00000120594,;Nuclear bodies
+ENSG00000120658,;Plasma membrane
+ENSG00000120688,;Nucleoplasm
+ENSG00000120690,;Nucleoplasm
+ENSG00000120693,;Cytosol;Nucleoplasm
+ENSG00000120694,Cytosol;Nucleoplasm;
+ENSG00000120727,;Vesicles
+ENSG00000120733,Nucleoplasm;
+ENSG00000120738,Nucleoplasm;
+ENSG00000120798,;Nucleus
+ENSG00000120800,;Nucleoli
+ENSG00000120802,Nuclear membrane;
+ENSG00000120805,;Golgi apparatus
+ENSG00000120837,;Nucleoplasm
+ENSG00000120875,;Nucleoplasm
+ENSG00000120899,Cytosol;Plasma membrane;
+ENSG00000120915,Cytosol;
+ENSG00000120948,Nucleoplasm;
+ENSG00000121022,Nucleoplasm;
+ENSG00000121057,;Mitochondria
+ENSG00000121058,Nuclear bodies;Nucleoli fibrillar center;Nucleus
+ENSG00000121152,;Cytosol;Nucleus
+ENSG00000121289,;Cytosol
+ENSG00000121297,;Nucleoplasm
+ENSG00000121440,;Cytosol;Nucleus
+ENSG00000121481,Nucleoplasm;Nuclear bodies
+ENSG00000121570,;Nucleoli;Nucleus
+ENSG00000121578,;Golgi apparatus
+ENSG00000121621,;Cytokinetic bridge;Microtubules
+ENSG00000121653,Plasma membrane;
+ENSG00000121671,;Cytosol;Nuclear speckles
+ENSG00000121691,;Cytosol;Vesicles
+ENSG00000121742,;Cell Junctions
+ENSG00000121749,;Cytosol;Mitochondria
+ENSG00000121753,;Centrosome
+ENSG00000121766,;Nuclear speckles
+ENSG00000121774,Nucleoplasm;
+ENSG00000121864,;Nucleoplasm
+ENSG00000121892,Nucleoplasm;
+ENSG00000121931,;Nucleus
+ENSG00000121940,Endoplasmic reticulum;
+ENSG00000121957,;Cytosol
+ENSG00000121988,;Nucleus
+ENSG00000122008,Nuclear bodies;Nucleoplasm;
+ENSG00000122012,;Nucleoplasm
+ENSG00000122026,;Cytosol;Endoplasmic reticulum;Nucleoli fibrillar center
+ENSG00000122033,;Mitochondria;Nucleoplasm
+ENSG00000122034,;Nucleus
+ENSG00000122068,;Nuclear speckles
+ENSG00000122085,;Mitochondria
+ENSG00000122140,;Mitochondria
+ENSG00000122180,;Nucleoplasm
+ENSG00000122188,Cytosol;Golgi apparatus;Plasma membrane;
+ENSG00000122257,Nuclear speckles;
+ENSG00000122299,;Cytosol
+ENSG00000122359,;Cytosol;Nucleoplasm
+ENSG00000122367,;Cytosol;Focal adhesion sites
+ENSG00000122406,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000122484,;Cytosol;Nucleoli
+ENSG00000122512,Nucleoplasm;Cytosol
+ENSG00000122515,;Nucleoplasm
+ENSG00000122545,Actin filaments;Midbody
+ENSG00000122550,;Cytosol;Nucleoplasm
+ENSG00000122565,;Nuclear bodies;Nucleus
+ENSG00000122566,Nucleoplasm;
+ENSG00000122585,Golgi apparatus;
+ENSG00000122591,;Cytosol;Plasma membrane
+ENSG00000122642,;Mitochondria
+ENSG00000122644,;Cytosol;Nucleoplasm
+ENSG00000122674,Vesicles;
+ENSG00000122678,;Nucleus
+ENSG00000122705,Endosomes;Lysosomes;Vesicles;
+ENSG00000122707,;Plasma membrane
+ENSG00000122729,;Cytosol
+ENSG00000122779,Nucleoplasm;
+ENSG00000122786,Actin filaments;Plasma membrane;
+ENSG00000122873,;Mitochondria
+ENSG00000122877,;Nucleoplasm
+ENSG00000122882,;Cytosol;Nucleoplasm
+ENSG00000122884,;Endoplasmic reticulum
+ENSG00000122958,Endosomes;Lysosomes
+ENSG00000122965,;Nucleoli
+ENSG00000122971,Mitochondria;
+ENSG00000123104,;Endoplasmic reticulum
+ENSG00000123106,;Golgi apparatus
+ENSG00000123119,;Cytosol;Nucleoplasm
+ENSG00000123131,;Cytosol;Endoplasmic reticulum
+ENSG00000123143,;Cytosol;Nuclear bodies;Nucleus
+ENSG00000123179,;Endoplasmic reticulum
+ENSG00000123191,;Golgi apparatus
+ENSG00000123240,Cytosol;
+ENSG00000123268,Nucleoplasm;
+ENSG00000123297,;Mitochondria
+ENSG00000123352,Cytosol;
+ENSG00000123353,;Endoplasmic reticulum
+ENSG00000123358,;Cytosol;Nucleus
+ENSG00000123374,Nucleoplasm;Centrosome;Cytosol
+ENSG00000123384,;Vesicles
+ENSG00000123388,;Nucleoplasm
+ENSG00000123411,;Nuclear bodies;Nucleoplasm
+ENSG00000123416,;Microtubules
+ENSG00000123454,Vesicles;Endoplasmic reticulum
+ENSG00000123485,Nucleoli;Nucleus;
+ENSG00000123545,;Mitochondria
+ENSG00000123562,Nucleus;
+ENSG00000123576,;Nuclear speckles
+ENSG00000123607,;Mitochondria
+ENSG00000123609,;Cytosol
+ENSG00000123737,Nucleoli;Nucleus
+ENSG00000123815,Mitochondria;
+ENSG00000123836,Nucleus;
+ENSG00000123908,;Nucleoplasm
+ENSG00000123933,;Cytosol
+ENSG00000123989,;Cytosol
+ENSG00000123992,;Cytosol
+ENSG00000124074,;Cytosol;Plasma membrane
+ENSG00000124126,;Cytosol
+ENSG00000124143,;Cytosol;Plasma membrane
+ENSG00000124151,;Cytosol;Nucleoplasm
+ENSG00000124160,;Actin filaments;Nucleus
+ENSG00000124164,Endoplasmic reticulum;
+ENSG00000124171,;Cytosol
+ENSG00000124181,;Cytosol
+ENSG00000124191,;Nucleoplasm
+ENSG00000124193,;Nuclear speckles
+ENSG00000124198,;Golgi apparatus
+ENSG00000124207,Cytosol;Nucleoplasm;
+ENSG00000124208,;Nucleoplasm
+ENSG00000124214,;Cytosol
+ENSG00000124216,;Cytosol;Nucleus
+ENSG00000124222,Vesicles;
+ENSG00000124225,;Vesicles
+ENSG00000124226,;Cytosol
+ENSG00000124260,;Nucleoplasm
+ENSG00000124279,;Mitochondria
+ENSG00000124299,;Nucleoplasm
+ENSG00000124333,;Vesicles
+ENSG00000124356,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000124383,Nucleoli;
+ENSG00000124406,;Vesicles
+ENSG00000124422,;Nuclear speckles
+ENSG00000124429,;Golgi apparatus
+ENSG00000124440,;Cytosol;Nucleoplasm
+ENSG00000124459,;Nucleoplasm
+ENSG00000124479,;Vesicles
+ENSG00000124496,Nucleoplasm;
+ENSG00000124508,;Mitochondria
+ENSG00000124523,Mitochondria;
+ENSG00000124541,;Nucleoli;Nucleus
+ENSG00000124562,Nucleoplasm;
+ENSG00000124571,Nucleoplasm;
+ENSG00000124587,;Vesicles
+ENSG00000124588,;Cytosol
+ENSG00000124608,Mitochondria;
+ENSG00000124659,Cytosol;
+ENSG00000124664,;Nucleoli;Nucleus
+ENSG00000124688,;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000124702,;Nucleoplasm
+ENSG00000124749,;Cytosol
+ENSG00000124762,;Nuclear bodies;Nucleoplasm
+ENSG00000124766,;Nucleoplasm
+ENSG00000124767,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000124782,;Nuclear speckles
+ENSG00000124783,;Endoplasmic reticulum
+ENSG00000124788,;Cytosol;Nucleoli;Nucleus
+ENSG00000124789,Nuclear membrane;
+ENSG00000124795,Nucleus;
+ENSG00000124802,;Cytosol;Nucleus
+ENSG00000124813,Nucleoplasm;
+ENSG00000124831,;Cytosol
+ENSG00000124942,;Cytosol;Plasma membrane
+ENSG00000125107,;Cytosol
+ENSG00000125266,;Cytosol;Nucleoplasm
+ENSG00000125347,;Cytosol;Nucleoplasm
+ENSG00000125351,Cytosol;Nucleoli;Nucleus
+ENSG00000125356,;Mitochondria
+ENSG00000125388,;Vesicles
+ENSG00000125398,Nucleoplasm;
+ENSG00000125447,;Golgi apparatus
+ENSG00000125449,;Cytosol
+ENSG00000125450,;Cytosol;Nucleus
+ENSG00000125457,;Cytosol;Nucleoli
+ENSG00000125458,;Cytosol
+ENSG00000125482,;Nucleoli;Nucleus
+ENSG00000125484,;Nucleus
+ENSG00000125485,;Nucleoli
+ENSG00000125571,;Nucleoplasm;Vesicles
+ENSG00000125611,;Mitochondria
+ENSG00000125618,Nucleoplasm;
+ENSG00000125630,;Nucleoli
+ENSG00000125633,;Vesicles
+ENSG00000125648,;Mitochondria
+ENSG00000125651,Nucleus;Cell Junctions
+ENSG00000125656,Mitochondria;
+ENSG00000125686,;Nucleoplasm
+ENSG00000125691,;Cytosol
+ENSG00000125733,;Vesicles
+ENSG00000125734,;Golgi apparatus
+ENSG00000125740,;Nucleoplasm
+ENSG00000125753,;Cell Junctions;Focal adhesion sites;Plasma membrane
+ENSG00000125755,;Nucleoplasm;Plasma membrane
+ENSG00000125779,;Cytosol
+ENSG00000125798,;Nucleoplasm
+ENSG00000125812,;Nucleoli;Nucleus
+ENSG00000125817,Nuclear bodies;
+ENSG00000125818,Cytosol;
+ENSG00000125827,;Nuclear membrane
+ENSG00000125834,;Nucleus
+ENSG00000125835,;Nucleoplasm
+ENSG00000125843,Cytosol;
+ENSG00000125844,Endoplasmic reticulum;
+ENSG00000125845,Vesicles;
+ENSG00000125848,;Cell Junctions;Plasma membrane
+ENSG00000125863,;Centrosome
+ENSG00000125864,;Cytosol;Plasma membrane
+ENSG00000125870,;Nuclear speckles
+ENSG00000125871,;Mitochondria
+ENSG00000125877,;Cytosol
+ENSG00000125878,;Nuclear speckles
+ENSG00000125885,;Nucleoplasm
+ENSG00000125898,;Cytosol;Vesicles
+ENSG00000125901,Mitochondria;
+ENSG00000125931,;Cytosol;Nucleoplasm
+ENSG00000125944,Nucleoplasm;
+ENSG00000125945,;Nucleoplasm
+ENSG00000125952,;Nucleoplasm
+ENSG00000125967,;Golgi apparatus
+ENSG00000125968,Nucleoplasm;
+ENSG00000125970,Nucleoplasm;
+ENSG00000125977,;Endoplasmic reticulum
+ENSG00000125991,;Nucleoplasm
+ENSG00000126001,;Centrosome
+ENSG00000126010,Plasma membrane;
+ENSG00000126012,Nucleoplasm;Cytosol
+ENSG00000126016,;Cell Junctions
+ENSG00000126062,;Golgi apparatus
+ENSG00000126067,Nucleoplasm;
+ENSG00000126070,;Cytoplasmic bodies
+ENSG00000126088,;Cytosol;Nucleoplasm
+ENSG00000126215,Nucleus;
+ENSG00000126259,;Microtubule organizing center
+ENSG00000126261,;Nucleoplasm
+ENSG00000126267,;Mitochondria
+ENSG00000126351,;Cytosol
+ENSG00000126353,;Mitochondria
+ENSG00000126368,;Nuclear bodies
+ENSG00000126432,Cytosol;Mitochondria;
+ENSG00000126456,;Cytosol
+ENSG00000126457,;Nucleoplasm
+ENSG00000126524,;Cytosol;Nucleus
+ENSG00000126561,Cytosol;Nucleoplasm;
+ENSG00000126602,Mitochondria;
+ENSG00000126653,;Nucleoplasm
+ENSG00000126698,Nucleoplasm;
+ENSG00000126705,;Nucleus
+ENSG00000126746,;Nucleoplasm
+ENSG00000126749,Nucleoli;Nucleus;
+ENSG00000126756,;Microtubule organizing center;Nucleus
+ENSG00000126767,Nucleoplasm;
+ENSG00000126777,Endoplasmic reticulum;
+ENSG00000126778,;Nucleoli;Nucleus
+ENSG00000126787,;Cytosol
+ENSG00000126804,;Nuclear membrane;Nucleoplasm
+ENSG00000126821,;Nucleus
+ENSG00000126822,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000126883,;Focal adhesion sites;Nucleus;Vesicles
+ENSG00000126934,;Cytosol
+ENSG00000126945,Nucleoplasm;
+ENSG00000126950,;Vesicles
+ENSG00000126953,Mitochondria;
+ENSG00000127022,Endoplasmic reticulum;
+ENSG00000127054,;Cytosol;Nucleoplasm
+ENSG00000127124,;Nucleoplasm
+ENSG00000127191,Cytosol;
+ENSG00000127241,;Cytosol;Nucleoplasm
+ENSG00000127334,;Cytosol;Nucleoplasm
+ENSG00000127415,;Vesicles
+ENSG00000127418,;Vesicles
+ENSG00000127423,Centrosome;
+ENSG00000127445,Cytosol;Nucleoplasm;
+ENSG00000127481,;Cytosol;Nucleoplasm
+ENSG00000127483,;Nuclear speckles
+ENSG00000127526,Golgi apparatus;
+ENSG00000127554,Cytosol;Mitochondria;
+ENSG00000127564,;Golgi apparatus
+ENSG00000127586,Nucleoplasm;
+ENSG00000127603,;Actin filaments;Cell Junctions;Plasma membrane
+ENSG00000127616,;Nucleoplasm
+ENSG00000127663,;Nucleus
+ENSG00000127804,;Nucleoplasm
+ENSG00000127824,Microtubules;
+ENSG00000127831,Plasma membrane;
+ENSG00000127837,Cytosol;Microtubules
+ENSG00000127838,Mitochondria;
+ENSG00000127870,;Nuclear membrane
+ENSG00000127884,Mitochondria;
+ENSG00000127914,Golgi apparatus;Centrosome
+ENSG00000127946,Vesicles;
+ENSG00000127954,;Golgi apparatus
+ENSG00000127955,;Centrosome
+ENSG00000127980,;Peroxisomes
+ENSG00000127989,;Mitochondria
+ENSG00000127993,Nucleoplasm;
+ENSG00000128052,;Plasma membrane
+ENSG00000128272,;Cytosol;Microtubule organizing center
+ENSG00000128274,;Mitochondria
+ENSG00000128283,;Actin filaments
+ENSG00000128311,;Mitochondria
+ENSG00000128342,Cytosol;
+ENSG00000128422,Intermediate filaments;
+ENSG00000128513,;Nucleus
+ENSG00000128563,;Actin filaments;Cytosol
+ENSG00000128564,;Golgi apparatus;Vesicles
+ENSG00000128573,Nucleoplasm;
+ENSG00000128578,;Cytosol
+ENSG00000128591,;Cytosol;Plasma membrane
+ENSG00000128595,;Endoplasmic reticulum
+ENSG00000128610,;Nucleus
+ENSG00000128641,Plasma membrane;
+ENSG00000128645,;Nucleoplasm
+ENSG00000128652,Nucleoplasm;Nuclear bodies
+ENSG00000128654,;Mitochondria
+ENSG00000128694,Mitochondria;
+ENSG00000128699,;Endoplasmic reticulum
+ENSG00000128708,Nucleoplasm;
+ENSG00000128709,;Nucleoli;Nucleus
+ENSG00000128714,;Nucleus
+ENSG00000128739,;Nucleoplasm
+ENSG00000128791,;Centrosome;Cytosol
+ENSG00000128805,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000128833,;Cytosol;Nucleus
+ENSG00000128886,;Nucleoli;Nucleoplasm
+ENSG00000128908,Nuclear bodies;Nucleoplasm;
+ENSG00000128915,;Nuclear bodies;Nucleoplasm
+ENSG00000128923,Nucleoplasm;
+ENSG00000128928,Mitochondria;
+ENSG00000128944,;Microtubules;Mitotic spindle
+ENSG00000128951,;Nucleoplasm
+ENSG00000129071,;Nuclear speckles
+ENSG00000129083,Cytosol;Golgi apparatus;Vesicles;
+ENSG00000129084,Nucleoplasm;
+ENSG00000129116,;Actin filaments;Cytosol
+ENSG00000129152,;Nuclear bodies;Nucleoplasm
+ENSG00000129158,Cytosol;Nucleoplasm;
+ENSG00000129173,;Cytosol;Nucleoli;Nucleus
+ENSG00000129194,Nucleus;
+ENSG00000129195,Nucleus;
+ENSG00000129226,;Vesicles
+ENSG00000129245,;Cytosol
+ENSG00000129255,;Endoplasmic reticulum;Mitochondria
+ENSG00000129315,Nucleoplasm;
+ENSG00000129317,;Nuclear speckles
+ENSG00000129347,Nucleoli;
+ENSG00000129351,;Nucleoli;Nucleoplasm
+ENSG00000129354,;Vesicles
+ENSG00000129355,;Cytosol;Nucleoplasm
+ENSG00000129422,Microtubules;Nucleoli
+ENSG00000129514,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000129515,;Endosomes;Lysosomes
+ENSG00000129535,;Nucleoplasm
+ENSG00000129559,Nucleoplasm;Cytosol
+ENSG00000129566,;Nucleoplasm;Vesicles
+ENSG00000129657,;Cytosol
+ENSG00000129673,;Cytosol
+ENSG00000129680,Centrosome;
+ENSG00000129682,;Cytosol
+ENSG00000129691,;Nucleoplasm;Plasma membrane
+ENSG00000129696,Centrosome;
+ENSG00000129810,;Nucleoplasm
+ENSG00000129910,;Cytosol;Golgi apparatus
+ENSG00000129911,;Nucleus
+ENSG00000129925,;Nucleoplasm
+ENSG00000129933,;Nucleoplasm
+ENSG00000129993,Nucleoplasm;
+ENSG00000130024,;Nucleus
+ENSG00000130119,;Nucleoli
+ENSG00000130158,;Cytosol
+ENSG00000130159,;Cytosol;Nucleoplasm
+ENSG00000130175,Endoplasmic reticulum;
+ENSG00000130204,Mitochondria;
+ENSG00000130254,;Nuclear bodies;Nucleoplasm
+ENSG00000130299,;Mitochondria
+ENSG00000130303,;Cytosol;Golgi apparatus;Plasma membrane
+ENSG00000130305,Nucleoli;Nucleus;
+ENSG00000130313,;Cytosol;Nucleoplasm
+ENSG00000130340,Cytosol;Plasma membrane;
+ENSG00000130382,;Nucleoplasm
+ENSG00000130396,Cell Junctions;Plasma membrane;Nucleoplasm
+ENSG00000130414,;Mitochondria
+ENSG00000130429,;Cytosol;Vesicles
+ENSG00000130475,Cytosol;Nucleoplasm;
+ENSG00000130479,Cytosol;
+ENSG00000130513,Golgi apparatus;
+ENSG00000130522,;Nucleus
+ENSG00000130529,;Plasma membrane
+ENSG00000130545,;Cell Junctions
+ENSG00000130559,;Cytosol;Mitotic spindle
+ENSG00000130560,;Cytosol
+ENSG00000130592,;Plasma membrane
+ENSG00000130638,;Cytosol
+ENSG00000130640,;Centrosome
+ENSG00000130669,;Cell Junctions;Plasma membrane
+ENSG00000130695,;Microtubule organizing center;Nucleoli
+ENSG00000130699,Nucleoplasm;
+ENSG00000130702,;Vesicles
+ENSG00000130706,;Cytosol;Nucleoplasm
+ENSG00000130713,;Nucleoli;Nucleus
+ENSG00000130720,;Cell Junctions
+ENSG00000130725,;Nucleus
+ENSG00000130726,Nucleoplasm;
+ENSG00000130749,Cytosol;Nucleoplasm;
+ENSG00000130764,;Nucleoli fibrillar center
+ENSG00000130770,Mitochondria;
+ENSG00000130779,;Cytosol;Microtubule ends
+ENSG00000130787,Cytosol;Plasma membrane;Vesicles;
+ENSG00000130803,Nucleoplasm;
+ENSG00000130811,Cytosol;
+ENSG00000130813,;Cytosol;Nucleoplasm
+ENSG00000130816,Nucleoplasm;
+ENSG00000130826,;Nucleoli fibrillar center;Nucleus
+ENSG00000130827,;Cell Junctions;Plasma membrane
+ENSG00000130935,Nucleoli;
+ENSG00000130940,;Nucleoplasm
+ENSG00000130948,;Vesicles
+ENSG00000130958,Golgi apparatus;
+ENSG00000130985,Nucleoplasm;
+ENSG00000130997,Nucleoplasm;
+ENSG00000131013,;Nucleoplasm
+ENSG00000131015,;Plasma membrane
+ENSG00000131016,;Cytosol;Plasma membrane
+ENSG00000131018,;Nuclear membrane;Nucleoplasm
+ENSG00000131037,;Cytosol
+ENSG00000131051,;Nuclear speckles
+ENSG00000131089,;Cytosol
+ENSG00000131095,;Intermediate filaments
+ENSG00000131143,;Mitochondria
+ENSG00000131148,;Cytosol
+ENSG00000131153,;Nucleoplasm
+ENSG00000131183,;Plasma membrane
+ENSG00000131196,;Nuclear bodies;Nucleoplasm
+ENSG00000131236,;Cytosol
+ENSG00000131263,;Nucleoplasm
+ENSG00000131269,;Mitochondria
+ENSG00000131368,Mitochondria;
+ENSG00000131370,;Nuclear bodies;Nucleoplasm
+ENSG00000131374,;Vesicles
+ENSG00000131381,Vesicles;
+ENSG00000131459,;Vesicles
+ENSG00000131467,Nucleoplasm;
+ENSG00000131470,;Nucleoplasm
+ENSG00000131473,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000131558,;Nucleoli;Nucleus
+ENSG00000131626,Cytosol;Focal adhesion sites;
+ENSG00000131652,;Nuclear speckles;Nucleoplasm
+ENSG00000131653,;Vesicles
+ENSG00000131711,Cytosol;
+ENSG00000131725,;Golgi apparatus
+ENSG00000131747,;Nucleus
+ENSG00000131759,;Cytosol;Nucleus
+ENSG00000131773,;Nucleoplasm
+ENSG00000131778,;Nucleoplasm
+ENSG00000131781,;Endoplasmic reticulum
+ENSG00000131788,;Nucleoplasm
+ENSG00000131828,;Mitochondria
+ENSG00000131844,Mitochondria;
+ENSG00000131871,Endoplasmic reticulum;
+ENSG00000131876,;Nuclear bodies;Nuclear speckles;Nucleoplasm
+ENSG00000131931,;Nucleus
+ENSG00000131944,;Nucleoplasm
+ENSG00000131966,;Nucleoli
+ENSG00000131979,;Cytosol;Nuclear membrane;Nucleoplasm
+ENSG00000131981,;Cytosol;Nucleoplasm
+ENSG00000132002,Cytosol;Nucleus;
+ENSG00000132005,;Nucleoplasm
+ENSG00000132024,;Cytosol
+ENSG00000132153,;Cytosol;Mitochondria
+ENSG00000132170,Nucleus;Vesicles;
+ENSG00000132256,;Cytosol
+ENSG00000132274,;Nuclear bodies;Nucleoplasm
+ENSG00000132275,;Cytosol;Nucleoli;Nucleus
+ENSG00000132294,;Cytosol;Plasma membrane
+ENSG00000132300,Mitochondria;
+ENSG00000132305,Mitochondria;
+ENSG00000132329,;Nuclear membrane
+ENSG00000132356,;Nuclear speckles
+ENSG00000132359,;Cytosol
+ENSG00000132361,;Vesicles
+ENSG00000132382,;Nucleoli;Vesicles
+ENSG00000132383,Nucleoplasm;
+ENSG00000132405,;Golgi apparatus;Vesicles
+ENSG00000132424,;Nuclear speckles
+ENSG00000132434,;Cytosol;Nucleus
+ENSG00000132463,Mitochondria;
+ENSG00000132466,;Nucleus
+ENSG00000132467,;Nucleoli
+ENSG00000132470,;Cell Junctions;Plasma membrane
+ENSG00000132475,Nucleoplasm;
+ENSG00000132478,;Cytoplasmic bodies;Cytosol
+ENSG00000132481,;Cytosol
+ENSG00000132485,Nucleus;
+ENSG00000132507,Cytosol;Nucleoplasm;
+ENSG00000132522,;Nucleoplasm
+ENSG00000132530,;Mitochondria
+ENSG00000132591,Cytosol;Mitochondria;
+ENSG00000132600,;Nucleoplasm
+ENSG00000132603,;Nucleoli;Nucleus
+ENSG00000132604,;Nuclear bodies
+ENSG00000132613,;Focal adhesion sites
+ENSG00000132640,;Vesicles
+ENSG00000132646,;Nuclear bodies;Nucleoplasm
+ENSG00000132661,;Cytosol;Nucleoplasm
+ENSG00000132676,;Mitochondria
+ENSG00000132688,Intermediate filaments;
+ENSG00000132749,;Nucleoplasm
+ENSG00000132763,;Nucleoplasm
+ENSG00000132773,Nuclear bodies;Nucleoplasm;
+ENSG00000132780,Nucleoplasm;
+ENSG00000132781,;Nucleus
+ENSG00000132792,;Nucleoplasm
+ENSG00000132793,;Cytosol
+ENSG00000132819,;Cytosol;Nucleoplasm
+ENSG00000132837,;Mitochondria
+ENSG00000132849,;Cell Junctions;Cytosol;Microtubule organizing center
+ENSG00000132872,;Vesicles
+ENSG00000132881,Nucleoplasm;
+ENSG00000132932,;Plasma membrane
+ENSG00000132938,;Cytokinetic bridge;Microtubules
+ENSG00000132953,;Cytosol;Nucleoplasm
+ENSG00000132963,;Nuclear speckles
+ENSG00000133019,;Plasma membrane
+ENSG00000133026,Actin filaments;Cytosol;Mitochondria;
+ENSG00000133030,;Actin filaments
+ENSG00000133104,;Cytosol
+ENSG00000133112,;Cytosol
+ENSG00000133115,Plasma membrane;
+ENSG00000133119,;Nucleoplasm
+ENSG00000133131,Nucleoplasm;
+ENSG00000133216,;Plasma membrane
+ENSG00000133226,Nuclear speckles;
+ENSG00000133313,Nucleoplasm;Cytosol
+ENSG00000133315,;Nucleoplasm
+ENSG00000133316,;Nucleoli
+ENSG00000133318,;Endoplasmic reticulum
+ENSG00000133393,;Centrosome
+ENSG00000133398,;Nucleoplasm
+ENSG00000133422,;Cytosol;Nucleus
+ENSG00000133433,;Cytosol
+ENSG00000133454,;Centrosome;Nucleoplasm
+ENSG00000133704,;Nucleus
+ENSG00000133706,;Cytosol
+ENSG00000133710,Vesicles;
+ENSG00000133740,;Nucleoli;Nucleus
+ENSG00000133794,;Nucleoplasm
+ENSG00000133805,Nuclear membrane;
+ENSG00000133835,Peroxisomes;
+ENSG00000133872,;Endoplasmic reticulum
+ENSG00000133878,;Nucleus
+ENSG00000133884,;Nucleoplasm
+ENSG00000133895,;Cytosol;Nucleoplasm
+ENSG00000133943,;Cytosol
+ENSG00000133961,Cell Junctions;Cytosol
+ENSG00000133983,;Mitochondria
+ENSG00000133997,Nucleoplasm;
+ENSG00000134001,Cytosol;
+ENSG00000134030,;Cytosol
+ENSG00000134046,Nucleoplasm;
+ENSG00000134049,;Endoplasmic reticulum
+ENSG00000134056,Mitochondria;
+ENSG00000134057,Cytosol;
+ENSG00000134086,Nucleoplasm;Cytosol
+ENSG00000134107,;Nuclear bodies
+ENSG00000134146,Nucleoli;Nucleus;
+ENSG00000134202,;Cytosol
+ENSG00000134240,;Mitochondria
+ENSG00000134248,;Cytosol
+ENSG00000134250,;Nucleoplasm;Plasma membrane
+ENSG00000134253,;Cytokinetic bridge;Cytosol
+ENSG00000134283,Nucleoplasm;
+ENSG00000134308,;Cytosol
+ENSG00000134317,Golgi apparatus;Nucleus;Vesicles;
+ENSG00000134318,;Cytosol
+ENSG00000134321,;Endoplasmic reticulum
+ENSG00000134330,;Nucleoplasm
+ENSG00000134333,;Cytosol
+ENSG00000134352,;Golgi apparatus;Plasma membrane
+ENSG00000134371,;Nucleus
+ENSG00000134375,Mitochondria;
+ENSG00000134453,;Nucleoplasm
+ENSG00000134480,;Nucleoplasm
+ENSG00000134508,;Nuclear bodies;Nucleus
+ENSG00000134532,;Nucleoplasm
+ENSG00000134574,;Nucleoplasm
+ENSG00000134595,Nucleoplasm;
+ENSG00000134644,;Cytosol;Nucleus
+ENSG00000134684,Cytosol;
+ENSG00000134686,;Nucleoplasm
+ENSG00000134690,;Cytokinetic bridge;Nucleoli;Nucleus
+ENSG00000134697,Nucleoli;
+ENSG00000134698,Cytosol;Nucleoplasm;Nuclear bodies
+ENSG00000134744,;Cytosol;Nucleoli
+ENSG00000134748,Nucleus;
+ENSG00000134759,;Cytosol;Nucleus
+ENSG00000134762,Cell Junctions;Plasma membrane
+ENSG00000134779,;Nucleoli
+ENSG00000134809,Mitochondria;
+ENSG00000134851,Golgi apparatus;Vesicles
+ENSG00000134852,Nucleoplasm;
+ENSG00000134853,;Cell Junctions;Plasma membrane
+ENSG00000134871,;Vesicles
+ENSG00000134874,;Cytosol;Nucleoplasm
+ENSG00000134884,Mitochondria;Nucleoplasm;
+ENSG00000134899,;Nucleoplasm
+ENSG00000134900,;Cytosol;Nuclear bodies
+ENSG00000134901,;Nucleus
+ENSG00000134954,Nucleoplasm;
+ENSG00000134987,;Nucleoli
+ENSG00000134996,;Cytosol
+ENSG00000135018,;Cytosol;Nucleoplasm
+ENSG00000135040,;Vesicles
+ENSG00000135046,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000135052,Golgi apparatus;
+ENSG00000135069,Cytosol;
+ENSG00000135100,;Nucleoplasm
+ENSG00000135114,;Cytosol
+ENSG00000135144,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000135164,;Nucleoplasm
+ENSG00000135218,Golgi apparatus;
+ENSG00000135245,;Lipid droplets
+ENSG00000135250,;Cytosol;Nucleus
+ENSG00000135269,Cytosol;Focal adhesion sites;
+ENSG00000135272,;Nucleoplasm
+ENSG00000135299,;Vesicles
+ENSG00000135315,Cytosol;Plasma membrane;
+ENSG00000135316,Cytosol;Nucleoplasm;
+ENSG00000135317,;Cytosol
+ENSG00000135318,;Plasma membrane
+ENSG00000135334,;Nucleoplasm
+ENSG00000135336,Nucleoplasm;
+ENSG00000135372,Nucleoli;Midbody
+ENSG00000135373,;Nucleoplasm
+ENSG00000135374,;Nucleoplasm
+ENSG00000135404,;Vesicles
+ENSG00000135439,;Nucleoli;Nucleus
+ENSG00000135446,;Cytosol;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000135457,;Nucleoplasm
+ENSG00000135476,;Nucleoplasm;Vesicles
+ENSG00000135486,Nucleoplasm;
+ENSG00000135503,Cytosol;
+ENSG00000135506,;Endoplasmic reticulum
+ENSG00000135521,Cytosol;Nucleoplasm;
+ENSG00000135525,;Cytosol;Microtubules
+ENSG00000135577,;Cytosol;Plasma membrane
+ENSG00000135604,;Mitochondria
+ENSG00000135605,;Plasma membrane
+ENSG00000135631,Microtubule organizing center;Vesicles;
+ENSG00000135636,;Plasma membrane
+ENSG00000135655,Cytosol;
+ENSG00000135679,;Nucleus
+ENSG00000135698,;Nucleoli;Nucleus
+ENSG00000135723,;Cytosol
+ENSG00000135763,Nucleoli;
+ENSG00000135801,Nuclear speckles;Cytoplasmic bodies
+ENSG00000135821,Cytosol;Mitochondria
+ENSG00000135823,Golgi apparatus;Nucleoplasm;
+ENSG00000135828,;Cytosol
+ENSG00000135829,Nucleus;
+ENSG00000135837,;Centrosome
+ENSG00000135842,;Cytosol
+ENSG00000135870,;Cytosol;Plasma membrane
+ENSG00000135899,;Nucleus
+ENSG00000135902,;Plasma membrane
+ENSG00000135903,;Nucleoplasm
+ENSG00000135905,;Cytosol;Nucleoplasm
+ENSG00000135924,Nuclear membrane;
+ENSG00000135926,;Vesicles
+ENSG00000135929,Mitochondria;
+ENSG00000135940,Mitochondria;
+ENSG00000135968,Golgi apparatus;Nucleoplasm
+ENSG00000135972,Mitochondria;
+ENSG00000135974,;Nucleoplasm
+ENSG00000136003,;Cytosol
+ENSG00000136010,Mitochondria;
+ENSG00000136051,Nucleoplasm;
+ENSG00000136068,;Cytosol;Plasma membrane
+ENSG00000136100,;Lysosomes;Plasma membrane;Vesicles
+ENSG00000136104,Nucleus;
+ENSG00000136108,Microtubules;Cytosol
+ENSG00000136111,;Cytosol
+ENSG00000136114,Cytosol;
+ENSG00000136143,Mitochondria;
+ENSG00000136146,;Nucleoplasm
+ENSG00000136147,;Nuclear membrane;Nucleoplasm
+ENSG00000136152,Golgi apparatus;Cytosol;Plasma membrane
+ENSG00000136153,;Actin filaments
+ENSG00000136155,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000136156,Golgi apparatus;Vesicles;
+ENSG00000136158,;Microtubules
+ENSG00000136159,;Nucleoplasm
+ENSG00000136160,;Plasma membrane
+ENSG00000136197,;Nucleoplasm
+ENSG00000136205,Focal adhesion sites;
+ENSG00000136231,Cytosol;
+ENSG00000136237,;Nuclear bodies;Nucleoplasm
+ENSG00000136243,Nucleus;
+ENSG00000136270,Mitochondria;
+ENSG00000136279,;Cytosol;Nucleoplasm
+ENSG00000136280,Mitochondria;
+ENSG00000136319,;Nucleoplasm
+ENSG00000136371,;Cytosol
+ENSG00000136378,;Vesicles
+ENSG00000136436,;Cytosol
+ENSG00000136448,;Cytosol
+ENSG00000136450,Nucleoplasm;
+ENSG00000136451,;Nucleoplasm
+ENSG00000136463,Mitochondria;
+ENSG00000136485,;Cytosol;Nucleoplasm
+ENSG00000136492,;Nuclear membrane;Nucleus
+ENSG00000136504,;Nucleoplasm
+ENSG00000136514,;Nucleus
+ENSG00000136518,Nucleoplasm;
+ENSG00000136521,;Mitochondria
+ENSG00000136522,Mitochondria;
+ENSG00000136527,Nucleoplasm;
+ENSG00000136536,;Cytosol;Plasma membrane
+ENSG00000136560,;Cytosol;Nucleoli
+ENSG00000136574,;Nuclear bodies
+ENSG00000136628,Cytosol;
+ENSG00000136643,Cytosol;Endosomes;Lysosomes;
+ENSG00000136709,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000136710,;Plasma membrane
+ENSG00000136715,;Nuclear speckles
+ENSG00000136717,;Cytosol
+ENSG00000136718,Nucleoli;
+ENSG00000136738,;Vesicles
+ENSG00000136754,;Cell Junctions;Plasma membrane
+ENSG00000136758,;Mitochondria
+ENSG00000136810,Cytosol;Nucleus;
+ENSG00000136811,;Centrosome
+ENSG00000136813,;Nucleus
+ENSG00000136819,Nucleoplasm;
+ENSG00000136824,;Nucleoli;Nucleus
+ENSG00000136826,;Nucleoplasm
+ENSG00000136827,;Nuclear membrane;Vesicles
+ENSG00000136830,Cytosol;
+ENSG00000136861,Centrosome;Cell Junctions
+ENSG00000136869,;Golgi apparatus
+ENSG00000136875,Nuclear speckles;
+ENSG00000136888,;Nucleoli;Nucleus
+ENSG00000136897,;Cytosol;Vesicles
+ENSG00000136930,;Cytosol;Nucleoplasm
+ENSG00000136935,Golgi apparatus;
+ENSG00000136937,;Cytosol;Nucleoplasm
+ENSG00000136938,Nucleoplasm;Centrosome;Cytosol
+ENSG00000136940,;Cytosol
+ENSG00000136986,Endoplasmic reticulum;
+ENSG00000136997,Nucleoplasm;
+ENSG00000136999,;Vesicles
+ENSG00000137040,;Vesicles
+ENSG00000137054,;Nucleoli fibrillar center;Nucleus
+ENSG00000137055,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000137074,Nucleoli;Nucleus;
+ENSG00000137075,;Nucleoplasm
+ENSG00000137076,;Cytosol;Focal adhesion sites;Microtubule organizing center;Plasma membrane
+ENSG00000137100,;Cytosol
+ENSG00000137124,;Mitochondria;Nucleoplasm;Vesicles
+ENSG00000137133,Mitochondria;
+ENSG00000137145,;Cytosol;Golgi apparatus;Vesicles
+ENSG00000137154,Cytosol;Endoplasmic reticulum;
+ENSG00000137193,;Cytosol;Nucleoli
+ENSG00000137200,Cytosol;Nucleoplasm;
+ENSG00000137203,Nucleoplasm;
+ENSG00000137207,Golgi apparatus;Nucleoplasm
+ENSG00000137216,Actin filaments;Plasma membrane;
+ENSG00000137265,;Nucleoplasm
+ENSG00000137267,;Microtubules
+ENSG00000137269,;Cytosol
+ENSG00000137274,;Mitochondria
+ENSG00000137275,Cytosol;Plasma membrane;
+ENSG00000137288,;Mitochondria
+ENSG00000137337,;Nuclear bodies;Nucleoplasm
+ENSG00000137404,Nuclear membrane;
+ENSG00000137413,Nucleoplasm;
+ENSG00000137462,;Mitochondria;Nucleus
+ENSG00000137463,;Mitochondria
+ENSG00000137486,;Nucleoplasm
+ENSG00000137497,Nucleoplasm;
+ENSG00000137500,Mitochondria;
+ENSG00000137502,Vesicles;
+ENSG00000137507,;Nucleoplasm
+ENSG00000137574,Cytosol;Nucleus
+ENSG00000137628,;Cytosol
+ENSG00000137656,Nucleus;
+ENSG00000137693,;Nucleoli;Nucleus
+ENSG00000137699,;Intermediate filaments;Nucleoplasm
+ENSG00000137710,Plasma membrane;
+ENSG00000137714,Mitochondria;
+ENSG00000137720,Nucleoplasm;
+ENSG00000137752,;Cytosol
+ENSG00000137760,;Nuclear bodies;Nucleoplasm
+ENSG00000137767,Mitochondria;
+ENSG00000137770,Nucleoplasm;
+ENSG00000137776,Nuclear bodies;Nucleoplasm;
+ENSG00000137804,Nucleus;Nucleoli fibrillar center
+ENSG00000137806,Cytosol;
+ENSG00000137807,Nucleoplasm;
+ENSG00000137812,Nuclear bodies;Nucleoplasm;
+ENSG00000137818,Cytosol;Endoplasmic reticulum;
+ENSG00000137822,;Centrosome
+ENSG00000137824,Mitochondria;
+ENSG00000137831,;Cytosol;Nucleus
+ENSG00000137834,;Nuclear bodies;Nucleus
+ENSG00000137845,;Plasma membrane;Vesicles
+ENSG00000137876,Nucleoli;Nucleus;
+ENSG00000137880,;Nucleoplasm
+ENSG00000137942,;Cytosol
+ENSG00000137947,;Nuclear bodies;Nucleus
+ENSG00000137955,;Vesicles
+ENSG00000137975,;Cell Junctions;Plasma membrane
+ENSG00000137992,;Mitochondria
+ENSG00000137996,Nucleus;
+ENSG00000138029,;Mitochondria
+ENSG00000138035,Mitochondria;
+ENSG00000138069,;Cytosol;Endoplasmic reticulum
+ENSG00000138081,;Nucleus
+ENSG00000138095,Mitochondria;
+ENSG00000138119,;Plasma membrane;Vesicles
+ENSG00000138160,;Cytosol;Mitotic spindle
+ENSG00000138162,;Cytosol;Nucleoplasm
+ENSG00000138175,;Centrosome
+ENSG00000138180,;Microtubule organizing center;Midbody
+ENSG00000138190,;Vesicles
+ENSG00000138193,;Cytosol
+ENSG00000138231,;Nucleoplasm
+ENSG00000138246,;Cytosol;Vesicles
+ENSG00000138311,;Microtubule organizing center
+ENSG00000138336,;Nuclear membrane;Nucleus
+ENSG00000138346,;Mitochondria
+ENSG00000138363,Cytosol;Plasma membrane;
+ENSG00000138375,;Nucleoplasm
+ENSG00000138376,;Nuclear speckles
+ENSG00000138398,;Nuclear speckles
+ENSG00000138430,Cytosol;
+ENSG00000138433,;Nuclear speckles
+ENSG00000138434,;Cytosol
+ENSG00000138435,;Plasma membrane
+ENSG00000138463,;Vesicles
+ENSG00000138495,;Mitochondria
+ENSG00000138496,;Cytosol;Nucleoplasm
+ENSG00000138592,;Cytosol;Golgi apparatus
+ENSG00000138600,;Vesicles
+ENSG00000138660,;Golgi apparatus
+ENSG00000138663,;Nuclear speckles
+ENSG00000138668,Nucleoplasm;
+ENSG00000138674,;Vesicles
+ENSG00000138675,;Nucleoli fibrillar center;Nucleus
+ENSG00000138685,;Nuclear bodies;Nucleoplasm
+ENSG00000138698,;Cytosol
+ENSG00000138738,;Nuclear bodies;Nucleoli;Nucleus
+ENSG00000138756,;Nuclear speckles
+ENSG00000138757,Cytosol;
+ENSG00000138767,;Cytosol
+ENSG00000138768,Golgi apparatus;Nucleoli fibrillar center
+ENSG00000138772,;Cytosol
+ENSG00000138780,;Nucleus
+ENSG00000138794,;Cytosol
+ENSG00000138796,;Mitochondria
+ENSG00000138814,Nucleoplasm;Cytosol
+ENSG00000138835,Cytosol;Nucleoplasm;
+ENSG00000139083,Nucleoli;Cytosol
+ENSG00000139116,;Plasma membrane
+ENSG00000139131,;Mitochondria
+ENSG00000139132,;Actin filaments
+ENSG00000139154,;Nucleus
+ENSG00000139163,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000139180,;Mitochondria
+ENSG00000139187,;Vesicles
+ENSG00000139197,;Cytosol;Golgi apparatus
+ENSG00000139218,Nucleoplasm;Nuclear bodies
+ENSG00000139223,Nucleoplasm;Centrosome;Cytosol
+ENSG00000139233,Nucleoli;
+ENSG00000139289,;Nucleoli
+ENSG00000139370,;Nucleoplasm
+ENSG00000139372,;Nucleoplasm
+ENSG00000139405,;Nucleus
+ENSG00000139433,;Cytosol
+ENSG00000139437,;Cytosol;Plasma membrane
+ENSG00000139515,;Nucleoplasm
+ENSG00000139546,;Nucleoplasm
+ENSG00000139579,Nucleoplasm;
+ENSG00000139613,Nucleoplasm;
+ENSG00000139620,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000139637,;Nucleoplasm
+ENSG00000139641,;Endoplasmic reticulum
+ENSG00000139679,;Plasma membrane
+ENSG00000139687,Nucleoplasm;
+ENSG00000139718,Nucleoplasm;
+ENSG00000139734,;Microtubules;Plasma membrane
+ENSG00000139793,;Nucleoplasm
+ENSG00000139832,;Golgi apparatus;Vesicles
+ENSG00000139910,;Nucleoli;Nucleus
+ENSG00000139921,;Endoplasmic reticulum;Nucleoli
+ENSG00000139970,Endoplasmic reticulum;
+ENSG00000139977,;Cytosol
+ENSG00000140022,;Cytosol
+ENSG00000140092,;Plasma membrane
+ENSG00000140105,Cytosol;
+ENSG00000140262,;Nuclear speckles;Nucleoplasm
+ENSG00000140307,;Nucleoplasm
+ENSG00000140319,Nucleoli;Nucleus;
+ENSG00000140320,;Nucleoplasm
+ENSG00000140326,Cytosol;Plasma membrane
+ENSG00000140332,;Nucleoplasm
+ENSG00000140350,Nucleoplasm;Centrosome;Cytosol
+ENSG00000140365,;Nucleus
+ENSG00000140374,Mitochondria;
+ENSG00000140386,;Nucleus
+ENSG00000140395,Nucleoplasm;Cytosol
+ENSG00000140396,;Nuclear bodies;Nucleoplasm
+ENSG00000140398,;Nucleoplasm
+ENSG00000140400,Nucleoplasm;
+ENSG00000140451,;Nucleoplasm
+ENSG00000140455,;Nucleoplasm
+ENSG00000140463,;Cytosol
+ENSG00000140464,Nuclear bodies;
+ENSG00000140497,;Golgi apparatus;Vesicles
+ENSG00000140525,Nucleoplasm;
+ENSG00000140534,Nucleoplasm;
+ENSG00000140538,;Nucleoli
+ENSG00000140553,;Cytosol;Nuclear speckles
+ENSG00000140563,Cytosol;Nucleoplasm;
+ENSG00000140564,;Golgi apparatus
+ENSG00000140575,;Cell Junctions;Plasma membrane
+ENSG00000140577,Cytosol;Nucleoplasm;
+ENSG00000140632,Nucleoplasm;Nuclear speckles
+ENSG00000140682,;Focal adhesion sites
+ENSG00000140740,Mitochondria;
+ENSG00000140829,;Nucleus
+ENSG00000140830,;Nucleoplasm
+ENSG00000140853,;Centrosome
+ENSG00000140854,;Cytosol;Microtubules
+ENSG00000140939,;Cytosol;Nucleus
+ENSG00000140945,;Plasma membrane
+ENSG00000140968,Nucleoplasm;
+ENSG00000140983,;Cytosol
+ENSG00000140993,;Cytosol;Plasma membrane
+ENSG00000141027,Cytosol;Nucleoplasm;
+ENSG00000141030,;Cytosol;Nucleus
+ENSG00000141076,;Nucleoli fibrillar center
+ENSG00000141098,;Nucleoplasm
+ENSG00000141161,;Cytosol
+ENSG00000141279,;Cytosol
+ENSG00000141295,;Nucleoplasm
+ENSG00000141349,;Endoplasmic reticulum
+ENSG00000141367,Vesicles;Mitotic spindle
+ENSG00000141376,;Nucleoli
+ENSG00000141378,;Mitochondria
+ENSG00000141384,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000141385,Mitochondria;
+ENSG00000141425,;Nucleus
+ENSG00000141448,;Nucleus
+ENSG00000141456,Nucleoli;Nucleus;
+ENSG00000141458,;Vesicles
+ENSG00000141469,;Vesicles
+ENSG00000141480,;Vesicles
+ENSG00000141499,Cytosol;Nuclear bodies;
+ENSG00000141505,;Vesicles
+ENSG00000141506,;Cytosol
+ENSG00000141510,Nucleoplasm;
+ENSG00000141522,Cytosol;
+ENSG00000141526,;Plasma membrane
+ENSG00000141543,;Nucleoplasm
+ENSG00000141551,;Nucleoli fibrillar center;Nucleus
+ENSG00000141552,Nucleoli;Nucleoplasm;
+ENSG00000141562,;Nucleus
+ENSG00000141564,Lysosomes;Cytosol
+ENSG00000141568,;Nucleoplasm;Vesicles
+ENSG00000141569,;Cytosol;Nucleoplasm
+ENSG00000141570,Nucleoplasm;
+ENSG00000141577,;Cytokinetic bridge;Microtubule organizing center;Microtubules
+ENSG00000141582,Nucleoplasm;Nuclear bodies
+ENSG00000141627,;Golgi apparatus
+ENSG00000141642,;Cytosol;Nucleus
+ENSG00000141644,Nucleoplasm;Vesicles;
+ENSG00000141646,;Cytosol;Nucleoplasm
+ENSG00000141655,;Plasma membrane
+ENSG00000141736,;Cytosol;Plasma membrane
+ENSG00000141738,;Plasma membrane
+ENSG00000141867,Nucleoplasm;
+ENSG00000141905,Nucleus;Nucleoli fibrillar center
+ENSG00000141956,;Nuclear bodies;Nucleoplasm
+ENSG00000141965,;Golgi apparatus;Nucleus
+ENSG00000141971,;Nucleoplasm
+ENSG00000141985,Cytosol;
+ENSG00000142002,;Cytosol
+ENSG00000142039,;Nucleoplasm
+ENSG00000142102,Cytosol;
+ENSG00000142168,;Cytosol;Nucleus;Plasma membrane
+ENSG00000142178,;Cytosol
+ENSG00000142186,;Cytosol
+ENSG00000142207,;Nucleoli fibrillar center
+ENSG00000142208,;Microtubules;Nucleus
+ENSG00000142252,;Cytosol;Nucleus
+ENSG00000142453,Nucleoplasm;
+ENSG00000142507,;Cytosol;Nucleoplasm
+ENSG00000142512,;Actin filaments;Cytosol;Plasma membrane
+ENSG00000142528,;Nucleoplasm
+ENSG00000142534,;Cytosol;Endoplasmic reticulum
+ENSG00000142546,Nucleus;
+ENSG00000142611,Nucleoplasm;
+ENSG00000142627,;Cell Junctions;Plasma membrane
+ENSG00000142655,Peroxisomes;
+ENSG00000142684,Nucleoli;Nucleus;
+ENSG00000142731,;Centrosome
+ENSG00000142784,;Vesicles
+ENSG00000142856,;Nucleoplasm
+ENSG00000142864,Cytosol;
+ENSG00000142937,;Cytosol;Endoplasmic reticulum
+ENSG00000142945,;Centrosome;Nucleoplasm
+ENSG00000142973,;Vesicles
+ENSG00000143013,;Nucleoplasm
+ENSG00000143033,;Nucleoplasm
+ENSG00000143093,;Cytosol
+ENSG00000143155,;Cytosol;Vesicles
+ENSG00000143157,;Nucleoplasm
+ENSG00000143164,;Nucleus
+ENSG00000143171,;Nuclear bodies;Nucleoplasm
+ENSG00000143183,;Endoplasmic reticulum
+ENSG00000143190,;Nucleoplasm;Vesicles
+ENSG00000143217,;Plasma membrane
+ENSG00000143228,;Nucleus
+ENSG00000143248,;Cytosol
+ENSG00000143256,Cytosol;
+ENSG00000143258,;Cytosol;Nucleoplasm
+ENSG00000143294,Nuclear speckles;
+ENSG00000143319,;Nucleoplasm
+ENSG00000143320,;Cytosol;Nucleoplasm
+ENSG00000143321,Nucleoplasm;
+ENSG00000143322,;Nucleoplasm
+ENSG00000143337,Nuclear membrane;
+ENSG00000143353,;Cytosol
+ENSG00000143363,;Cytosol
+ENSG00000143365,;Nuclear bodies
+ENSG00000143373,Nucleoplasm;
+ENSG00000143375,;Cell Junctions;Plasma membrane
+ENSG00000143379,Nucleoplasm;
+ENSG00000143384,Mitochondria;
+ENSG00000143387,;Vesicles
+ENSG00000143393,;Golgi apparatus
+ENSG00000143398,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000143401,;Nucleoplasm
+ENSG00000143409,;Nucleoplasm
+ENSG00000143416,;Nucleoli
+ENSG00000143418,;Endoplasmic reticulum;Nuclear membrane
+ENSG00000143436,;Mitochondria
+ENSG00000143437,;Nuclear bodies;Nucleus
+ENSG00000143442,Nucleoplasm;
+ENSG00000143450,;Nucleoplasm
+ENSG00000143458,;Nucleoplasm
+ENSG00000143469,;Vesicles
+ENSG00000143476,Nucleus;
+ENSG00000143479,;Nucleoplasm
+ENSG00000143493,;Nuclear bodies
+ENSG00000143498,;Nucleoplasm
+ENSG00000143507,;Cytosol;Nucleoplasm
+ENSG00000143514,Cell Junctions;Cytosol;
+ENSG00000143545,;Cytosol;Plasma membrane
+ENSG00000143546,;Intermediate filaments
+ENSG00000143554,;Endoplasmic reticulum
+ENSG00000143575,;Mitochondria
+ENSG00000143614,Nucleoplasm;
+ENSG00000143621,Nucleus;Nucleoli
+ENSG00000143624,;Nucleoli;Nucleus
+ENSG00000143631,;Vesicles
+ENSG00000143633,Nucleoli;
+ENSG00000143641,Golgi apparatus;
+ENSG00000143702,Centrosome;
+ENSG00000143748,Nucleoli;
+ENSG00000143753,;Mitochondria
+ENSG00000143756,;Nucleus
+ENSG00000143799,Nucleus;
+ENSG00000143801,;Nucleus
+ENSG00000143815,Nuclear membrane;
+ENSG00000143842,Nucleoplasm;
+ENSG00000143850,;Cell Junctions;Vesicles
+ENSG00000143870,;Endoplasmic reticulum
+ENSG00000143919,;Nucleus
+ENSG00000143924,;Microtubules
+ENSG00000143952,Golgi apparatus;
+ENSG00000143970,Nucleoplasm;
+ENSG00000143995,;Nucleoplasm
+ENSG00000144028,;Nucleoplasm
+ENSG00000144029,;Mitochondria
+ENSG00000144034,;Cytosol
+ENSG00000144048,;Nucleus
+ENSG00000144161,;Nuclear bodies;Nucleoplasm
+ENSG00000144218,;Nucleoplasm
+ENSG00000144224,;Endoplasmic reticulum
+ENSG00000144231,;Nuclear speckles;Nucleoplasm
+ENSG00000144283,Cell Junctions;Plasma membrane
+ENSG00000144285,;Plasma membrane
+ENSG00000144320,;Endoplasmic reticulum
+ENSG00000144331,;Nucleoli fibrillar center
+ENSG00000144354,;Cytosol;Nucleoplasm
+ENSG00000144381,Mitochondria;
+ENSG00000144468,;Endoplasmic reticulum
+ENSG00000144476,;Plasma membrane
+ENSG00000144524,;Nucleoplasm
+ENSG00000144554,;Nuclear bodies;Nucleoli;Nucleus
+ENSG00000144579,;Nucleoplasm
+ENSG00000144589,Vesicles;
+ENSG00000144597,Nuclear bodies;
+ENSG00000144635,;Centrosome;Cytosol
+ENSG00000144648,;Cytosol;Vesicles
+ENSG00000144649,;Vesicles
+ENSG00000144655,Nucleoplasm;
+ENSG00000144674,;Cytosol;Golgi apparatus
+ENSG00000144730,;Golgi apparatus;Nucleoplasm
+ENSG00000144736,;Nucleoplasm
+ENSG00000144741,;Mitochondria
+ENSG00000144747,;Golgi apparatus
+ENSG00000144791,;Focal adhesion sites;Nucleus
+ENSG00000144802,;Nuclear speckles
+ENSG00000144810,;Vesicles
+ENSG00000144824,;Cytosol;Plasma membrane
+ENSG00000144848,;Cytosol;Plasma membrane
+ENSG00000144852,Nucleoplasm;
+ENSG00000144857,;Nucleoplasm;Plasma membrane
+ENSG00000144908,Cytosol;
+ENSG00000145012,Cytosol;Focal adhesion sites;
+ENSG00000145016,;Vesicles
+ENSG00000145020,;Mitochondria
+ENSG00000145029,;Nucleoplasm
+ENSG00000145041,Nucleoli fibrillar center;Nucleus;
+ENSG00000145050,;Endoplasmic reticulum
+ENSG00000145191,Cytosol;
+ENSG00000145192,;Golgi apparatus
+ENSG00000145216,Nucleoplasm;
+ENSG00000145220,;Nucleoli
+ENSG00000145241,Nuclear bodies;
+ENSG00000145246,;Plasma membrane
+ENSG00000145247,Mitochondria;
+ENSG00000145332,Nucleoplasm;
+ENSG00000145349,;Cell Junctions;Plasma membrane
+ENSG00000145354,;Endoplasmic reticulum
+ENSG00000145362,;Plasma membrane
+ENSG00000145386,Cytosol;Nucleoplasm;
+ENSG00000145388,;Nucleoplasm
+ENSG00000145391,;Nucleoli
+ENSG00000145414,Nucleus;Cytosol
+ENSG00000145416,;Mitochondria
+ENSG00000145425,Cytosol;Endoplasmic reticulum;Nucleoli;
+ENSG00000145431,;Cytosol;Plasma membrane
+ENSG00000145495,;Endoplasmic reticulum
+ENSG00000145555,;Cytosol;Plasma membrane
+ENSG00000145604,;Cytosol;Nucleus
+ENSG00000145681,;Vesicles
+ENSG00000145687,;Nucleoplasm
+ENSG00000145692,;Cytosol
+ENSG00000145736,;Nuclear speckles
+ENSG00000145740,;Golgi apparatus
+ENSG00000145741,;Cytosol
+ENSG00000145817,;Endoplasmic reticulum;Golgi apparatus;Vesicles
+ENSG00000145833,Nuclear speckles;
+ENSG00000145868,;Nucleoplasm;Plasma membrane
+ENSG00000145901,;Cytosol;Nucleoplasm
+ENSG00000145907,Cytosol;
+ENSG00000145908,;Nucleoli;Nucleoplasm
+ENSG00000145911,;
+ENSG00000145912,;Nucleoplasm
+ENSG00000145945,Cytokinetic bridge;Nucleoplasm;
+ENSG00000146038,Cytosol;Microtubule organizing center;Microtubules;Mitotic spindle;
+ENSG00000146063,;Nuclear bodies;Nucleoli
+ENSG00000146066,;Mitochondria
+ENSG00000146067,Nucleus;
+ENSG00000146122,;Nucleoplasm
+ENSG00000146143,;Nucleoplasm
+ENSG00000146197,;Plasma membrane
+ENSG00000146216,;Cytosol
+ENSG00000146232,;Cytosol;Nucleoli fibrillar center;Nucleus
+ENSG00000146247,;Nucleoplasm
+ENSG00000146263,;Nucleoplasm
+ENSG00000146281,Nucleoplasm;
+ENSG00000146285,Nucleoplasm;
+ENSG00000146409,;Cytosol
+ENSG00000146411,Cell Junctions;Plasma membrane;
+ENSG00000146425,;Nucleoplasm
+ENSG00000146426,;Cytosol;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000146457,Nuclear speckles;Nucleoplasm
+ENSG00000146463,;Cytosol;Nucleoplasm
+ENSG00000146535,;Cytosol
+ENSG00000146574,Vesicles;
+ENSG00000146587,;Nucleoplasm
+ENSG00000146648,Plasma membrane;
+ENSG00000146670,;Nucleoplasm
+ENSG00000146676,;Nucleus
+ENSG00000146701,Mitochondria;
+ENSG00000146729,;Mitochondria
+ENSG00000146826,Microtubule organizing center;Vesicles;
+ENSG00000146833,;Cytosol
+ENSG00000146858,Cytosol;
+ENSG00000146909,Nucleoli;
+ENSG00000146918,;Nuclear speckles
+ENSG00000147010,;Cytosol
+ENSG00000147065,Plasma membrane;
+ENSG00000147082,;Nuclear speckles
+ENSG00000147099,;Nucleus;Plasma membrane
+ENSG00000147123,Mitochondria;
+ENSG00000147130,Nucleoplasm;
+ENSG00000147133,Nucleoplasm;
+ENSG00000147140,Nucleoplasm;
+ENSG00000147145,;Plasma membrane
+ENSG00000147155,;Endoplasmic reticulum
+ENSG00000147162,;Nucleoplasm;Plasma membrane
+ENSG00000147202,;Vesicles
+ENSG00000147206,;Nucleoplasm
+ENSG00000147383,Endoplasmic reticulum;Lipid droplets;
+ENSG00000147394,;Actin filaments;Cytosol;Focal adhesion sites;Plasma membrane
+ENSG00000147403,Cytosol;Endoplasmic reticulum;
+ENSG00000147408,;Actin filaments
+ENSG00000147416,;Vesicles
+ENSG00000147421,Cytosol;Nuclear bodies;Nucleoplasm;
+ENSG00000147457,;Cytosol;Nucleus
+ENSG00000147459,Cytosol;
+ENSG00000147475,;Endoplasmic reticulum
+ENSG00000147536,;Nucleoplasm
+ENSG00000147586,Mitochondria;
+ENSG00000147592,;Cytosol;Golgi apparatus;Nucleus
+ENSG00000147601,;Nuclear bodies
+ENSG00000147642,;Vesicles
+ENSG00000147649,Endoplasmic reticulum;
+ENSG00000147654,Golgi apparatus;
+ENSG00000147684,;Mitochondria
+ENSG00000147687,;Nucleoplasm
+ENSG00000147697,Mitochondria;
+ENSG00000147853,;Mitochondria
+ENSG00000147854,Nucleoplasm;
+ENSG00000147862,;Nucleoli fibrillar center;Nucleus
+ENSG00000147872,;Lipid droplets
+ENSG00000147874,;Microtubule organizing center
+ENSG00000147889,Nucleoli;
+ENSG00000147905,Cytosol;Nucleoli;
+ENSG00000148082,Cytosol;Nucleoplasm;
+ENSG00000148123,;Nucleoplasm
+ENSG00000148153,;Nucleoplasm
+ENSG00000148180,;Actin filaments
+ENSG00000148200,;Nucleus
+ENSG00000148291,Nucleoli;Nucleus;
+ENSG00000148296,Nucleoli;
+ENSG00000148300,;Nucleoli;Nucleus
+ENSG00000148308,Nucleoplasm;
+ENSG00000148335,Cytosol;Nucleoplasm;
+ENSG00000148337,Nucleoplasm;
+ENSG00000148339,;Mitochondria
+ENSG00000148341,;Cytosol
+ENSG00000148344,;Endoplasmic reticulum
+ENSG00000148346,;Endoplasmic reticulum
+ENSG00000148362,;Nucleus
+ENSG00000148396,;Endoplasmic reticulum;Golgi apparatus
+ENSG00000148481,;Nuclear membrane;Nucleoplasm
+ENSG00000148498,Cell Junctions;
+ENSG00000148516,;Nucleoplasm
+ENSG00000148584,;Nucleoplasm
+ENSG00000148606,;Nucleoplasm
+ENSG00000148634,;Cytosol
+ENSG00000148655,;Nucleus
+ENSG00000148660,;Cell Junctions;Cytosol;Plasma membrane
+ENSG00000148671,;Nucleoplasm
+ENSG00000148672,;Mitochondria
+ENSG00000148677,;Nucleoli fibrillar center;Nucleus
+ENSG00000148680,;Plasma membrane
+ENSG00000148700,;Plasma membrane
+ENSG00000148719,;Endoplasmic reticulum
+ENSG00000148735,;Centrosome
+ENSG00000148737,;Nuclear bodies
+ENSG00000148773,Nuclear bodies;Nucleoli;Nucleus;
+ENSG00000148798,;Intermediate filaments
+ENSG00000148824,;Mitochondria
+ENSG00000148835,;Nucleoplasm
+ENSG00000148840,Nucleoplasm;
+ENSG00000148842,Vesicles;
+ENSG00000148843,;Nucleoli
+ENSG00000148848,;Plasma membrane
+ENSG00000148908,;Nucleus;Plasma membrane
+ENSG00000148925,;Nucleoli fibrillar center;Nucleus
+ENSG00000149016,;Nucleus
+ENSG00000149091,;Nuclear speckles
+ENSG00000149100,;Cytosol
+ENSG00000149182,;Golgi apparatus
+ENSG00000149187,Nucleoplasm;
+ENSG00000149257,Endoplasmic reticulum;
+ENSG00000149269,;Cytosol;Plasma membrane
+ENSG00000149273,Cytosol;Endoplasmic reticulum;
+ENSG00000149294,Cytosol;Plasma membrane;
+ENSG00000149300,Cell Junctions;
+ENSG00000149308,;Nuclear bodies;Nucleoplasm
+ENSG00000149311,;Nucleoplasm
+ENSG00000149328,;Nucleus
+ENSG00000149357,;Golgi apparatus;Plasma membrane;Vesicles
+ENSG00000149480,Nucleoplasm;
+ENSG00000149503,;Midbody;Nuclear bodies;Nucleus
+ENSG00000149532,;Cytosol;Nucleoplasm
+ENSG00000149547,;Cytosol;Endoplasmic reticulum;Golgi apparatus
+ENSG00000149557,;Microtubules
+ENSG00000149600,;Vesicles
+ENSG00000149636,;Nuclear bodies;Nucleus
+ENSG00000149657,;Vesicles
+ENSG00000149761,Nucleoplasm;
+ENSG00000149782,Nucleoplasm;
+ENSG00000149798,;Cytosol;Microtubules
+ENSG00000149806,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000149809,;Endoplasmic reticulum
+ENSG00000149923,;Cytosol;Nucleus
+ENSG00000149925,;Cytosol
+ENSG00000149929,Nucleus;
+ENSG00000149930,;Nucleoli;Nucleus
+ENSG00000149948,;Nucleoli;Nucleus
+ENSG00000149968,;Vesicles
+ENSG00000149972,;Cytosol
+ENSG00000150054,;Cell Junctions
+ENSG00000150093,;Focal adhesion sites;Plasma membrane
+ENSG00000150457,;Cytosol;Microtubule organizing center
+ENSG00000150459,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000150526,;Endoplasmic reticulum
+ENSG00000150753,;Cytosol
+ENSG00000150760,Nucleus;
+ENSG00000150764,;Cytosol
+ENSG00000150768,Mitochondria;
+ENSG00000150776,;Cytosol
+ENSG00000150907,;Cytosol;Nucleoplasm
+ENSG00000150967,;Vesicles
+ENSG00000150977,;Cytosol
+ENSG00000151012,;Vesicles
+ENSG00000151014,;Cytosol;Nuclear bodies
+ENSG00000151065,;Cytosol
+ENSG00000151090,;Nuclear bodies
+ENSG00000151151,Nucleus;
+ENSG00000151208,;Cell Junctions
+ENSG00000151239,Cytosol;
+ENSG00000151247,Cytoplasmic bodies;Cytosol;
+ENSG00000151276,Cell Junctions;Nucleoplasm;
+ENSG00000151304,;Nucleoli fibrillar center;Nucleus
+ENSG00000151332,;Cytosol;Nucleoli;Nucleus
+ENSG00000151348,;Golgi apparatus
+ENSG00000151366,;Mitochondria
+ENSG00000151414,;Nucleoplasm
+ENSG00000151422,;Cytosol
+ENSG00000151461,;Cytoplasmic bodies;Cytosol
+ENSG00000151466,;Cytosol;Microtubules
+ENSG00000151475,Mitochondria;
+ENSG00000151500,;Nucleoli fibrillar center;Nucleus
+ENSG00000151503,;Nucleoplasm
+ENSG00000151532,;Golgi apparatus;Vesicles
+ENSG00000151623,;Nucleoplasm
+ENSG00000151657,Nucleus;
+ENSG00000151693,;Cytosol
+ENSG00000151694,;Cytosol
+ENSG00000151702,;Nuclear bodies;Nucleus
+ENSG00000151725,;Microtubule organizing center;Nucleus
+ENSG00000151726,;Mitochondria;Nucleus
+ENSG00000151729,Mitochondria;
+ENSG00000151748,;Cytosol
+ENSG00000151929,Cytosol;Plasma membrane;
+ENSG00000151948,Cytosol;
+ENSG00000152056,;Vesicles
+ENSG00000152082,;Centrosome
+ENSG00000152086,;Microtubules
+ENSG00000152104,Nucleoplasm;
+ENSG00000152133,;Nucleus
+ENSG00000152137,;Cytosol
+ENSG00000152147,;Nuclear bodies;Nucleoplasm
+ENSG00000152217,;Nuclear bodies;Nucleus
+ENSG00000152234,;Mitochondria
+ENSG00000152240,;Centrosome;Cytosol
+ENSG00000152253,Cytosol;
+ENSG00000152284,;Nucleoplasm
+ENSG00000152291,Golgi apparatus;Nucleoplasm;
+ENSG00000152332,;Nucleoplasm
+ENSG00000152382,;Nucleoplasm
+ENSG00000152422,;Nucleus
+ENSG00000152454,;Nucleus
+ENSG00000152457,;Nucleoplasm
+ENSG00000152464,;Nucleoli
+ENSG00000152465,;Cytosol;Golgi apparatus;Plasma membrane
+ENSG00000152492,;Cytosol
+ENSG00000152495,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000152527,;Cytosol;Plasma membrane
+ENSG00000152558,;Golgi apparatus
+ENSG00000152601,Nucleoplasm;Cytosol
+ENSG00000152661,;Cell Junctions
+ENSG00000152683,Golgi apparatus;
+ENSG00000152767,;Cytosol
+ENSG00000152778,;Plasma membrane
+ENSG00000152795,Nucleoplasm;
+ENSG00000152894,;Cell Junctions;Plasma membrane
+ENSG00000152939,;Cell Junctions
+ENSG00000152942,Nucleoplasm;
+ENSG00000152977,;Nucleoplasm
+ENSG00000153015,Nucleoplasm;
+ENSG00000153029,;Plasma membrane
+ENSG00000153044,;Nucleoli;Nucleus
+ENSG00000153046,;Nuclear speckles
+ENSG00000153060,;Actin filaments
+ENSG00000153066,;Cytosol;Plasma membrane
+ENSG00000153071,Plasma membrane;Vesicles;
+ENSG00000153093,;Cytosol
+ENSG00000153113,Cytosol;Endoplasmic reticulum;
+ENSG00000153132,Endoplasmic reticulum;
+ENSG00000153140,;Centrosome
+ENSG00000153147,;Nucleus
+ENSG00000153157,;Nucleoplasm
+ENSG00000153179,;Cytosol
+ENSG00000153187,;Nucleoplasm
+ENSG00000153207,;Nuclear membrane
+ENSG00000153233,;Cell Junctions;Cytosol;Plasma membrane
+ENSG00000153234,;Nuclear speckles
+ENSG00000153250,;Cytosol
+ENSG00000153291,;Mitochondria
+ENSG00000153391,;Nucleoli fibrillar center
+ENSG00000153395,;Endoplasmic reticulum;Lipid droplets
+ENSG00000153406,Nucleus;
+ENSG00000153560,;Nucleoplasm
+ENSG00000153767,Nucleus;
+ENSG00000153786,Golgi apparatus;
+ENSG00000153814,;Nucleoli fibrillar center;Nucleus
+ENSG00000153815,;Cytosol;Nucleoplasm
+ENSG00000153879,;Nucleoplasm
+ENSG00000153898,;Intermediate filaments
+ENSG00000153914,Nuclear speckles;Nucleoplasm;
+ENSG00000153922,;Nucleoli fibrillar center;Nucleus
+ENSG00000153944,;Cytosol
+ENSG00000154001,;Cytosol
+ENSG00000154027,;Cytosol
+ENSG00000154040,;Cytosol;Nucleus
+ENSG00000154144,Nucleus;
+ENSG00000154153,;Endoplasmic reticulum
+ENSG00000154174,Mitochondria;
+ENSG00000154222,;Nucleoplasm
+ENSG00000154229,Cytosol;Plasma membrane;
+ENSG00000154237,;Cytosol
+ENSG00000154274,;Cell Junctions
+ENSG00000154277,Cytosol;
+ENSG00000154305,Vesicles;
+ENSG00000154310,;Cytosol;Nucleoplasm
+ENSG00000154328,Nucleoplasm;Vesicles
+ENSG00000154370,Cytosol;Nucleus;
+ENSG00000154380,Cytosol;Focal adhesion sites;Plasma membrane;
+ENSG00000154429,;Microtubule ends;Nucleus
+ENSG00000154447,;Vesicles
+ENSG00000154473,Nucleoplasm;
+ENSG00000154556,;Nucleoplasm
+ENSG00000154639,Cell Junctions;Plasma membrane;
+ENSG00000154654,;Plasma membrane
+ENSG00000154710,;Cytosol
+ENSG00000154721,;Plasma membrane
+ENSG00000154723,;Mitochondria
+ENSG00000154727,Nucleoplasm;
+ENSG00000154736,;Nucleoplasm
+ENSG00000154743,Nucleoplasm;Cytosol
+ENSG00000154767,Nucleus;Plasma membrane;
+ENSG00000154781,Nucleoplasm;
+ENSG00000154803,;Cytosol;Plasma membrane
+ENSG00000154813,;Cytosol;Nucleoplasm
+ENSG00000154832,Nucleus;
+ENSG00000154839,;Microtubules
+ENSG00000155011,;Golgi apparatus
+ENSG00000155052,;Nucleoli fibrillar center
+ENSG00000155093,;Vesicles
+ENSG00000155097,;Cytosol;Nucleoplasm
+ENSG00000155115,;Nuclear bodies;Nucleoplasm
+ENSG00000155229,Nucleoplasm;
+ENSG00000155307,Plasma membrane;
+ENSG00000155313,;Cytosol
+ENSG00000155380,Cell Junctions;Plasma membrane;
+ENSG00000155438,Nucleoli;
+ENSG00000155463,;Mitochondria
+ENSG00000155506,;Cytosol
+ENSG00000155545,Nucleoplasm;
+ENSG00000155636,;Nucleus
+ENSG00000155660,;Endoplasmic reticulum
+ENSG00000155744,;Cell Junctions
+ENSG00000155792,Mitochondria;Nucleoplasm
+ENSG00000155827,Nucleoplasm;
+ENSG00000155846,;Nucleus
+ENSG00000155858,;Nuclear bodies;Nucleus
+ENSG00000155868,;Nuclear bodies
+ENSG00000155906,;Mitochondria
+ENSG00000155957,;Golgi apparatus
+ENSG00000155959,;Cytosol;Vesicles
+ENSG00000156026,;Mitochondria
+ENSG00000156030,Nucleoplasm;
+ENSG00000156110,;Cytosol;Nucleoplasm
+ENSG00000156127,Nucleoplasm;
+ENSG00000156136,;Nucleus
+ENSG00000156171,Golgi apparatus;Vesicles;
+ENSG00000156232,;Cytosol
+ENSG00000156299,Cell Junctions;Nucleus
+ENSG00000156304,Nucleoplasm;
+ENSG00000156313,;Golgi apparatus
+ENSG00000156345,;Nucleoplasm
+ENSG00000156411,;Mitochondria;Nucleoli fibrillar center
+ENSG00000156413,;Golgi apparatus
+ENSG00000156466,;Vesicles
+ENSG00000156469,;Mitochondria
+ENSG00000156502,;Mitochondria
+ENSG00000156508,;Cytosol
+ENSG00000156510,Mitochondria;
+ENSG00000156515,Mitochondria;
+ENSG00000156531,Nucleoli;Nucleus;
+ENSG00000156564,;Vesicles
+ENSG00000156603,;Nuclear bodies
+ENSG00000156671,;Endoplasmic reticulum
+ENSG00000156675,Vesicles;
+ENSG00000156697,;Nucleoli
+ENSG00000156738,;Plasma membrane
+ENSG00000156795,;Nucleoplasm;Vesicles
+ENSG00000156802,Nucleoplasm;
+ENSG00000156804,;Cytosol;Nucleoplasm
+ENSG00000156831,;Nuclear bodies;Nucleus
+ENSG00000156873,;Cytosol
+ENSG00000156876,;Microtubule organizing center
+ENSG00000156925,;Nucleoplasm
+ENSG00000156928,Mitochondria;
+ENSG00000156968,;Vesicles
+ENSG00000156970,;Cytosol
+ENSG00000157014,;Cytosol;Nucleus
+ENSG00000157020,;Nucleoplasm;Vesicles
+ENSG00000157077,Cytosol;Vesicles;
+ENSG00000157106,;Nucleoplasm
+ENSG00000157110,;Cytosol;Nucleoplasm
+ENSG00000157184,Mitochondria;
+ENSG00000157214,;Vesicles
+ENSG00000157240,;Plasma membrane
+ENSG00000157259,;Nucleus
+ENSG00000157399,;Golgi apparatus
+ENSG00000157404,;Plasma membrane
+ENSG00000157450,;Cytosol;Nucleus
+ENSG00000157456,Cytosol;Golgi apparatus
+ENSG00000157557,Nucleoplasm;
+ENSG00000157601,;Cytosol;Nuclear membrane
+ENSG00000157637,Golgi apparatus;
+ENSG00000157741,;Nucleoplasm
+ENSG00000157800,;Cytosol
+ENSG00000157837,;Plasma membrane;Vesicles
+ENSG00000157895,Nucleoli;
+ENSG00000157916,Golgi apparatus;
+ENSG00000157933,;Nuclear bodies;Nucleoplasm
+ENSG00000157954,;Cytosol;Nucleoplasm
+ENSG00000158019,;Cytosol
+ENSG00000158050,;Nuclear membrane;Nucleus
+ENSG00000158079,;Nucleoplasm
+ENSG00000158092,Cytosol;Plasma membrane;
+ENSG00000158125,;Nucleus
+ENSG00000158161,Nucleoplasm;
+ENSG00000158169,;Nucleoplasm
+ENSG00000158290,Nucleoplasm;
+ENSG00000158296,;Plasma membrane
+ENSG00000158402,;Nuclear speckles
+ENSG00000158411,Vesicles;
+ENSG00000158435,;Nucleoplasm
+ENSG00000158458,;Nucleoli;Nucleus
+ENSG00000158473,;Endoplasmic reticulum
+ENSG00000158545,Nuclear speckles;
+ENSG00000158636,Nucleoplasm;
+ENSG00000158711,;Nucleoplasm
+ENSG00000158716,;Nucleoplasm
+ENSG00000158769,;Cell Junctions
+ENSG00000158773,Nucleoplasm;
+ENSG00000158813,;Vesicles
+ENSG00000158850,;Golgi apparatus
+ENSG00000158864,Mitochondria;Nucleoplasm;
+ENSG00000158941,Nuclear bodies;Nucleoplasm;
+ENSG00000159023,;Cell Junctions;Cytosol;Plasma membrane
+ENSG00000159111,Mitochondria;
+ENSG00000159140,Nuclear speckles;
+ENSG00000159166,Actin filaments;
+ENSG00000159184,Nucleoplasm;
+ENSG00000159202,;Cytosol;Nucleoplasm
+ENSG00000159208,;Nucleoplasm
+ENSG00000159210,;Cytosol;Nucleoplasm
+ENSG00000159214,Cytosol;Plasma membrane;
+ENSG00000159216,Nucleoplasm;Vesicles;
+ENSG00000159217,;Cytosol
+ENSG00000159231,;Cytosol
+ENSG00000159256,Nucleoplasm;
+ENSG00000159259,;Nucleoplasm
+ENSG00000159263,;Nuclear bodies;Nucleoplasm
+ENSG00000159267,;Cytosol
+ENSG00000159314,;Cytosol;Nucleus
+ENSG00000159352,Cytosol;Nucleoplasm;
+ENSG00000159433,;Microtubules
+ENSG00000159461,;Endoplasmic reticulum
+ENSG00000159685,;Mitochondria
+ENSG00000159692,Nucleoplasm;
+ENSG00000159784,Cytosol;Nucleoplasm;
+ENSG00000159788,;Nucleus
+ENSG00000159840,;Focal adhesion sites
+ENSG00000159884,Nucleoplasm;Plasma membrane;
+ENSG00000159917,;Nucleoplasm
+ENSG00000159921,;Cytosol
+ENSG00000160007,;Nuclear bodies
+ENSG00000160049,;Cytosol
+ENSG00000160051,;Vesicles
+ENSG00000160058,Golgi apparatus;
+ENSG00000160072,;Mitochondria
+ENSG00000160145,;Cytosol
+ENSG00000160179,;Golgi apparatus;Vesicles
+ENSG00000160185,;Nucleoplasm
+ENSG00000160193,;Nucleus
+ENSG00000160194,Mitochondria;
+ENSG00000160199,Nucleoplasm;
+ENSG00000160201,Nucleoplasm;
+ENSG00000160208,Nucleoli;
+ENSG00000160209,Nucleus;
+ENSG00000160213,;Cytosol
+ENSG00000160214,Nucleoli;
+ENSG00000160223,;Plasma membrane
+ENSG00000160294,;Cytosol;Nuclear membrane;Nucleus
+ENSG00000160298,;Nucleoplasm
+ENSG00000160299,Centrosome;
+ENSG00000160310,Cytosol;Nucleoplasm;
+ENSG00000160360,;Golgi apparatus
+ENSG00000160392,Nucleoplasm;
+ENSG00000160401,Cytosol;Plasma membrane;
+ENSG00000160439,;Mitochondria
+ENSG00000160469,;Nucleoplasm
+ENSG00000160563,;Nucleoli;Nucleus
+ENSG00000160633,Nucleoplasm;
+ENSG00000160679,Nuclear speckles;
+ENSG00000160685,Nucleoplasm;
+ENSG00000160688,;Cytosol
+ENSG00000160691,Cytosol;
+ENSG00000160703,;Mitochondria
+ENSG00000160710,Nucleoli;Nucleus;
+ENSG00000160741,Nucleoplasm;
+ENSG00000160753,;Cytosol
+ENSG00000160767,;Nucleoplasm
+ENSG00000160799,;Nucleoplasm
+ENSG00000160803,;Nucleus
+ENSG00000160818,;Nucleoli;Nucleus
+ENSG00000160877,Nucleoplasm;
+ENSG00000160886,;Plasma membrane
+ENSG00000160888,Nucleoplasm;
+ENSG00000160917,;Nucleoplasm
+ENSG00000160949,Nucleoplasm;Nuclear bodies
+ENSG00000160957,Nucleus;
+ENSG00000160999,Cytosol;
+ENSG00000161011,Cytosol;Vesicles;
+ENSG00000161016,Cytosol;Endoplasmic reticulum;Nucleoli;
+ENSG00000161021,Nucleoplasm;
+ENSG00000161036,;Nucleoli;Nucleus
+ENSG00000161048,Cytosol;
+ENSG00000161057,;Cytoplasmic bodies;Cytosol
+ENSG00000161203,;Plasma membrane
+ENSG00000161267,Mitochondria;
+ENSG00000161277,Nucleoplasm;
+ENSG00000161513,Mitochondria;
+ENSG00000161526,Nucleoplasm;
+ENSG00000161533,Vesicles;
+ENSG00000161544,Nuclear speckles;
+ENSG00000161551,;Nucleoli;Nucleus
+ENSG00000161618,;Mitochondria
+ENSG00000161642,;Cytosol
+ENSG00000161653,;Mitochondria
+ENSG00000161681,;Plasma membrane
+ENSG00000161692,;Nucleus
+ENSG00000161791,;Cytosol;Plasma membrane
+ENSG00000161800,Nucleoplasm;
+ENSG00000161813,Cytosol;
+ENSG00000161847,;Nucleoplasm
+ENSG00000161860,;Nucleus
+ENSG00000161888,;Nucleoli;Nucleus
+ENSG00000161904,Nuclear membrane;
+ENSG00000161914,;Nucleus
+ENSG00000161944,;Plasma membrane
+ENSG00000161956,;Nucleoli;Nucleus
+ENSG00000161970,;Cytosol;Endoplasmic reticulum
+ENSG00000161981,;Nucleoplasm
+ENSG00000162009,;Plasma membrane
+ENSG00000162063,;Centrosome
+ENSG00000162065,;Cell Junctions;Plasma membrane
+ENSG00000162139,;Nucleoplasm
+ENSG00000162227,;Nucleoplasm
+ENSG00000162231,;Nucleoplasm
+ENSG00000162236,;Golgi apparatus
+ENSG00000162244,Cytosol;Endoplasmic reticulum;Nucleoli;
+ENSG00000162298,Endoplasmic reticulum;Nucleoplasm;Plasma membrane
+ENSG00000162300,Golgi apparatus;
+ENSG00000162302,Nucleus;
+ENSG00000162367,;Nucleus
+ENSG00000162368,;Nucleus
+ENSG00000162385,;Nucleus
+ENSG00000162390,;Cytosol
+ENSG00000162402,;Cytosol;Nucleoplasm
+ENSG00000162407,;Golgi apparatus
+ENSG00000162408,;Nucleoli
+ENSG00000162409,;Nuclear speckles
+ENSG00000162413,;Centrosome
+ENSG00000162419,Nucleoplasm;
+ENSG00000162430,;Cytosol
+ENSG00000162433,;Mitochondria
+ENSG00000162458,Cell Junctions;Nucleoli fibrillar center;
+ENSG00000162461,;Mitochondria
+ENSG00000162521,Nucleoplasm;
+ENSG00000162522,;Cell Junctions;Plasma membrane
+ENSG00000162572,;Actin filaments;Plasma membrane
+ENSG00000162585,;Nuclear bodies;Nucleoplasm
+ENSG00000162599,Nucleoplasm;
+ENSG00000162601,;Nucleoplasm
+ENSG00000162604,Nucleoplasm;
+ENSG00000162607,;Nucleoplasm
+ENSG00000162613,Nucleoplasm;
+ENSG00000162616,Cytosol;Nucleoplasm;Plasma membrane;
+ENSG00000162620,;Plasma membrane
+ENSG00000162631,;Plasma membrane
+ENSG00000162642,Nucleus;
+ENSG00000162645,;Actin filaments;Cytosol;Nucleoplasm
+ENSG00000162664,Golgi apparatus;Nucleoplasm;Vesicles;
+ENSG00000162669,;Golgi apparatus;Vesicles
+ENSG00000162688,;Cytosol;Nucleoplasm
+ENSG00000162695,;Golgi apparatus
+ENSG00000162702,Nucleoplasm;
+ENSG00000162733,;Plasma membrane
+ENSG00000162735,Peroxisomes;
+ENSG00000162746,;Cytosol
+ENSG00000162772,Nucleoli;Nucleus;
+ENSG00000162775,Nucleoplasm;
+ENSG00000162783,;Nucleoli;Nucleus
+ENSG00000162851,Mitochondria;
+ENSG00000162852,;Vesicles
+ENSG00000162889,;Centrosome;Nucleoplasm
+ENSG00000162909,;Cytosol
+ENSG00000162923,Cytosol;Nucleoplasm;
+ENSG00000162928,;Vesicles
+ENSG00000162961,Golgi apparatus;Nucleoplasm;
+ENSG00000163002,;Nuclear membrane;Nucleoplasm
+ENSG00000163029,;Nucleoplasm
+ENSG00000163041,;Nucleoplasm
+ENSG00000163050,;Mitochondria
+ENSG00000163064,;Nucleoli;Nucleus
+ENSG00000163072,;Nuclear speckles
+ENSG00000163104,Nucleoplasm;
+ENSG00000163110,;Focal adhesion sites;Nucleoplasm;Plasma membrane
+ENSG00000163114,;Mitochondria
+ENSG00000163126,;Actin filaments;Nucleoplasm
+ENSG00000163132,;Nucleoplasm
+ENSG00000163155,Nucleus;
+ENSG00000163159,;Nuclear speckles
+ENSG00000163161,Nucleoplasm;
+ENSG00000163166,Nucleoplasm;
+ENSG00000163171,;Actin filaments;Plasma membrane
+ENSG00000163207,;Cytosol
+ENSG00000163220,;Cell Junctions;Cytosol
+ENSG00000163320,Nucleus;
+ENSG00000163322,;Nuclear bodies
+ENSG00000163382,Cytosol;Nucleoplasm;
+ENSG00000163435,Nucleoplasm;
+ENSG00000163466,;Cytosol;Golgi apparatus
+ENSG00000163468,;Cytosol;Plasma membrane
+ENSG00000163482,;Cytosol
+ENSG00000163485,;Plasma membrane
+ENSG00000163497,;Nuclear speckles
+ENSG00000163507,;Cytosol;Plasma membrane
+ENSG00000163510,;Nuclear speckles
+ENSG00000163513,;Plasma membrane
+ENSG00000163520,;Plasma membrane
+ENSG00000163527,;Endoplasmic reticulum
+ENSG00000163528,;Mitochondria
+ENSG00000163535,Nucleoplasm;
+ENSG00000163539,;Golgi apparatus
+ENSG00000163541,;Mitochondria;Plasma membrane
+ENSG00000163558,Cytokinetic bridge;Cytosol;Microtubules;
+ENSG00000163563,;Nucleoli;Nucleoplasm
+ENSG00000163565,;Nucleoli;Nucleus
+ENSG00000163568,;Cytosol;Mitochondria;Nucleoplasm
+ENSG00000163577,;Vesicles
+ENSG00000163596,;Mitochondria
+ENSG00000163602,;Nucleoplasm
+ENSG00000163605,Nucleoplasm;
+ENSG00000163606,;Plasma membrane
+ENSG00000163607,Mitochondria;
+ENSG00000163608,;Nucleoli;Nucleus
+ENSG00000163611,;Centrosome
+ENSG00000163623,;Nucleoplasm
+ENSG00000163631,Endoplasmic reticulum;Golgi apparatus;
+ENSG00000163634,;Cytosol;Nuclear speckles
+ENSG00000163635,;Cytosol;Nucleoplasm
+ENSG00000163636,;Golgi apparatus;Vesicles
+ENSG00000163644,;Mitochondria
+ENSG00000163660,;Nuclear bodies;Nucleoplasm
+ENSG00000163682,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000163694,;Cytosol;Nucleoplasm
+ENSG00000163714,;Nucleoplasm
+ENSG00000163728,;Nucleus
+ENSG00000163743,;Cytosol;Nucleoplasm
+ENSG00000163754,;Vesicles
+ENSG00000163781,Nucleus;
+ENSG00000163798,;Nucleoplasm
+ENSG00000163806,;Nucleoplasm
+ENSG00000163818,;Cytosol
+ENSG00000163820,Vesicles;
+ENSG00000163840,;Cytosol;Nucleoplasm
+ENSG00000163848,;Nucleus
+ENSG00000163864,;Mitochondria
+ENSG00000163867,;Nucleoplasm
+ENSG00000163874,;Cytoplasmic bodies;Nucleoplasm
+ENSG00000163877,;Cytosol;Nucleoplasm
+ENSG00000163882,;Nucleus
+ENSG00000163888,;Nucleus
+ENSG00000163902,Endoplasmic reticulum;
+ENSG00000163904,;Cytosol
+ENSG00000163913,;Cytosol;Nucleoplasm
+ENSG00000163918,Nucleoplasm;
+ENSG00000163930,Nucleoplasm;Cytosol
+ENSG00000163931,Nucleoplasm;
+ENSG00000163932,Cytosol;Endoplasmic reticulum;Golgi apparatus
+ENSG00000163935,Nucleoplasm;
+ENSG00000163938,Nucleoli;
+ENSG00000163939,;Nucleoplasm
+ENSG00000163946,Nucleoplasm;
+ENSG00000163950,;Cytosol;Nucleoli;Nucleus
+ENSG00000163956,Endoplasmic reticulum;
+ENSG00000163960,Nucleoplasm;
+ENSG00000163961,Nuclear bodies;Nucleoplasm;
+ENSG00000163993,;Nuclear bodies
+ENSG00000164002,;Cytosol;Nucleoplasm
+ENSG00000164022,Cytosol;
+ENSG00000164032,;Nucleoplasm
+ENSG00000164037,;Microtubule organizing center;Mitochondria
+ENSG00000164039,;Cytosol
+ENSG00000164051,;Mitochondria;Nucleoplasm
+ENSG00000164053,;Nucleus
+ENSG00000164062,Cytosol;
+ENSG00000164073,;Nucleoplasm;Vesicles
+ENSG00000164080,;Nucleus
+ENSG00000164081,;Cytosol;Nucleoli
+ENSG00000164093,Nucleus;
+ENSG00000164104,;Nucleus
+ENSG00000164105,;Nucleoplasm
+ENSG00000164107,;Nucleoplasm
+ENSG00000164116,;Nucleus
+ENSG00000164120,;Cytosol
+ENSG00000164134,Cytosol;
+ENSG00000164136,;Nuclear speckles;Nucleoplasm
+ENSG00000164144,;Golgi apparatus;Vesicles
+ENSG00000164151,;Nuclear bodies;Nucleoplasm
+ENSG00000164163,Cytosol;
+ENSG00000164182,Mitochondria;
+ENSG00000164190,;Nucleoplasm
+ENSG00000164209,;Mitochondria
+ENSG00000164221,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000164258,;Mitochondria
+ENSG00000164284,Mitochondria;
+ENSG00000164294,;Actin filaments;Cytosol
+ENSG00000164305,;Mitochondria;Nucleoplasm
+ENSG00000164323,;Cytosol;Nucleoli;Plasma membrane
+ENSG00000164332,Nucleoli;Nucleus;
+ENSG00000164338,;Nucleoli
+ENSG00000164346,;Nucleoli;Nucleus
+ENSG00000164362,Nucleoplasm;Cytosol;Nuclear speckles
+ENSG00000164366,;Nucleoli fibrillar center;Nucleus
+ENSG00000164379,;Nucleus
+ENSG00000164400,Vesicles;
+ENSG00000164405,Mitochondria;
+ENSG00000164438,;Nucleoplasm
+ENSG00000164442,;Nucleoplasm
+ENSG00000164458,;Nucleus
+ENSG00000164463,;Nucleus
+ENSG00000164466,Mitochondria;
+ENSG00000164494,Cytosol;
+ENSG00000164506,Cytosol;
+ENSG00000164535,;Plasma membrane
+ENSG00000164548,;Nucleoli;Vesicles
+ENSG00000164576,Nucleoli;Nucleus;
+ENSG00000164587,Cytosol;Endoplasmic reticulum;
+ENSG00000164597,Golgi apparatus;
+ENSG00000164609,Nucleoplasm;Nuclear speckles
+ENSG00000164610,;Cytosol;Nucleus
+ENSG00000164611,;Cytosol
+ENSG00000164631,;Nucleoplasm
+ENSG00000164638,;Cytokinetic bridge;Microtubules
+ENSG00000164649,;Cytosol;Nucleoli;Nucleus
+ENSG00000164654,Cytosol;Nucleoplasm;
+ENSG00000164687,;Cytosol
+ENSG00000164692,;Endoplasmic reticulum
+ENSG00000164694,;Nuclear speckles
+ENSG00000164733,;Nucleoli;Vesicles
+ENSG00000164751,;Vesicles
+ENSG00000164754,Nucleoplasm;
+ENSG00000164778,;Nucleus
+ENSG00000164808,;Nucleoplasm
+ENSG00000164815,;Cytosol;Nucleus
+ENSG00000164828,Nuclear membrane;
+ENSG00000164830,;Vesicles
+ENSG00000164885,;Cell Junctions;Nucleus;Plasma membrane
+ENSG00000164897,;Cytosol;Nucleoplasm
+ENSG00000164902,Nucleoplasm;
+ENSG00000164904,;Cytosol;Mitochondria
+ENSG00000164916,;Nucleoplasm
+ENSG00000164919,Mitochondria;
+ENSG00000164929,;Cytosol
+ENSG00000164933,;Mitochondria
+ENSG00000164934,;Nucleoli;Nucleus
+ENSG00000164938,;Cytosol
+ENSG00000164944,;Nuclear bodies;Nucleoplasm
+ENSG00000164951,;Cytosol;Mitochondria;Nucleoplasm
+ENSG00000164961,;Nucleoplasm
+ENSG00000164967,;Nucleus
+ENSG00000164970,;Golgi apparatus;Nucleoplasm;Vesicles
+ENSG00000164975,;Nucleus
+ENSG00000164978,Nucleoplasm;
+ENSG00000164985,Nucleoplasm;
+ENSG00000165006,Cytosol;Plasma membrane;
+ENSG00000165060,;Cytosol;Mitochondria
+ENSG00000165071,Mitochondria;
+ENSG00000165084,;Nucleoli;Nucleus
+ENSG00000165092,Cytosol;
+ENSG00000165119,Nucleoplasm;
+ENSG00000165156,Nucleoplasm;
+ENSG00000165171,;Focal adhesion sites
+ENSG00000165215,;Cell Junctions
+ENSG00000165219,;Cytosol
+ENSG00000165233,;Mitochondria
+ENSG00000165240,;Golgi apparatus;Vesicles
+ENSG00000165244,;Nucleoplasm
+ENSG00000165264,Mitochondria;
+ENSG00000165271,Mitochondria;Nucleoli;Nucleus;
+ENSG00000165272,;Plasma membrane
+ENSG00000165280,Cytosol;Nucleoplasm;
+ENSG00000165283,;Cytosol;Plasma membrane
+ENSG00000165300,;Golgi apparatus;Nucleoplasm
+ENSG00000165359,Centrosome;
+ENSG00000165376,;Cell Junctions
+ENSG00000165392,;Nuclear speckles
+ENSG00000165417,;Nucleoplasm
+ENSG00000165458,;Cytosol;Golgi apparatus
+ENSG00000165494,;Nucleoplasm
+ENSG00000165495,Nucleus;
+ENSG00000165506,;Cytosol
+ENSG00000165512,Nucleus;
+ENSG00000165516,;Nuclear bodies;Nuclear membrane;Nucleoplasm
+ENSG00000165556,;Nucleoplasm
+ENSG00000165568,Golgi apparatus;Nucleoplasm;
+ENSG00000165617,;Nucleoplasm
+ENSG00000165621,;Plasma membrane
+ENSG00000165632,;Nucleoplasm
+ENSG00000165637,Mitochondria;
+ENSG00000165660,;Cytosol
+ENSG00000165661,Golgi apparatus;
+ENSG00000165669,;Nucleoli;Nucleus
+ENSG00000165671,;Nucleus;Plasma membrane
+ENSG00000165678,;Mitochondria
+ENSG00000165688,Mitochondria;
+ENSG00000165699,Cytosol;
+ENSG00000165704,;Cytosol
+ENSG00000165714,;Cytosol
+ENSG00000165730,;Cytosol;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000165731,;Cytosol;Plasma membrane;Vesicles
+ENSG00000165732,Nucleoli;Nucleus;
+ENSG00000165733,Nucleoli;Nucleus;
+ENSG00000165757,;Cell Junctions;Vesicles
+ENSG00000165792,Nucleus;
+ENSG00000165802,;Nucleoplasm
+ENSG00000165804,;Nucleus
+ENSG00000165832,;Actin filaments;Vesicles
+ENSG00000165861,;Endoplasmic reticulum
+ENSG00000165887,Vesicles;
+ENSG00000165891,;Nuclear speckles
+ENSG00000165912,;Cytosol
+ENSG00000165914,;
+ENSG00000165916,;Cytosol;Nucleus
+ENSG00000166004,;Cytosol;Plasma membrane
+ENSG00000166006,;Cytosol;Plasma membrane
+ENSG00000166012,;Microtubule organizing center;Nucleoplasm
+ENSG00000166016,;Nucleus
+ENSG00000166025,;Cell Junctions;Cytosol
+ENSG00000166033,;Plasma membrane
+ENSG00000166037,;Cytosol;Microtubules
+ENSG00000166046,;Nuclear speckles
+ENSG00000166049,;Nuclear speckles
+ENSG00000166068,;Nucleus
+ENSG00000166086,Golgi apparatus;
+ENSG00000166128,;Vesicles
+ENSG00000166130,Endoplasmic reticulum;
+ENSG00000166135,;Cytosol;Nucleoplasm
+ENSG00000166136,;Mitochondria
+ENSG00000166145,;Cytosol;Plasma membrane
+ENSG00000166164,;Cytosol;Nucleoplasm
+ENSG00000166165,;Cytosol
+ENSG00000166169,Nucleus;Golgi apparatus
+ENSG00000166170,;Vesicles
+ENSG00000166181,Nuclear speckles;
+ENSG00000166197,Nucleoli;
+ENSG00000166199,Nucleoplasm;
+ENSG00000166200,Vesicles;
+ENSG00000166224,;Endoplasmic reticulum
+ENSG00000166226,;Cytosol
+ENSG00000166228,Cytosol;Nucleoplasm;
+ENSG00000166295,;Cytosol
+ENSG00000166313,Plasma membrane;
+ENSG00000166333,Cell Junctions;Focal adhesion sites;
+ENSG00000166337,;Nucleoplasm
+ENSG00000166349,;Nucleus
+ENSG00000166411,Mitochondria;
+ENSG00000166435,;Nuclear bodies;Nucleoplasm
+ENSG00000166436,;Nucleoplasm
+ENSG00000166439,;Nuclear speckles
+ENSG00000166441,;Cytosol;Endoplasmic reticulum
+ENSG00000166448,;Golgi apparatus
+ENSG00000166451,;Nucleus
+ENSG00000166452,;Nucleoplasm
+ENSG00000166454,;Nuclear bodies
+ENSG00000166455,;Cytosol;Nucleoplasm
+ENSG00000166477,Nucleoli fibrillar center;Nucleoplasm;
+ENSG00000166484,Cytosol;Nucleus;
+ENSG00000166501,;Nucleoplasm
+ENSG00000166503,;Nucleoplasm
+ENSG00000166508,Nucleoplasm;
+ENSG00000166557,;Golgi apparatus
+ENSG00000166575,;Vesicles
+ENSG00000166595,;Cytosol;Nucleoplasm
+ENSG00000166598,Endoplasmic reticulum;
+ENSG00000166681,;Cytosol
+ENSG00000166689,;Cell Junctions;Cytosol
+ENSG00000166704,;Nucleoplasm
+ENSG00000166710,Cytosol;Golgi apparatus;Plasma membrane;
+ENSG00000166734,;Golgi apparatus
+ENSG00000166747,Cytosol;Vesicles;
+ENSG00000166783,;Golgi apparatus;Vesicles
+ENSG00000166788,;Nucleoplasm
+ENSG00000166794,;Endoplasmic reticulum
+ENSG00000166797,;Cytosol;Nucleoplasm
+ENSG00000166803,;Centrosome
+ENSG00000166823,;Nucleus
+ENSG00000166825,;Plasma membrane
+ENSG00000166828,;Plasma membrane
+ENSG00000166833,;Nucleoplasm
+ENSG00000166848,;Nuclear bodies;Nucleoplasm
+ENSG00000166855,Mitochondria;
+ENSG00000166888,Cytosol;Nucleoplasm;
+ENSG00000166889,;Cytoplasmic bodies
+ENSG00000166896,Plasma membrane;Vesicles;Cell Junctions;Cytosol
+ENSG00000166913,;Cytosol
+ENSG00000166924,;Golgi apparatus;Vesicles
+ENSG00000166946,Nucleoplasm;
+ENSG00000166949,Cytosol;Nucleoplasm;
+ENSG00000166965,Cytosol;Plasma membrane;
+ENSG00000166986,Cytosol;
+ENSG00000166987,Nucleus;
+ENSG00000167004,Endoplasmic reticulum;
+ENSG00000167005,;Nuclear bodies
+ENSG00000167065,;Nucleoplasm
+ENSG00000167085,;Mitochondria;Vesicles
+ENSG00000167103,;Cytosol
+ENSG00000167105,;Nucleoplasm
+ENSG00000167110,Golgi apparatus;
+ENSG00000167112,;Cytosol
+ENSG00000167113,;Mitochondria
+ENSG00000167114,;Vesicles
+ENSG00000167173,Cytosol;
+ENSG00000167182,Nucleoplasm;Vesicles;
+ENSG00000167191,;Vesicles
+ENSG00000167202,;Cytosol
+ENSG00000167258,;Nucleus
+ENSG00000167264,Cytosol;
+ENSG00000167281,;Nucleoplasm
+ENSG00000167283,;Mitochondria
+ENSG00000167302,;Golgi apparatus
+ENSG00000167315,;Mitochondria
+ENSG00000167323,Endoplasmic reticulum;
+ENSG00000167325,Cytosol;
+ENSG00000167333,;Cytosol;Nucleus
+ENSG00000167371,;Plasma membrane
+ENSG00000167378,;Vesicles
+ENSG00000167397,;Endoplasmic reticulum
+ENSG00000167434,;Vesicles
+ENSG00000167461,;Nucleus;Plasma membrane
+ENSG00000167468,;Mitochondria;Nucleoplasm
+ENSG00000167491,Nucleoplasm;
+ENSG00000167513,;Nuclear bodies;Nucleus
+ENSG00000167515,;Cytosol
+ENSG00000167522,;Cytosol;Nucleoplasm
+ENSG00000167526,Cytosol;Endoplasmic reticulum;Nucleoli;
+ENSG00000167528,;Nucleoplasm
+ENSG00000167549,;Golgi apparatus
+ENSG00000167552,Microtubules;
+ENSG00000167553,;Microtubules
+ENSG00000167565,;Nucleoli
+ENSG00000167613,;Plasma membrane
+ENSG00000167615,;Nucleus
+ENSG00000167635,;Nucleoli
+ENSG00000167641,;Nucleoplasm
+ENSG00000167644,;Cytosol;Nucleus
+ENSG00000167653,;Plasma membrane
+ENSG00000167658,Cytosol;Plasma membrane;
+ENSG00000167670,;Nucleus
+ENSG00000167674,;Nucleoplasm
+ENSG00000167676,;Cytosol;Lipid droplets;Plasma membrane
+ENSG00000167685,;Nucleoli;Nucleus
+ENSG00000167693,;Cytosol;Golgi apparatus
+ENSG00000167702,;Cytosol;Nucleoplasm
+ENSG00000167721,;Nucleoplasm
+ENSG00000167755,;Nucleoplasm
+ENSG00000167767,Intermediate filaments;
+ENSG00000167792,;Mitochondria
+ENSG00000167840,;Cytosol;Nucleus;Vesicles
+ENSG00000167861,;Cytosol;Golgi apparatus
+ENSG00000167862,;Mitochondria;Nucleoplasm
+ENSG00000167863,;Nucleoplasm
+ENSG00000167880,;Cytosol;Intermediate filaments
+ENSG00000167881,Cytosol;Focal adhesion sites;
+ENSG00000167914,;Cytosol;Nuclear bodies;Nucleoplasm;Plasma membrane
+ENSG00000167967,Nucleoplasm;
+ENSG00000167978,Nuclear speckles;
+ENSG00000167984,;Cytosol
+ENSG00000167985,;Mitochondria
+ENSG00000167986,Nucleoplasm;
+ENSG00000167992,;Cytosol;Nucleus;Vesicles
+ENSG00000168002,;Nucleoplasm
+ENSG00000168003,;Cytosol;Nucleus;Plasma membrane
+ENSG00000168010,Nucleoplasm;
+ENSG00000168026,;Nucleoplasm
+ENSG00000168028,;Cytosol;Plasma membrane
+ENSG00000168036,Plasma membrane;
+ENSG00000168040,;Cytosol;Nucleoplasm
+ENSG00000168066,Nucleoplasm;
+ENSG00000168077,;Endoplasmic reticulum
+ENSG00000168090,;Nucleoplasm
+ENSG00000168092,;Cytosol;Nucleoli;Plasma membrane
+ENSG00000168096,;Cytosol;Nucleoplasm
+ENSG00000168137,Cytosol;Nucleus;
+ENSG00000168148,;Nucleoplasm
+ENSG00000168159,;Cytosol;Nucleoplasm
+ENSG00000168172,;Golgi apparatus;Microtubule organizing center
+ENSG00000168209,;Cytosol
+ENSG00000168214,;Nucleoplasm
+ENSG00000168259,;Cytosol;Nucleoplasm
+ENSG00000168264,Nucleoplasm;
+ENSG00000168275,;Mitochondria
+ENSG00000168282,;Golgi apparatus
+ENSG00000168286,Cytokinetic bridge;Nucleoplasm;
+ENSG00000168291,;Mitochondria;Nucleoplasm
+ENSG00000168297,;Cytosol;Microtubule organizing center;Plasma membrane
+ENSG00000168298,;Nuclear speckles
+ENSG00000168303,;Golgi apparatus;Nucleoplasm;Vesicles
+ENSG00000168306,;Vesicles
+ENSG00000168309,;Nuclear speckles
+ENSG00000168310,Cytosol;Nucleoplasm;
+ENSG00000168385,;Actin filaments
+ENSG00000168394,;Endoplasmic reticulum
+ENSG00000168411,Nucleoplasm;Cytosol
+ENSG00000168434,Golgi apparatus;
+ENSG00000168438,;Nucleus
+ENSG00000168439,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000168453,;Nucleoplasm
+ENSG00000168454,Cytosol;Nucleus;
+ENSG00000168488,Cytosol;
+ENSG00000168490,Mitochondria;
+ENSG00000168495,Nucleoplasm;
+ENSG00000168496,Nucleoli;Nucleoplasm;
+ENSG00000168497,;Cytosol;Plasma membrane
+ENSG00000168517,;Nuclear speckles;Nucleoplasm
+ENSG00000168556,;Cytosol;Golgi apparatus;Nucleoplasm
+ENSG00000168564,Nucleoplasm;
+ENSG00000168566,;Nucleoplasm
+ENSG00000168610,;Cytosol;Nucleoplasm
+ENSG00000168675,;Vesicles
+ENSG00000168710,;
+ENSG00000168734,;Cytosol;Nucleoplasm
+ENSG00000168781,;Cytosol
+ENSG00000168802,Nucleoplasm;
+ENSG00000168813,;Cytosol;Nucleoli
+ENSG00000168874,;Nucleoplasm
+ENSG00000168883,;Nucleoplasm
+ENSG00000168884,Cytosol;Nucleoplasm;
+ENSG00000168917,;Plasma membrane
+ENSG00000168924,Mitochondria;
+ENSG00000168955,;Plasma membrane
+ENSG00000168958,;Mitochondria
+ENSG00000169016,;Nucleoplasm
+ENSG00000169018,;Cytosol;Nucleoplasm
+ENSG00000169019,;Cytosol;Nucleoplasm
+ENSG00000169020,Mitochondria;
+ENSG00000169021,Mitochondria;
+ENSG00000169032,Cytosol;Plasma membrane;
+ENSG00000169035,;Plasma membrane
+ENSG00000169045,;Nucleoplasm
+ENSG00000169047,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000169057,;Nucleus
+ENSG00000169093,Cytosol;
+ENSG00000169100,;Mitochondria
+ENSG00000169118,;Cytosol
+ENSG00000169122,;Cytosol;Mitochondria
+ENSG00000169129,;Cytosol;Plasma membrane
+ENSG00000169131,;Nucleoli;Nucleus
+ENSG00000169136,;Cytosol;Nucleoplasm
+ENSG00000169139,;Nucleoplasm
+ENSG00000169188,;Nucleoli fibrillar center;Nucleus;Vesicles
+ENSG00000169189,;Nucleoplasm
+ENSG00000169217,Cytosol;Nuclear speckles;
+ENSG00000169220,Nucleoplasm;Vesicles;
+ENSG00000169230,;Mitochondria;Nucleoplasm
+ENSG00000169239,;Mitochondria
+ENSG00000169251,;Nucleoli;Nucleus
+ENSG00000169258,;Plasma membrane
+ENSG00000169288,;Mitochondria
+ENSG00000169297,Nuclear speckles;Microtubule organizing center;Vesicles
+ENSG00000169371,;Nuclear membrane
+ENSG00000169375,Nucleoplasm;
+ENSG00000169398,;Cytosol;Focal adhesion sites;Vesicles
+ENSG00000169403,;Nucleoplasm;Plasma membrane;Vesicles
+ENSG00000169436,;Vesicles
+ENSG00000169504,;Cytosol
+ENSG00000169564,Cytoplasmic bodies;Nuclear speckles;
+ENSG00000169567,;Cytosol;Nucleus;Plasma membrane
+ENSG00000169570,;Nuclear bodies
+ENSG00000169583,;Nuclear bodies
+ENSG00000169592,;Nucleoli;Nucleoplasm
+ENSG00000169594,Nucleoplasm;
+ENSG00000169599,;Cytosol;Nucleoplasm
+ENSG00000169607,Mitotic spindle;
+ENSG00000169612,;Nucleoplasm
+ENSG00000169621,;Nucleoplasm
+ENSG00000169635,;Nucleus
+ENSG00000169679,;Nucleoplasm
+ENSG00000169683,;Centrosome;Cytosol
+ENSG00000169696,;Nucleoplasm;Plasma membrane;Vesicles
+ENSG00000169710,Cytosol;Plasma membrane;
+ENSG00000169714,;Cytosol;Nucleus
+ENSG00000169733,;Nucleus
+ENSG00000169740,;Nuclear bodies;Nucleoplasm
+ENSG00000169744,;Nucleoli;Nucleus
+ENSG00000169756,;Cytosol;Focal adhesion sites
+ENSG00000169758,;Cytosol;Plasma membrane
+ENSG00000169813,Nucleoplasm;
+ENSG00000169851,Cell Junctions;Plasma membrane;
+ENSG00000169855,Plasma membrane;
+ENSG00000169895,Golgi apparatus;Cytosol;Nucleoplasm
+ENSG00000169905,Endoplasmic reticulum;
+ENSG00000169919,;Vesicles
+ENSG00000169946,;Nucleoplasm
+ENSG00000169967,;Cytosol;Nucleoplasm
+ENSG00000169972,Vesicles;
+ENSG00000169976,Nucleoplasm;
+ENSG00000170037,;Centrosome;Cytosol
+ENSG00000170085,;Nucleoli fibrillar center;Nucleus
+ENSG00000170088,Endosomes;Lysosomes;
+ENSG00000170091,;Golgi apparatus
+ENSG00000170100,;Nuclear bodies;Nucleus
+ENSG00000170144,Nucleoplasm;
+ENSG00000170166,Nucleus;
+ENSG00000170214,;Plasma membrane
+ENSG00000170234,;Nucleoplasm
+ENSG00000170248,Cytosol;
+ENSG00000170260,;Nucleus
+ENSG00000170266,;Golgi apparatus;Vesicles
+ENSG00000170291,;Cytosol
+ENSG00000170312,Cytosol;Nucleus;
+ENSG00000170322,Nucleus;
+ENSG00000170345,;Nucleoplasm
+ENSG00000170348,;Golgi apparatus
+ENSG00000170364,;Nucleoli
+ENSG00000170365,;Cytosol;Nucleus;Plasma membrane
+ENSG00000170379,;Cell Junctions;Plasma membrane
+ENSG00000170385,;Plasma membrane;Vesicles
+ENSG00000170421,;Intermediate filaments
+ENSG00000170430,Nucleoplasm;
+ENSG00000170439,;Microtubules;Vesicles
+ENSG00000170445,Cytosol;
+ENSG00000170458,;Vesicles
+ENSG00000170464,;Cell Junctions
+ENSG00000170465,;Intermediate filaments
+ENSG00000170468,;Nucleoli
+ENSG00000170469,;Cytosol;Nucleus
+ENSG00000170473,;Cytosol;Nucleoli;Nucleus
+ENSG00000170477,Intermediate filaments;
+ENSG00000170500,;Nucleus
+ENSG00000170525,Nucleoplasm;
+ENSG00000170545,;Nucleoplasm;Plasma membrane
+ENSG00000170558,;Cell Junctions
+ENSG00000170577,;Nucleoplasm
+ENSG00000170581,;Cytosol;Plasma membrane
+ENSG00000170604,;Nucleoplasm
+ENSG00000170606,;Cytosol;Nucleoplasm
+ENSG00000170619,;Cytosol;Nucleoplasm
+ENSG00000170631,;Nucleoli;Nucleus
+ENSG00000170632,;Mitochondria
+ENSG00000170633,;Nuclear bodies;Nucleoplasm
+ENSG00000170681,;Plasma membrane
+ENSG00000170734,Nucleoplasm;
+ENSG00000170745,;Cytosol;Plasma membrane
+ENSG00000170759,Cytosol;Microtubule organizing center
+ENSG00000170776,;Cytosol
+ENSG00000170779,;Cytosol;Nucleoplasm
+ENSG00000170802,;Nucleus;Vesicles
+ENSG00000170854,Nucleoli;Nucleus;
+ENSG00000170890,Cytosol;
+ENSG00000170891,;Endoplasmic reticulum
+ENSG00000170892,;Nucleus
+ENSG00000170915,;Golgi apparatus;Plasma membrane
+ENSG00000170989,;Vesicles
+ENSG00000171004,;Nucleoplasm
+ENSG00000171094,;Plasma membrane
+ENSG00000171097,Cytosol;Nucleoplasm;
+ENSG00000171100,;Plasma membrane
+ENSG00000171109,;Mitochondria
+ENSG00000171148,;Nucleoplasm
+ENSG00000171161,Nucleoplasm;
+ENSG00000171163,Nucleoli;Nucleus;
+ENSG00000171204,;Mitochondria
+ENSG00000171206,Cytosol;Nucleoplasm;Vesicles;
+ENSG00000171219,;Cytosol
+ENSG00000171222,;Actin filaments;Cytosol;Nucleus
+ENSG00000171223,Nucleoplasm;
+ENSG00000171262,;Nucleoplasm
+ENSG00000171307,;Nucleus
+ENSG00000171316,;Nucleoli;Nucleoplasm
+ENSG00000171320,;Golgi apparatus;Nucleus
+ENSG00000171345,;Intermediate filaments
+ENSG00000171346,;Intermediate filaments
+ENSG00000171365,;Cytosol;Golgi apparatus;Plasma membrane
+ENSG00000171368,;Cytosol
+ENSG00000171401,Intermediate filaments;
+ENSG00000171421,;Mitochondria
+ENSG00000171431,;Cytosol
+ENSG00000171444,;Nucleoplasm
+ENSG00000171453,;Nucleus
+ENSG00000171467,;Nucleoplasm
+ENSG00000171475,;Nucleoplasm
+ENSG00000171490,Nucleoli;
+ENSG00000171497,;Cytosol;Nucleoli;Nucleus
+ENSG00000171517,;Plasma membrane
+ENSG00000171530,;Microtubules;Nucleoli
+ENSG00000171564,Endoplasmic reticulum;
+ENSG00000171566,Nuclear speckles;
+ENSG00000171604,Cytosol;Nucleoplasm;
+ENSG00000171606,;Centrosome;Nucleus
+ENSG00000171634,Nucleoplasm;
+ENSG00000171681,Nuclear bodies;Nucleoplasm;
+ENSG00000171700,;Cell Junctions
+ENSG00000171703,;Centrosome;Nucleoplasm
+ENSG00000171720,;Golgi apparatus;Nucleoplasm
+ENSG00000171735,;Cytosol
+ENSG00000171766,;Mitochondria
+ENSG00000171791,;Nuclear membrane
+ENSG00000171793,;Actin filaments;Cytosol
+ENSG00000171813,Nucleoplasm;
+ENSG00000171817,;Cytosol;Nucleoplasm;Vesicles
+ENSG00000171824,;Nucleoli
+ENSG00000171848,;Cytosol
+ENSG00000171858,Cytosol;Endoplasmic reticulum;
+ENSG00000171861,;Mitochondria
+ENSG00000171862,;Cytosol;Nucleoplasm
+ENSG00000171885,;Cell Junctions;Plasma membrane
+ENSG00000171914,;Cytosol;Focal adhesion sites
+ENSG00000171940,Nuclear speckles;
+ENSG00000171953,Cytosol;
+ENSG00000171988,;
+ENSG00000172006,;Nucleoli;Nucleoplasm
+ENSG00000172009,;Cytosol
+ENSG00000172020,Plasma membrane;
+ENSG00000172053,Cytosol;
+ENSG00000172057,;Endoplasmic reticulum
+ENSG00000172115,Mitochondria;
+ENSG00000172116,;Plasma membrane
+ENSG00000172137,Cytosol;
+ENSG00000172171,Mitochondria;
+ENSG00000172175,;Cytosol;Nucleoli
+ENSG00000172201,;Nucleus
+ENSG00000172216,Nucleoplasm;
+ENSG00000172262,Nucleoplasm;Intermediate filaments
+ENSG00000172264,;Nucleoli;Nucleus
+ENSG00000172292,;Nucleus
+ENSG00000172301,;Cytosol;Nucleus;Plasma membrane
+ENSG00000172336,;Nucleoli;Vesicles
+ENSG00000172340,;Mitochondria
+ENSG00000172354,Plasma membrane;
+ENSG00000172379,;Nucleus
+ENSG00000172403,;Actin filaments
+ENSG00000172409,;Nucleoplasm
+ENSG00000172432,Vesicles;
+ENSG00000172465,Nucleoplasm;
+ENSG00000172466,;Nucleus
+ENSG00000172469,;Golgi apparatus
+ENSG00000172482,;Vesicles
+ENSG00000172500,;Nuclear speckles
+ENSG00000172530,;Nuclear bodies;Nucleoplasm
+ENSG00000172531,;Cytosol;Nucleoplasm
+ENSG00000172534,;Mitochondria;Nucleoplasm
+ENSG00000172572,;Cytosol
+ENSG00000172575,;Cytosol;Plasma membrane
+ENSG00000172586,;Mitochondria;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000172602,;Actin filaments;Plasma membrane
+ENSG00000172613,Nucleoplasm;
+ENSG00000172661,;Vesicles
+ENSG00000172663,;Cytosol
+ENSG00000172667,;Nucleoplasm
+ENSG00000172716,Nucleoplasm;
+ENSG00000172725,Cytosol;Plasma membrane;
+ENSG00000172732,;Nucleoli fibrillar center
+ENSG00000172738,;Nucleoli
+ENSG00000172766,Cytosol;
+ENSG00000172775,;Nucleoplasm;Vesicles
+ENSG00000172780,;
+ENSG00000172789,;Nucleoplasm
+ENSG00000172809,;Cytosol;Endoplasmic reticulum
+ENSG00000172819,;Nucleoplasm
+ENSG00000172840,;Mitochondria
+ENSG00000172869,;Cytosol;Nucleoli
+ENSG00000172878,;Vesicles
+ENSG00000172888,;Nuclear speckles
+ENSG00000172890,Cytosol;
+ENSG00000172893,;Cytosol;Endoplasmic reticulum
+ENSG00000172915,;Cytosol;Golgi apparatus
+ENSG00000172935,;Plasma membrane
+ENSG00000172936,;Cytosol
+ENSG00000172939,Cytosol;
+ENSG00000172943,;Nucleus
+ENSG00000172954,;Endoplasmic reticulum
+ENSG00000172977,;Nucleoplasm
+ENSG00000172985,Nucleoplasm;
+ENSG00000173039,Cytosol;
+ENSG00000173065,Nucleoplasm;
+ENSG00000173068,;Nucleoplasm
+ENSG00000173083,Nucleoplasm;Vesicles;
+ENSG00000173141,;Mitochondria
+ENSG00000173145,Nucleoli;Nucleus
+ENSG00000173153,;Nucleoli fibrillar center;Nucleus
+ENSG00000173163,;Cytosol;Nucleoplasm
+ENSG00000173171,;Mitochondria
+ENSG00000173175,Intermediate filaments;
+ENSG00000173193,Cytosol;
+ENSG00000173226,;Cytokinetic bridge;Microtubules;Mitotic spindle
+ENSG00000173230,Golgi apparatus;
+ENSG00000173272,;Centrosome
+ENSG00000173276,Nucleus;
+ENSG00000173327,;Cytosol;Microtubule organizing center
+ENSG00000173376,;Vesicles
+ENSG00000173391,;Plasma membrane
+ENSG00000173402,;Vesicles
+ENSG00000173406,;Vesicles
+ENSG00000173418,;Cytosol
+ENSG00000173436,;Mitochondria
+ENSG00000173467,;Endoplasmic reticulum
+ENSG00000173473,Nucleoplasm;
+ENSG00000173540,;Nucleus
+ENSG00000173545,Cytosol;Nucleus;Nucleoli
+ENSG00000173559,;Nucleoplasm
+ENSG00000173575,Nucleus;
+ENSG00000173581,;Nucleus
+ENSG00000173599,Mitochondria;
+ENSG00000173611,;Nucleus
+ENSG00000173614,;Nuclear bodies;Nucleoplasm
+ENSG00000173726,Mitochondria;
+ENSG00000173744,;Vesicles
+ENSG00000173786,Cytosol;Nucleus;
+ENSG00000173801,Cell Junctions;Plasma membrane;Vesicles;
+ENSG00000173821,;Cytosol
+ENSG00000173889,;Nucleus
+ENSG00000173890,;Plasma membrane
+ENSG00000173894,;Nucleoplasm
+ENSG00000173898,;Cell Junctions;Cytosol
+ENSG00000173905,Golgi apparatus;
+ENSG00000173915,;Mitochondria
+ENSG00000173917,;Nucleus
+ENSG00000173926,;Vesicles
+ENSG00000174007,;Centrosome
+ENSG00000174106,;Nuclear membrane
+ENSG00000174156,;Cytosol
+ENSG00000174173,;Mitochondria;Nucleoplasm
+ENSG00000174177,;Mitochondria
+ENSG00000174197,;Cytosol;Nucleoplasm
+ENSG00000174206,Cytokinetic bridge;Microtubules;Mitotic spindle;
+ENSG00000174231,Nucleoplasm;
+ENSG00000174243,;Nucleoli;Nucleus
+ENSG00000174282,;Nuclear bodies;Nucleoplasm
+ENSG00000174306,;Nucleoplasm
+ENSG00000174327,;Golgi apparatus
+ENSG00000174371,Nuclear bodies;Nucleoplasm;
+ENSG00000174405,;Nucleoplasm
+ENSG00000174437,;Nucleoplasm
+ENSG00000174444,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000174446,;Nucleus
+ENSG00000174547,;Mitochondria
+ENSG00000174652,Vesicles;
+ENSG00000174718,;Cytosol;Intermediate filaments;Nucleoli
+ENSG00000174720,;Nucleoplasm
+ENSG00000174749,;Golgi apparatus
+ENSG00000174807,;Plasma membrane
+ENSG00000174839,;Vesicles
+ENSG00000174851,;Golgi apparatus;Microtubule organizing center;Vesicles
+ENSG00000174903,;Endoplasmic reticulum;Golgi apparatus
+ENSG00000174917,;Mitochondria
+ENSG00000174943,;Nuclear bodies;Nucleus
+ENSG00000174953,;Cytosol;Nucleus
+ENSG00000174989,;Cytosol
+ENSG00000174996,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000175040,;Golgi apparatus
+ENSG00000175054,;Golgi apparatus;Nucleoplasm
+ENSG00000175063,Cytosol;Plasma membrane;
+ENSG00000175084,;Intermediate filaments
+ENSG00000175087,;Nucleoplasm
+ENSG00000175104,;Mitochondria;Nucleoli
+ENSG00000175105,;Microtubules
+ENSG00000175106,Golgi apparatus;
+ENSG00000175110,;Mitochondria
+ENSG00000175130,;Actin filaments;Cytosol;Nucleoplasm
+ENSG00000175197,;Nucleoplasm
+ENSG00000175202,;Mitochondria
+ENSG00000175203,Centrosome;
+ENSG00000175216,;Centrosome
+ENSG00000175220,;Vesicles
+ENSG00000175274,;Endoplasmic reticulum;Golgi apparatus
+ENSG00000175283,;Nucleoli;Nucleus
+ENSG00000175324,;Cytosol;Vesicles
+ENSG00000175329,;Nuclear bodies;Nucleoplasm
+ENSG00000175334,;Cytosol;Nucleoplasm
+ENSG00000175354,Nucleoplasm;
+ENSG00000175376,;Nucleoplasm;Vesicles
+ENSG00000175387,;Cytosol;Nucleoli;Nucleus
+ENSG00000175416,;Vesicles
+ENSG00000175445,;Vesicles
+ENSG00000175455,Centrosome;
+ENSG00000175467,Nuclear speckles;Golgi apparatus
+ENSG00000175567,;Mitochondria
+ENSG00000175592,Nucleoplasm;
+ENSG00000175595,;Nuclear bodies;Nucleoplasm
+ENSG00000175606,;Mitochondria;Nucleoplasm
+ENSG00000175634,;Cytosol
+ENSG00000175643,;Cytosol;Nuclear speckles
+ENSG00000175662,;Golgi apparatus;Intermediate filaments
+ENSG00000175697,;Plasma membrane
+ENSG00000175707,;Cell Junctions
+ENSG00000175756,;Mitochondria;Nucleoplasm
+ENSG00000175768,;Mitochondria
+ENSG00000175792,;Cytosol;Nucleoplasm
+ENSG00000175793,;Cytosol
+ENSG00000175806,Cytosol;Nucleoplasm;
+ENSG00000175826,;Lipid droplets
+ENSG00000175832,;Nucleoli
+ENSG00000175854,;Cytosol;Nucleoplasm
+ENSG00000175866,Cytosol;Plasma membrane;
+ENSG00000175920,;Mitochondria;Nucleoplasm
+ENSG00000175931,;Nuclear bodies;Nucleus
+ENSG00000176049,;Golgi apparatus
+ENSG00000176095,;Cytosol;Nucleoli fibrillar center;Nucleus
+ENSG00000176102,Nucleoplasm;
+ENSG00000176105,;Cytosol;Plasma membrane
+ENSG00000176170,;Cytosol;Plasma membrane
+ENSG00000176248,Nucleoplasm;
+ENSG00000176386,Nucleoplasm;
+ENSG00000176390,;Cytosol;Plasma membrane
+ENSG00000176393,;Golgi apparatus;Nucleoplasm
+ENSG00000176396,;Nucleoplasm
+ENSG00000176407,Cytosol;Nucleoplasm;
+ENSG00000176435,;Endoplasmic reticulum
+ENSG00000176438,Nuclear membrane;
+ENSG00000176444,Nucleoplasm;Nuclear bodies
+ENSG00000176473,;Nucleoplasm
+ENSG00000176619,;Nuclear membrane
+ENSG00000176623,;Centrosome
+ENSG00000176692,;Nuclear bodies;Nucleoplasm
+ENSG00000176697,;Mitochondria;Nuclear speckles
+ENSG00000176749,;Nucleoplasm;Vesicles
+ENSG00000176783,;Cytosol;Vesicles
+ENSG00000176788,;Plasma membrane
+ENSG00000176903,;Cytosol;Focal adhesion sites
+ENSG00000176915,;Endoplasmic reticulum
+ENSG00000176928,;Golgi apparatus
+ENSG00000176974,;Cytosol;Nucleus
+ENSG00000176978,Golgi apparatus;Vesicles;
+ENSG00000176986,;Vesicles
+ENSG00000176994,Nucleoplasm;
+ENSG00000177030,;Nucleus
+ENSG00000177054,Vesicles;
+ENSG00000177084,Nucleus;Plasma membrane;
+ENSG00000177106,;Cytosol;Plasma membrane
+ENSG00000177108,Plasma membrane;
+ENSG00000177125,;Nucleoplasm
+ENSG00000177156,Cytosol;Nucleoplasm;
+ENSG00000177192,;Mitochondria;Nucleus
+ENSG00000177225,;Nucleoplasm
+ENSG00000177303,Plasma membrane;
+ENSG00000177311,Nucleoplasm;
+ENSG00000177374,;Cytosol;Nucleoplasm
+ENSG00000177425,Actin filaments;Plasma membrane;
+ENSG00000177426,;Nucleoplasm
+ENSG00000177463,Nucleoplasm;
+ENSG00000177469,;Plasma membrane
+ENSG00000177479,Nucleoplasm;
+ENSG00000177485,Cytosol;Nucleus;Plasma membrane;
+ENSG00000177511,;Golgi apparatus
+ENSG00000177542,Mitochondria;Nucleoplasm;
+ENSG00000177548,;Cytosol;Vesicles
+ENSG00000177602,;Nucleus
+ENSG00000177606,Nucleoplasm;
+ENSG00000177613,Nucleoplasm;
+ENSG00000177646,Mitochondria;
+ENSG00000177666,Lipid droplets;
+ENSG00000177669,;Golgi apparatus
+ENSG00000177674,;Vesicles
+ENSG00000177683,Nucleus;
+ENSG00000177694,;Nucleoplasm
+ENSG00000177728,;Nucleoplasm
+ENSG00000177731,;Cytosol;Microtubule organizing center;Nucleoplasm
+ENSG00000177732,;Nucleoplasm
+ENSG00000177733,Nucleoplasm;
+ENSG00000177885,;Nucleus
+ENSG00000177889,;Nucleoli fibrillar center;Nucleus
+ENSG00000177932,;Cytosol;Nuclear membrane
+ENSG00000177963,;Cytosol
+ENSG00000177971,Nucleoli;Nucleus;
+ENSG00000178028,;Cytosol;Nucleoplasm
+ENSG00000178035,Cytosol;Rods & Rings;
+ENSG00000178104,;Golgi apparatus
+ENSG00000178127,;Mitochondria
+ENSG00000178177,;Nuclear membrane;Nucleoplasm
+ENSG00000178199,;Cytoplasmic bodies;Nucleoplasm
+ENSG00000178202,;Nucleoplasm
+ENSG00000178209,Cytosol;Focal adhesion sites;Intermediate filaments;
+ENSG00000178252,;Cytosol
+ENSG00000178307,;Mitochondria
+ENSG00000178445,;Mitochondria
+ENSG00000178449,;Mitochondria
+ENSG00000178537,;Cytosol;Mitochondria
+ENSG00000178597,Cytosol;
+ENSG00000178685,;Cytosol;Nucleoli
+ENSG00000178700,;Mitochondria
+ENSG00000178718,;Microtubule organizing center;Nucleoplasm
+ENSG00000178764,Nucleoplasm;
+ENSG00000178852,;Cytosol;Nucleus
+ENSG00000178860,;Nucleoplasm
+ENSG00000178878,Cytosol;Nucleoplasm;
+ENSG00000178896,;Cytosol;Intermediate filaments
+ENSG00000178913,;Golgi apparatus;Nucleoplasm
+ENSG00000178950,Golgi apparatus;Vesicles;
+ENSG00000178952,Mitochondria;
+ENSG00000178966,;Nuclear bodies;Nucleoplasm
+ENSG00000178982,;Cytosol
+ENSG00000178999,Midbody;Nucleoplasm;
+ENSG00000179041,Nucleoli;
+ENSG00000179091,;Mitochondria
+ENSG00000179094,;Cytosol;Nucleoplasm
+ENSG00000179115,;Cytosol
+ENSG00000179134,Cytosol;
+ENSG00000179151,;Cytoplasmic bodies
+ENSG00000179241,;Cell Junctions
+ENSG00000179242,Plasma membrane;
+ENSG00000179262,Nucleoplasm;Cytosol
+ENSG00000179271,;Mitochondria
+ENSG00000179295,;Cytosol;Nucleoli;Nucleus
+ENSG00000179299,;Vesicles
+ENSG00000179335,;Intermediate filaments;Nucleoplasm
+ENSG00000179344,;Rods & Rings
+ENSG00000179348,;Nucleoplasm
+ENSG00000179361,;Nucleoplasm
+ENSG00000179409,;Cytosol;Nuclear bodies
+ENSG00000179526,;Cytosol;Nucleus
+ENSG00000179562,Cytosol;Golgi apparatus;Plasma membrane;
+ENSG00000179593,;Cytosol;Plasma membrane
+ENSG00000179604,Actin filaments;Microtubules;Plasma membrane;
+ENSG00000179627,;Nucleus
+ENSG00000179632,;Nucleus
+ENSG00000179833,;Cytosol;Nucleoplasm
+ENSG00000179873,;Cytosol
+ENSG00000179889,Golgi apparatus;Vesicles;
+ENSG00000179912,;Nucleoplasm
+ENSG00000179933,;Cytosol;Mitochondria
+ENSG00000179950,Nucleoplasm;
+ENSG00000180035,;Mitochondria
+ENSG00000180071,;Cytosol;Nucleoli
+ENSG00000180185,Mitochondria;Nucleus;
+ENSG00000180190,;Cytosol
+ENSG00000180198,;Nuclear membrane;Nucleus
+ENSG00000180228,;Cytosol;Nucleoplasm
+ENSG00000180318,;Nuclear bodies;Nucleoplasm
+ENSG00000180329,Cytosol;
+ENSG00000180353,;Cytosol;Plasma membrane
+ENSG00000180357,Nucleoplasm;
+ENSG00000180370,Nucleus;Vesicles
+ENSG00000180423,Cytosol;Plasma membrane;
+ENSG00000180425,;Nucleoplasm
+ENSG00000180440,;Vesicles
+ENSG00000180488,;Mitochondria
+ENSG00000180616,;Cytosol
+ENSG00000180626,Nucleus;
+ENSG00000180628,;Nucleoli
+ENSG00000180660,Nucleus;Cytosol
+ENSG00000180667,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000180801,;Actin filaments
+ENSG00000180806,Nucleoplasm;
+ENSG00000180817,;Vesicles
+ENSG00000180818,;Nuclear bodies;Nucleoplasm
+ENSG00000180900,Cell Junctions;Nucleoplasm;Plasma membrane;
+ENSG00000180992,;Mitochondria
+ENSG00000181016,;Cytosol
+ENSG00000181019,Cytosol;
+ENSG00000181026,;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000181035,;Mitochondria
+ENSG00000181045,;Vesicles
+ENSG00000181061,;Mitochondria;Nucleoplasm
+ENSG00000181090,;Nuclear bodies;Nucleoplasm
+ENSG00000181135,Nucleoplasm;
+ENSG00000181163,Nucleoli;Nucleus
+ENSG00000181192,;Mitochondria
+ENSG00000181222,Nucleoplasm;
+ENSG00000181234,;Centrosome;Cytosol
+ENSG00000181315,;Cytosol;Nucleus
+ENSG00000181404,;Vesicles
+ENSG00000181433,Nucleus;
+ENSG00000181449,;Nucleoplasm
+ENSG00000181472,;Cytosol;Nucleoplasm
+ENSG00000181541,Nucleus;Cytosol
+ENSG00000181610,;Mitochondria;Nuclear membrane
+ENSG00000181666,;Golgi apparatus;Mitochondria;Nucleoplasm
+ENSG00000181690,;Nuclear speckles
+ENSG00000181722,;Nuclear bodies;Nucleoplasm
+ENSG00000181788,;Nucleoplasm;Vesicles
+ENSG00000181789,;Golgi apparatus
+ENSG00000181817,;Nuclear bodies;Nucleus
+ENSG00000181826,;Microtubules;Plasma membrane
+ENSG00000181830,;Golgi apparatus
+ENSG00000181873,;Mitochondria
+ENSG00000181904,;Nucleus
+ENSG00000181938,Nucleoplasm;
+ENSG00000181991,;Mitochondria
+ENSG00000182054,;Mitochondria
+ENSG00000182117,;Nuclear bodies
+ENSG00000182149,;Vesicles
+ENSG00000182154,;Mitochondria
+ENSG00000182158,;Nucleoplasm
+ENSG00000182175,;Nucleoplasm
+ENSG00000182180,;Mitochondria
+ENSG00000182195,;Nucleoli;Nucleus
+ENSG00000182199,Microtubules;Mitochondria;
+ENSG00000182208,;Cytosol;Nucleoli;Nucleus
+ENSG00000182287,;Golgi apparatus;Vesicles
+ENSG00000182362,Nucleoplasm;
+ENSG00000182446,;Nucleoplasm
+ENSG00000182481,Cytosol;Nucleoplasm;
+ENSG00000182504,;Cytosol;Microtubule organizing center
+ENSG00000182512,;Mitochondria
+ENSG00000182533,;Plasma membrane;Vesicles
+ENSG00000182541,;Cytosol;Nucleoplasm
+ENSG00000182551,Nucleoplasm;
+ENSG00000182568,;Nuclear bodies;Nucleoplasm
+ENSG00000182578,;Plasma membrane
+ENSG00000182712,;Mitochondria
+ENSG00000182742,;Nucleus
+ENSG00000182774,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000182795,;Cytosol
+ENSG00000182810,;Cytosol;Mitochondria;Nucleoli
+ENSG00000182827,;Golgi apparatus
+ENSG00000182872,Nuclear speckles;
+ENSG00000182890,;Mitochondria
+ENSG00000182901,Cytosol;
+ENSG00000182916,;Nucleus
+ENSG00000182944,Nucleus;Nucleoli
+ENSG00000182957,;Cytosol;Nucleoplasm
+ENSG00000182979,Nucleoplasm;Cytosol
+ENSG00000182985,;Cell Junctions
+ENSG00000183011,;Nucleus
+ENSG00000183020,;Vesicles
+ENSG00000183023,;Plasma membrane
+ENSG00000183044,;Mitochondria
+ENSG00000183048,;Mitochondria
+ENSG00000183172,;Mitochondria
+ENSG00000183207,;Cytosol;Nucleoplasm
+ENSG00000183255,;Nucleoplasm
+ENSG00000183258,;Nucleus
+ENSG00000183283,;Nuclear speckles
+ENSG00000183287,Cytosol;Plasma membrane;
+ENSG00000183337,Nucleus;
+ENSG00000183431,Nucleoplasm;
+ENSG00000183495,;Nucleus
+ENSG00000183513,;Mitochondria
+ENSG00000183605,;Vesicles
+ENSG00000183621,;Cytosol;Nucleoplasm
+ENSG00000183648,;Mitochondria
+ENSG00000183671,;Plasma membrane
+ENSG00000183684,Nuclear speckles;
+ENSG00000183696,Nucleoplasm;
+ENSG00000183718,;Intermediate filaments;Nucleoli
+ENSG00000183735,;Nucleoplasm
+ENSG00000183751,Nucleoli;
+ENSG00000183763,;Plasma membrane
+ENSG00000183765,;Nucleoplasm
+ENSG00000183770,;Cytokinetic bridge;Nucleus
+ENSG00000183773,Mitochondria;
+ENSG00000183785,;Microtubules
+ENSG00000183814,;Nucleoplasm
+ENSG00000183943,;Nucleus
+ENSG00000183960,;Plasma membrane
+ENSG00000183963,Nucleoplasm;Actin filaments
+ENSG00000183978,;Mitochondria
+ENSG00000184005,;Nucleoplasm
+ENSG00000184012,;Cell Junctions
+ENSG00000184047,Mitochondria;
+ENSG00000184110,;Cytosol
+ENSG00000184162,Nucleoplasm;
+ENSG00000184209,;Nucleoli
+ENSG00000184216,;Cytosol;Nucleus
+ENSG00000184254,Cytosol;Nucleus;
+ENSG00000184271,;Nuclear bodies
+ENSG00000184292,;Plasma membrane
+ENSG00000184304,;Cytosol;Plasma membrane
+ENSG00000184347,;Cell Junctions
+ENSG00000184357,;Nucleoplasm
+ENSG00000184363,Cell Junctions;
+ENSG00000184384,;Nuclear bodies;Nucleoplasm
+ENSG00000184402,;Cytosol;Nucleoplasm
+ENSG00000184428,;Mitochondria
+ENSG00000184445,;Cytosol;Plasma membrane
+ENSG00000184451,;Endoplasmic reticulum
+ENSG00000184465,Nucleoplasm;
+ENSG00000184470,;Cytosol;Mitochondria
+ENSG00000184481,;Cytosol;Nuclear speckles
+ENSG00000184486,;Nucleus
+ENSG00000184564,;Plasma membrane
+ENSG00000184575,Cytosol;Nucleoplasm;
+ENSG00000184640,Actin filaments;
+ENSG00000184661,Nucleoplasm;
+ENSG00000184675,;Nuclear bodies;Plasma membrane
+ENSG00000184708,Vesicles;
+ENSG00000184709,;Plasma membrane
+ENSG00000184743,Endoplasmic reticulum;
+ENSG00000184752,;Mitochondria
+ENSG00000184897,Nucleoli;Nucleus;
+ENSG00000184900,Nuclear bodies;Nucleoplasm;
+ENSG00000184916,;Cytosol;Vesicles
+ENSG00000184937,;Nucleoplasm
+ENSG00000184939,;
+ENSG00000184967,;Nucleoli;Nucleus
+ENSG00000184990,;Nucleoplasm
+ENSG00000185002,;Nucleoli;Nucleus
+ENSG00000185043,;Nucleoplasm;Plasma membrane
+ENSG00000185049,Nuclear bodies;Nucleoplasm;
+ENSG00000185085,;Nucleus
+ENSG00000185088,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000185104,Nucleus;
+ENSG00000185122,;Cytosol;Nucleoplasm
+ENSG00000185220,;Vesicles
+ENSG00000185247,;Cytosol;Nuclear bodies;Nucleoplasm
+ENSG00000185252,;Actin filaments;Nucleoplasm
+ENSG00000185272,;Nucleoplasm
+ENSG00000185298,Nucleoli;
+ENSG00000185324,;Nucleoplasm
+ENSG00000185338,;Nucleoplasm
+ENSG00000185345,;Cytosol;Nuclear speckles
+ENSG00000185359,Endosomes;Cytosol;Lysosomes
+ENSG00000185432,;Lipid droplets
+ENSG00000185475,Nuclear speckles;
+ENSG00000185480,;Nucleoplasm
+ENSG00000185482,Cytosol;Nucleoplasm;
+ENSG00000185504,Cytosol;Intermediate filaments;Nucleoplasm;
+ENSG00000185507,;Cytosol;Nucleoplasm
+ENSG00000185513,;Nucleus
+ENSG00000185515,;Nucleoplasm
+ENSG00000185567,Cytosol;Plasma membrane;
+ENSG00000185591,Nucleoplasm;
+ENSG00000185608,Mitochondria;Nucleoli;
+ENSG00000185619,;Nucleoplasm
+ENSG00000185621,;Cytosol;Focal adhesion sites
+ENSG00000185624,;Endoplasmic reticulum
+ENSG00000185630,Nucleoplasm;
+ENSG00000185658,;Cytosol;Nucleoli;Nucleus
+ENSG00000185668,Nucleoplasm;
+ENSG00000185721,;Cytosol
+ENSG00000185722,Endosomes;
+ENSG00000185745,;Cytosol
+ENSG00000185753,;Cytosol
+ENSG00000185787,;Nuclear speckles
+ENSG00000185811,;Nucleoplasm
+ENSG00000185813,;Centrosome;Intermediate filaments
+ENSG00000185818,;Mitochondria
+ENSG00000185825,Endoplasmic reticulum;
+ENSG00000185885,;Cytosol
+ENSG00000185909,Cytosol;
+ENSG00000185946,;Nucleoplasm
+ENSG00000185950,;Cytosol
+ENSG00000185960,Nucleoplasm;
+ENSG00000185963,;Golgi apparatus
+ENSG00000185973,;Mitochondria
+ENSG00000186001,Cytosol;
+ENSG00000186010,Mitochondria;
+ENSG00000186081,;Intermediate filaments
+ENSG00000186088,;Vesicles
+ENSG00000186141,Nucleoplasm;
+ENSG00000186153,;Cytosol;Golgi apparatus
+ENSG00000186174,Nucleoplasm;
+ENSG00000186185,;Cytosol;Microtubule ends;Nucleus
+ENSG00000186193,;Cytosol;Nucleoli;Nucleus
+ENSG00000186205,;Mitochondria
+ENSG00000186260,;Nuclear speckles
+ENSG00000186297,;Plasma membrane
+ENSG00000186318,;Plasma membrane
+ENSG00000186350,;Golgi apparatus;Nucleus
+ENSG00000186352,;Cytosol;Nucleus
+ENSG00000186416,;Nucleoli
+ENSG00000186431,;Plasma membrane
+ENSG00000186432,Nucleus;
+ENSG00000186462,Cytosol;Plasma membrane;
+ENSG00000186468,Cytosol;Endoplasmic reticulum;
+ENSG00000186493,Golgi apparatus;Vesicles;
+ENSG00000186517,;Vesicles
+ENSG00000186522,Actin filaments;
+ENSG00000186575,Cytosol;Nucleus;Plasma membrane;
+ENSG00000186591,;Mitochondria
+ENSG00000186603,;Mitochondria
+ENSG00000186625,;Microtubule organizing center;Nucleus
+ENSG00000186642,;Cytosol
+ENSG00000186660,;Nucleus
+ENSG00000186666,;Cytosol;Nucleus
+ENSG00000186684,;Vesicles
+ENSG00000186806,Nucleus;
+ENSG00000186834,Nucleoplasm;Vesicles;
+ENSG00000186847,Intermediate filaments;
+ENSG00000186868,;Plasma membrane
+ENSG00000186871,;Centrosome;Cytosol;Nucleoplasm
+ENSG00000186908,;Golgi apparatus;Vesicles
+ENSG00000186951,Nucleus;
+ENSG00000187051,Nucleoli;Cytosol;Nucleus
+ENSG00000187079,Nucleoplasm;
+ENSG00000187134,Cytosol;Endoplasmic reticulum
+ENSG00000187210,;Nuclear speckles
+ENSG00000187231,Intermediate filaments;
+ENSG00000187240,;Mitochondria
+ENSG00000187257,;Nuclear speckles
+ENSG00000187266,;Vesicles
+ENSG00000187323,;Golgi apparatus
+ENSG00000187514,Cytosol;Nucleus;
+ENSG00000187531,;Nucleoli fibrillar center
+ENSG00000187688,;Plasma membrane
+ENSG00000187690,Nucleoplasm;
+ENSG00000187735,;Nucleus
+ENSG00000187736,;Nucleoli fibrillar center;Nucleus
+ENSG00000187741,;Nucleus
+ENSG00000187742,;Nucleoplasm
+ENSG00000187764,;Endoplasmic reticulum;Vesicles
+ENSG00000187772,;Cytosol;Nucleoli;Nucleus
+ENSG00000187778,;Nucleoplasm
+ENSG00000187790,;Nucleoplasm
+ENSG00000187792,;Cytosol
+ENSG00000187837,;Nucleoli;Nucleus
+ENSG00000187838,;Mitochondria
+ENSG00000187840,;Cytosol;Nucleoplasm
+ENSG00000187954,Nucleoplasm;
+ENSG00000188001,;Nucleoplasm
+ENSG00000188015,Cytosol;Nucleoli;
+ENSG00000188021,Cytosol;Plasma membrane;
+ENSG00000188042,;Cytosol;Plasma membrane
+ENSG00000188133,;Nucleoplasm
+ENSG00000188157,;Cytosol;Plasma membrane
+ENSG00000188158,;Cell Junctions
+ENSG00000188186,Vesicles;
+ENSG00000188229,;Microtubules
+ENSG00000188283,;Nuclear membrane;Nucleus
+ENSG00000188312,;Nucleus
+ENSG00000188313,;Nucleus;Plasma membrane
+ENSG00000188321,;Nucleoplasm
+ENSG00000188342,;Microtubules;Nucleus
+ENSG00000188452,;Cytosol;Nucleoplasm
+ENSG00000188486,;Nuclear speckles;Nucleoplasm
+ENSG00000188522,;Cytosol
+ENSG00000188529,;Nucleoplasm
+ENSG00000188554,;Vesicles
+ENSG00000188559,;Cytosol
+ENSG00000188613,;Cytosol;Nucleoplasm
+ENSG00000188643,Cytosol;Plasma membrane;
+ENSG00000188706,;Cytosol;Golgi apparatus
+ENSG00000188739,;Nucleoli;Nucleus
+ENSG00000188786,Nucleoplasm;
+ENSG00000188807,;Nuclear membrane;Nucleus
+ENSG00000188827,;Cell Junctions;Cytosol;Nucleoplasm
+ENSG00000188846,;Cytosol;Endoplasmic reticulum
+ENSG00000188869,;Cytosol
+ENSG00000188878,;Centrosome
+ENSG00000188895,Nucleoplasm;
+ENSG00000188910,;Cell Junctions
+ENSG00000188959,;Nucleus
+ENSG00000188976,Nucleoli;
+ENSG00000188986,Nucleoplasm;
+ENSG00000189043,;Mitochondria
+ENSG00000189046,Nucleus;
+ENSG00000189060,;Nuclear bodies;Nucleus
+ENSG00000189067,;Cytosol;Nucleoplasm;Vesicles
+ENSG00000189079,;Nucleoplasm;Plasma membrane
+ENSG00000189091,;Nucleoli;Nucleus
+ENSG00000189120,;Nucleoplasm
+ENSG00000189143,;Plasma membrane
+ENSG00000189159,;Nuclear membrane;Nucleoli;Nucleus
+ENSG00000189221,Mitochondria;
+ENSG00000189241,;Nucleoli;Nucleus
+ENSG00000189266,;Golgi apparatus;Nucleoplasm
+ENSG00000189298,Nucleoplasm;
+ENSG00000189299,;Nucleoplasm
+ENSG00000189334,;Cytosol;Plasma membrane
+ENSG00000189337,;Cytosol;Nuclear speckles;Nucleoplasm
+ENSG00000189369,;Cytosol
+ENSG00000189403,;Nucleus
+ENSG00000189410,;Cytosol
+ENSG00000189433,;Cell Junctions
+ENSG00000196074,;Cytosol;Nucleoplasm;Plasma membrane
+ENSG00000196116,;Cytoplasmic bodies
+ENSG00000196118,;Cytosol
+ENSG00000196132,;Cytosol;Nucleoplasm
+ENSG00000196141,Cytosol;Nucleoli;
+ENSG00000196150,;Nuclear speckles
+ENSG00000196154,Plasma membrane;
+ENSG00000196177,;Mitochondria
+ENSG00000196182,;Cytosol;Nucleoplasm
+ENSG00000196187,Microtubule organizing center;Vesicles;
+ENSG00000196189,Nucleus;
+ENSG00000196199,;Nucleus
+ENSG00000196214,;Centrosome
+ENSG00000196227,;Nucleoplasm
+ENSG00000196230,;Microtubules
+ENSG00000196233,Nucleoplasm;
+ENSG00000196235,Nucleoplasm;
+ENSG00000196242,Plasma membrane;
+ENSG00000196263,;Nucleus
+ENSG00000196284,;Nucleoplasm
+ENSG00000196305,;Cytosol
+ENSG00000196313,Nuclear membrane;Nucleoplasm;
+ENSG00000196338,;Cell Junctions
+ENSG00000196344,;Cytosol
+ENSG00000196345,Cytosol;
+ENSG00000196363,;Nucleoplasm
+ENSG00000196365,Mitochondria;Nucleus;
+ENSG00000196367,;Nucleoplasm
+ENSG00000196371,Vesicles;
+ENSG00000196378,Cytosol;Nucleoplasm;
+ENSG00000196391,;Intermediate filaments
+ENSG00000196396,Endoplasmic reticulum;
+ENSG00000196419,Nucleoplasm;
+ENSG00000196422,Nucleoplasm;
+ENSG00000196498,;Nucleoplasm
+ENSG00000196504,Nuclear speckles;
+ENSG00000196526,;Actin filaments
+ENSG00000196544,;Centrosome;Cytosol
+ENSG00000196588,;Cytosol;Nucleoplasm
+ENSG00000196591,Nucleus;
+ENSG00000196628,;Nucleoplasm
+ENSG00000196639,;Plasma membrane
+ENSG00000196642,;Cytosol
+ENSG00000196678,;Golgi apparatus;Nucleus
+ENSG00000196704,;Nucleoplasm
+ENSG00000196715,;Endoplasmic reticulum
+ENSG00000196754,;Cytosol;Nucleus
+ENSG00000196767,;Nucleus
+ENSG00000196776,;Plasma membrane
+ENSG00000196781,;Nucleoplasm
+ENSG00000196782,;Nuclear speckles
+ENSG00000196792,;Cytosol
+ENSG00000196839,;Plasma membrane
+ENSG00000196843,Nucleus;Nucleoli
+ENSG00000196911,;Cytosol
+ENSG00000196923,Actin filaments;Focal adhesion sites;
+ENSG00000196924,Actin filaments;Cytosol;Plasma membrane;
+ENSG00000196937,Golgi apparatus;
+ENSG00000196961,;Vesicles
+ENSG00000196976,;Nuclear bodies;Nucleoplasm
+ENSG00000197016,;Nuclear bodies;Nucleoplasm
+ENSG00000197046,;Golgi apparatus
+ENSG00000197062,Nucleus;Nucleoli
+ENSG00000197081,Golgi apparatus;Vesicles;
+ENSG00000197102,;Centrosome;Cytosol
+ENSG00000197111,;Cytosol;Nucleoplasm
+ENSG00000197114,;Nucleus
+ENSG00000197122,Cytosol;Plasma membrane;
+ENSG00000197142,;Mitochondria
+ENSG00000197150,;Mitochondria
+ENSG00000197157,Cytosol;
+ENSG00000197183,Nucleoplasm;
+ENSG00000197217,;Vesicles
+ENSG00000197223,Nucleoli;Nucleus;
+ENSG00000197249,Vesicles;
+ENSG00000197265,Nucleoplasm;Cytosol
+ENSG00000197299,;Nucleus
+ENSG00000197312,Cytosol;Nucleoplasm;
+ENSG00000197321,;Actin filaments;Cytosol;Plasma membrane
+ENSG00000197343,;Nucleoplasm;Plasma membrane
+ENSG00000197381,;Nucleoplasm
+ENSG00000197386,;Cytosol;Nucleoplasm
+ENSG00000197442,;Cytosol
+ENSG00000197448,;Peroxisomes
+ENSG00000197451,Nucleoplasm;
+ENSG00000197498,;Nucleoli
+ENSG00000197548,;Cytosol
+ENSG00000197563,;Cytosol;Plasma membrane
+ENSG00000197576,Nuclear bodies;
+ENSG00000197579,;Nucleoplasm
+ENSG00000197586,;Golgi apparatus
+ENSG00000197601,Peroxisomes;
+ENSG00000197622,;Plasma membrane
+ENSG00000197702,;Actin filaments;Cytosol;Focal adhesion sites
+ENSG00000197705,;Cytosol
+ENSG00000197712,Cytosol;Golgi apparatus;Nucleus;
+ENSG00000197728,Cytosol;Endoplasmic reticulum;Nucleoli;
+ENSG00000197746,;Vesicles
+ENSG00000197757,;Nucleoplasm
+ENSG00000197763,Cytosol;Nucleoplasm;
+ENSG00000197769,;Cytoplasmic bodies
+ENSG00000197771,Nucleoplasm;
+ENSG00000197776,;Cytosol
+ENSG00000197780,Nucleoli;Nucleus;
+ENSG00000197785,;Mitochondria
+ENSG00000197822,;Cell Junctions;Plasma membrane
+ENSG00000197837,;Nucleoplasm
+ENSG00000197879,Plasma membrane;Nuclear bodies
+ENSG00000197905,;Nucleoplasm
+ENSG00000197956,Cytosol;Plasma membrane;
+ENSG00000197965,;Plasma membrane
+ENSG00000197976,;Nuclear speckles
+ENSG00000198000,;Nucleoli
+ENSG00000198015,;Mitochondria
+ENSG00000198021,;Nucleoplasm
+ENSG00000198026,Nucleoplasm;
+ENSG00000198028,;Nucleoplasm
+ENSG00000198033,;Microtubules
+ENSG00000198040,;Nucleoplasm
+ENSG00000198042,;Nucleoli;Vesicles
+ENSG00000198056,;Vesicles
+ENSG00000198060,;Mitochondria
+ENSG00000198074,;Cytosol;Plasma membrane
+ENSG00000198081,Nucleus;Nucleoli
+ENSG00000198087,Cytosol;Plasma membrane;
+ENSG00000198157,;Nucleus
+ENSG00000198160,Nucleoplasm;
+ENSG00000198162,Golgi apparatus;
+ENSG00000198171,;Endoplasmic reticulum
+ENSG00000198176,;Cytosol;Nucleoplasm
+ENSG00000198189,;Lipid droplets
+ENSG00000198218,Nucleoplasm;
+ENSG00000198231,Nuclear speckles;
+ENSG00000198246,;Vesicles
+ENSG00000198300,;Nucleoplasm
+ENSG00000198301,;Nucleoli
+ENSG00000198331,;Cytosol
+ENSG00000198353,;Nucleus
+ENSG00000198355,;Cytosol
+ENSG00000198356,Nucleoli;Nucleus;
+ENSG00000198363,;Endoplasmic reticulum
+ENSG00000198408,;Cytosol
+ENSG00000198431,;Nucleus
+ENSG00000198464,;Nucleoplasm
+ENSG00000198478,;Nucleoplasm
+ENSG00000198492,Cytosol;Cytoplasmic bodies
+ENSG00000198498,Nucleoli;
+ENSG00000198517,Nucleoplasm;
+ENSG00000198522,;Cytosol;Nucleoplasm
+ENSG00000198554,Nucleoplasm;
+ENSG00000198556,Nucleoplasm;
+ENSG00000198561,Plasma membrane;
+ENSG00000198563,Nuclear speckles;
+ENSG00000198573,;Nucleoplasm
+ENSG00000198585,;Nucleoli;Nucleus
+ENSG00000198586,Nucleus;
+ENSG00000198612,;Cytosol;Nucleoplasm
+ENSG00000198625,;Nucleus
+ENSG00000198646,;Nucleoplasm
+ENSG00000198648,;Cytosol;Nucleoplasm
+ENSG00000198677,;Cytosol;Nucleoplasm
+ENSG00000198681,;Cytosol
+ENSG00000198689,;Vesicles
+ENSG00000198690,;Nucleoplasm
+ENSG00000198707,;Centrosome
+ENSG00000198720,;Vesicles
+ENSG00000198721,Peroxisomes;
+ENSG00000198722,;Vesicles
+ENSG00000198730,Nucleoplasm;
+ENSG00000198736,Nucleoplasm;
+ENSG00000198755,;Cytosol;Endoplasmic reticulum;Nucleoli
+ENSG00000198780,Nuclear membrane;
+ENSG00000198783,Nucleoplasm;
+ENSG00000198791,;Nuclear bodies
+ENSG00000198804,;Mitochondria
+ENSG00000198805,;Cytosol
+ENSG00000198824,Nucleoplasm;
+ENSG00000198830,;Nucleus
+ENSG00000198836,;Mitochondria
+ENSG00000198844,;Plasma membrane
+ENSG00000198848,Endoplasmic reticulum;
+ENSG00000198862,Cytosol;
+ENSG00000198873,;Nuclear membrane;Nuclear speckles;Plasma membrane
+ENSG00000198879,;Nuclear speckles
+ENSG00000198887,;Nuclear speckles
+ENSG00000198890,;Nucleoli;Nucleus
+ENSG00000198894,;Cytosol;Nucleus
+ENSG00000198900,;Nucleoli fibrillar center;Nucleus
+ENSG00000198908,;Cytosol;Nucleoplasm
+ENSG00000198911,;Nucleoplasm;Vesicles
+ENSG00000198912,Nucleus;
+ENSG00000198914,Nucleus;
+ENSG00000198920,Centrosome;Cytosol;
+ENSG00000198924,;Nucleoli fibrillar center;Nucleoplasm
+ENSG00000198925,;Vesicles
+ENSG00000198931,;Cytosol
+ENSG00000198932,;Cytosol
+ENSG00000198945,Nucleoli;Nucleus;
+ENSG00000198960,;Cytosol
+ENSG00000198961,;Intermediate filaments
+ENSG00000203667,Mitochondria;
+ENSG00000203668,Cytosol;
+ENSG00000203727,;Vesicles
+ENSG00000203760,;Nucleoplasm
+ENSG00000203780,;Nucleoplasm
+ENSG00000203797,;Cytosol
+ENSG00000203926,;Nucleoplasm
+ENSG00000204120,Cytosol;
+ENSG00000204179,;Microtubule organizing center
+ENSG00000204186,Nucleoplasm;
+ENSG00000204209,Nuclear bodies;Nucleus;
+ENSG00000204231,;Nucleus
+ENSG00000204256,Nuclear speckles;
+ENSG00000204308,;Endoplasmic reticulum
+ENSG00000204310,;Endoplasmic reticulum
+ENSG00000204311,;Mitochondria
+ENSG00000204316,;Mitochondria
+ENSG00000204344,;Nuclear speckles
+ENSG00000204356,Nuclear bodies;Nucleoplasm;
+ENSG00000204371,;Nuclear speckles;Nucleoplasm
+ENSG00000204386,;Cell Junctions;Vesicles
+ENSG00000204392,;Nucleus
+ENSG00000204394,Cytosol;
+ENSG00000204406,;Nucleus
+ENSG00000204463,Cytosol;Nucleoplasm;
+ENSG00000204531,;Cytosol;Nucleoplasm
+ENSG00000204536,;Cytosol
+ENSG00000204560,;Nucleoplasm
+ENSG00000204568,;Mitochondria
+ENSG00000204569,Nuclear bodies;Nucleoplasm;
+ENSG00000204574,Cytosol;
+ENSG00000204590,;Vesicles
+ENSG00000204599,;Cytosol
+ENSG00000204628,Cytosol;Nucleoplasm;
+ENSG00000204634,;Nucleus
+ENSG00000204673,;Cytosol
+ENSG00000204740,Golgi apparatus;
+ENSG00000204842,Cytosol;
+ENSG00000204843,;Centrosome;Cytosol
+ENSG00000204947,;Nucleus
+ENSG00000205078,Intermediate filaments;
+ENSG00000205133,;Endoplasmic reticulum
+ENSG00000205177,;Vesicles
+ENSG00000205189,Nucleoplasm;
+ENSG00000205220,Cytosol;
+ENSG00000205250,;Nucleoplasm
+ENSG00000205302,Endosomes;Lysosomes
+ENSG00000205323,;Nuclear speckles
+ENSG00000205339,Cytosol;Nucleoplasm;
+ENSG00000205352,Nucleoplasm;
+ENSG00000205356,;Vesicles
+ENSG00000205413,Cytosol;Vesicles;
+ENSG00000205423,;Cytosol
+ENSG00000205531,;Nucleoplasm
+ENSG00000205581,;Nucleus
+ENSG00000205683,Nucleoplasm;
+ENSG00000205726,;Plasma membrane
+ENSG00000205765,;Cytosol;Nucleoplasm
+ENSG00000205922,;Nucleoplasm
+ENSG00000205937,;Nucleoplasm
+ENSG00000206053,Cytosol;Plasma membrane;
+ENSG00000206075,;Vesicles
+ENSG00000206262,;Nucleoli fibrillar center
+ENSG00000206503,;Plasma membrane
+ENSG00000211448,;Cytosol;Nucleoplasm
+ENSG00000211584,;Vesicles
+ENSG00000212864,;Cytosol;Nucleoplasm
+ENSG00000212907,;Mitochondria
+ENSG00000212993,;Nucleoplasm
+ENSG00000213024,;Nuclear membrane
+ENSG00000213047,;Cytosol
+ENSG00000213066,;Centrosome
+ENSG00000213079,Nucleoplasm;
+ENSG00000213085,Nucleoplasm;
+ENSG00000213190,;Cytosol;Nucleoplasm
+ENSG00000213203,;Endoplasmic reticulum
+ENSG00000213221,Mitochondria;
+ENSG00000213341,;Cytosol;Nucleoplasm
+ENSG00000213366,Cytosol;
+ENSG00000213390,;Plasma membrane
+ENSG00000213523,;Cytosol;Nucleoplasm
+ENSG00000213551,;Nucleoplasm;Plasma membrane
+ENSG00000213619,;Mitochondria
+ENSG00000213639,Nucleus;Plasma membrane;
+ENSG00000213658,;Plasma membrane
+ENSG00000213672,Plasma membrane;
+ENSG00000213676,;Nucleoli;Nucleus
+ENSG00000213689,;Cytosol
+ENSG00000213719,;Cytosol
+ENSG00000213741,;Cytosol;Endoplasmic reticulum
+ENSG00000213780,;Nuclear speckles
+ENSG00000213782,Nucleoli;
+ENSG00000213809,;Plasma membrane
+ENSG00000213865,Nucleoplasm;
+ENSG00000213886,;Nucleus
+ENSG00000213889,;Vesicles
+ENSG00000213906,;Plasma membrane
+ENSG00000213918,;Vesicles
+ENSG00000213928,;Cytosol
+ENSG00000213937,;Cell Junctions
+ENSG00000214022,Nucleus;
+ENSG00000214026,;Mitochondria
+ENSG00000214102,;Nucleoplasm
+ENSG00000214113,;Nuclear bodies
+ENSG00000214253,Mitochondria;
+ENSG00000214357,;Vesicles
+ENSG00000214517,;Nucleus
+ENSG00000214575,;Cytosol;Nucleoplasm
+ENSG00000214694,;Vesicles
+ENSG00000214736,;Mitochondria
+ENSG00000214753,Nucleoplasm;
+ENSG00000215021,Mitochondria;
+ENSG00000215183,;Vesicles
+ENSG00000215218,;Nucleus
+ENSG00000215271,;Nucleoli;Nucleus
+ENSG00000215472,;Cytosol;Endoplasmic reticulum
+ENSG00000215695,;Nucleoplasm
+ENSG00000215883,Nucleoplasm;
+ENSG00000216490,;Vesicles
+ENSG00000221829,;Cytosol;Nucleoli
+ENSG00000221869,;Nucleoplasm
+ENSG00000221886,Nucleoplasm;
+ENSG00000221926,;Cytosol
+ENSG00000221944,;Nuclear bodies;Nucleoli;Nucleus
+ENSG00000221955,;Nucleoplasm
+ENSG00000221963,;Nuclear bodies;Nucleoplasm
+ENSG00000221978,;Nucleoplasm
+ENSG00000222011,Cytosol;
+ENSG00000224470,Nucleus;
+ENSG00000225190,;Vesicles
+ENSG00000225921,Nucleoli;
+ENSG00000226650,Nucleoplasm;
+ENSG00000227268,;Nucleus
+ENSG00000227345,Nucleus;Vesicles;
+ENSG00000227471,;Cytosol;Plasma membrane
+ENSG00000228716,;Mitochondria
+ENSG00000230667,;Nucleoplasm
+ENSG00000231389,;Vesicles
+ENSG00000231500,;Cytosol
+ENSG00000232119,;Cytosol
+ENSG00000233276,;Cytosol
+ENSG00000233608,;Nucleoli;Nucleus
+ENSG00000234127,;Cytosol;Nucleoplasm
+ENSG00000234602,;Nuclear bodies
+ENSG00000235173,;
+ENSG00000237172,;Golgi apparatus
+ENSG00000238227,;Nucleoplasm
+ENSG00000239306,;Nuclear speckles
+ENSG00000239382,;Nucleoplasm
+ENSG00000239474,;Cytosol
+ENSG00000239672,Cytosol;Nucleoplasm
+ENSG00000239857,;Cytosol
+ENSG00000239900,Cytosol;
+ENSG00000240065,;Cytosol
+ENSG00000240230,Cytosol;
+ENSG00000240344,;Nucleus
+ENSG00000240583,;Plasma membrane
+ENSG00000240682,Nuclear speckles;
+ENSG00000240849,;Endoplasmic reticulum
+ENSG00000241343,;Cytosol;Endoplasmic reticulum
+ENSG00000241468,;Mitochondria
+ENSG00000241837,;Mitochondria
+ENSG00000241945,;Nucleoli
+ENSG00000242028,;Nucleoplasm
+ENSG00000242110,;Vesicles
+ENSG00000242247,;Cytosol;Golgi apparatus
+ENSG00000242265,;Cytosol;Nucleus
+ENSG00000242372,;Nucleoplasm
+ENSG00000242485,;Mitochondria
+ENSG00000242802,;Nuclear speckles;Nucleoplasm
+ENSG00000243156,Nucleoplasm;
+ENSG00000243449,;Cytosol
+ENSG00000243943,Nucleus;
+ENSG00000243955,;Cytosol
+ENSG00000244005,;Cytosol;Nucleoplasm
+ENSG00000244038,;Endoplasmic reticulum
+ENSG00000244067,;Cytosol
+ENSG00000244187,;Mitochondria
+ENSG00000244405,;Nucleoplasm
+ENSG00000244462,Nucleoplasm;
+ENSG00000244607,;Centrosome
+ENSG00000244687,Nucleoplasm;
+ENSG00000247077,;Mitochondria
+ENSG00000247596,;Plasma membrane
+ENSG00000248144,;Cytosol;Plasma membrane
+ENSG00000248167,;Cytosol
+ENSG00000248487,Vesicles;
+ENSG00000248905,;Cytosol;Nucleoplasm
+ENSG00000249222,Mitochondria;
+ENSG00000249751,Plasma membrane;
+ENSG00000250479,;Mitochondria
+ENSG00000250799,;
+ENSG00000253251,;Nucleoli;Nucleoplasm
+ENSG00000253293,;Nuclear bodies;Nucleoplasm
+ENSG00000253729,Nucleoplasm;
+ENSG00000254004,;Nucleoplasm
+ENSG00000254087,;Golgi apparatus;Plasma membrane;Vesicles
+ENSG00000254469,;Nucleoli
+ENSG00000254726,;Cytosol
+ENSG00000254827,;Nucleoplasm
+ENSG00000254986,Cytosol;
+ENSG00000255112,;Midbody
+ENSG00000255150,;Nucleoli;Nucleus
+ENSG00000255154,;Mitochondria
+ENSG00000255302,;Nucleoplasm
+ENSG00000256087,;Nucleoplasm
+ENSG00000256683,;Nuclear bodies;Nucleoplasm
+ENSG00000257103,;Cytoplasmic bodies;Cytosol
+ENSG00000257390,Nuclear speckles;
+ENSG00000257594,;Golgi apparatus
+ENSG00000257727,;
+ENSG00000257923,;Golgi apparatus;Nucleoplasm
+ENSG00000258227,;Plasma membrane
+ENSG00000258644,Mitochondria;
+ENSG00000259112,;Mitochondria
+ENSG00000259494,;Mitochondria
+ENSG00000259956,Nucleoplasm;
+ENSG00000260027,;Nuclear bodies;Nucleoplasm
+ENSG00000260596,;Nucleoli;Nucleus
+ENSG00000261150,Intermediate filaments;
+ENSG00000261236,Nucleoli;Nucleus;
+ENSG00000261609,;Microtubules
+ENSG00000261678,;Nuclear bodies
+ENSG00000261796,Nuclear speckles;
+ENSG00000262660,Mitochondria;
+ENSG00000262664,;Cytosol;Nucleoplasm
+ENSG00000262814,;Mitochondria
+ENSG00000263001,Nucleoplasm;
+ENSG00000263465,;Nucleus
+ENSG00000263528,;Cytosol
+ENSG00000265241,Nuclear speckles;
+ENSG00000265354,;Mitochondria
+ENSG00000265681,;Cytosol;Endoplasmic reticulum
+ENSG00000265763,;Nucleoplasm
+ENSG00000265817,;Nucleus
+ENSG00000266028,;Cytosol;Nucleoplasm
+ENSG00000266173,;Cytosol;Nucleoplasm
+ENSG00000266472,;Mitochondria
+ENSG00000267680,;Nuclear membrane;Nucleus
+ENSG00000267796,;Nucleoplasm
+ENSG00000267855,;Mitochondria
+ENSG00000269335,Cytosol;
+ENSG00000269858,;Nucleoplasm
+ENSG00000270181,;Nucleoplasm
+ENSG00000270647,Nucleoplasm;
+ENSG00000270806,;Nucleoplasm
+ENSG00000272031,Cytosol;
+ENSG00000272398,;Vesicles
+ENSG00000272617,;Golgi apparatus
+ENSG00000272886,;Cytoplasmic bodies
+ENSG00000273173,;Nuclear speckles
+ENSG00000273559,Nuclear speckles;
+ENSG00000273604,;Nucleoplasm
+ENSG00000274559,;Nucleoplasm
+ENSG00000275052,;Centrosome;Nuclear speckles;Nucleoplasm
+ENSG00000275074,;Golgi apparatus;Nucleoplasm
+ENSG00000275410,;Nucleoplasm
+ENSG00000275835,;Centrosome;Cytosol
+ENSG00000276043,;Nucleoplasm
+ENSG00000276045,;Cytosol
+ENSG00000276293,;Nucleoplasm
+ENSG00000276345,;Mitochondria
+ENSG00000276644,;Nucleoplasm
+ENSG00000277075,;Nucleoplasm
+ENSG00000277117,;Plasma membrane
+ENSG00000277258,;Nucleus
+ENSG00000277791,Mitochondria;
+ENSG00000278023,;Cytosol;Nucleoli
+ENSG00000278053,;Nucleoli
+ENSG00000278259,Cytosol;
+ENSG00000278540,;Cytosol
+ENSG00000278619,Mitochondria;
+ENSG00000278845,Mitochondria;
+ENSG00000281887,;Endoplasmic reticulum
