@@ -85,7 +85,7 @@ def label_accuracy_micro(gt, predict):
 def label_precision_micro(gt, predict):
     quantity = _label_quantity(gt, predict)
     sum_tp, sum_fp, sum_tn, sum_fn = np.sum(quantity, axis=1)
-    return (sum_fp + epsilon) / (sum_tp + sum_fp + epsilon)
+    return (sum_tp + epsilon) / (sum_tp + sum_fp + epsilon)
 
 
 def label_recall_micro(gt, predict):
