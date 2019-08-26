@@ -4,8 +4,6 @@
 import os
 import random
 import numpy as np
-import sys
-sys.path.append("../")
 from util import datautil
 from util import constant as c
 

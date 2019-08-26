@@ -3,15 +3,15 @@
 
 # select img: enhanced, 4 tissue, high quality from qdata
 
-import datautil
 import os
 import shutil
 import threading
 import queue
+from util import datautil
+from util import constant as c
 
-
-DATA_DIR = "/data/longwei/hpa/qdata"
-TARGET = "/data/longwei/hpa/enhance_4tissue_data"
+DATA_DIR = c.QDATA_DIR
+TARGET = c.DATA_DIR
 
 
 def copy(q):

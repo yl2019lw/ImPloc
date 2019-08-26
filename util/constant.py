@@ -1,22 +1,37 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# as enhanced & supported data at different location
-# as SSD faster than hard disk
-DATA_DIR = "/home/longwei/enhance_4tissue_data"
+import os
 
-QDATA_DIR = "/data/longwei/hpa/qdata"
-SUPP_DATA_DIR = "/ndata/longwei/hpa/data"
-APPROVE_DATA_DIR = "/ndata/longwei/hpa/approve_data"
+PROJECT = os.path.join(os.path.dirname(__file__), os.pardir)
+ROOT = os.path.join(PROJECT, "data")
 
-# tissue dir store img name for the 4 tissues
-TISSUE_DIR = "/ndata/longwei/hpa/tissuedata"
-ALL_TISSUE_DIR = "/ndata/longwei/hpa/all_tissuedata"
+# enhanced img dir
+DATA_DIR = os.path.join(ROOT, "enhanced_4tissue_imgs")
 
-FV_DIR = "/ndata/longwei/hpa/tissuefv/res18_128"
-ALL_FV_DIR = "/ndata/longwei/hpa/all_tissuefv/res18_128"
+# enhanced qdata img dir
+QDATA_DIR = os.path.join(ROOT, "enhanced_4tissue_imgs")
 
-MATLAB_FV_DIR = "/ndata/longwei/hpa/ilocator_fv"
+# supported img dir
+SUPP_DATA_DIR = os.path.join(ROOT, "supported_imgs")
+
+# approved img dir
+APPROVE_DATA_DIR = os.path.join(ROOT, "approved_4tissue_imgs")
+
+# enhanced 4tissue pic list
+TISSUE_DIR = os.path.join(ROOT, "enhanced_4tissue_piclist")
+
+# enhanced all tissue pic list
+ALL_TISSUE_DIR = os.path.join(ROOT, "enhanced_all_piclist")
+
+# enhanced 4tissue fv
+FV_DIR = os.path.join(ROOT, "enhanced_4tissue_fv", "res18_128")
+
+# enhanced all tissue fv
+ALL_FV_DIR = os.path.join(ROOT, "enhanced_all_fv", "res18_128")
+
+# iLocator fv
+MATLAB_FV_DIR = os.path.join(ROOT, "ilocator_fv")
 
 if __name__ == "__main__":
     pass

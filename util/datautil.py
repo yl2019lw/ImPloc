@@ -5,8 +5,7 @@ import os
 import random
 import numpy as np
 import math
-# from util import constant as c
-import constant as c
+from util import constant as c
 
 NUM_CLASSES = 6
 
