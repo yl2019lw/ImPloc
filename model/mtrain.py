@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # multi instance train model
-import fvloader
-import matloader
 import tensorboardX
 import time
 import os
@@ -13,21 +11,20 @@ import numpy as np
 from util import torch_util
 from util import npmetrics
 from transformer import Transformer
-
-
-# os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+from model import fvloader
+from model import matloader
 
 # BATCH_SIZE = 64
 BATCH_SIZE = 32
 
 
-def run_origin_train(model, imbtrain_data, writer, step, criterion):
+def run_origin_train(model, dloader, imbtrain_data, writer, step, criterion):
     print("------run origin imblance train data-----------", step)
     model.eval()
     with torch.no_grad():
         st = time.time()
 
-        for item in fvloader.batch_fv(imbtrain_data, len(imbtrain_data)):
+        for item in dloader.batch_fv(imbtrain_data, len(imbtrain_data)):
             genes, nimgs, labels, timesteps = item
 
             inputs = torch.from_numpy(nimgs).type(torch.cuda.FloatTensor)
@@ -56,14 +53,13 @@ def run_origin_train(model, imbtrain_data, writer, step, criterion):
         return loss.item()
 
 
-def run_val(model, val_data, writer, val_step, criterion):
+def run_val(model, dloader, val_data, writer, val_step, criterion):
     print("------run val-----------", val_step)
     model.eval()
     with torch.no_grad():
         st = time.time()
 
-        # for item in fvloader.batch_fv(val_data, len(val_data)):
-        for item in matloader.batch_fv(val_data, len(val_data)):
+        for item in dloader.batch_fv(val_data, len(val_data)):
             genes, nimgs, labels, timesteps = item
 
             inputs = torch.from_numpy(nimgs).type(torch.cuda.FloatTensor)
@@ -92,18 +88,18 @@ def run_val(model, val_data, writer, val_step, criterion):
         return loss.item(), lab_f1_macro
 
 
-def run_test(model, test_data, result):
+def run_test(model, dloader, test_data, result):
     model.eval()
     with torch.no_grad():
-        # for item in fvloader.batch_fv(test_data, len(test_data)):
-        for item in matloader.batch_fv(test_data, len(test_data)):
+        for item in dloader.batch_fv(test_data, len(test_data)):
             genes, nimgs, labels, timesteps = item
 
             inputs = torch.from_numpy(nimgs).type(torch.cuda.FloatTensor)
             pd = model(inputs)
             test_pd = torch_util.threshold_tensor_batch(pd)
+            np_pd = test_pd.data.cpu().numpy()
 
-            npmetrics.write_metrics(labels, np.array(test_pd), result)
+            npmetrics.write_metrics(labels, np_pd, result)
 
 
 def garbage_shuffle(train_data):
@@ -115,25 +111,16 @@ def garbage_shuffle(train_data):
     return garbage_data
 
 
-def train(fv="res18-128", size=0):
-    # train_data = fvloader.load_train_data(size=size, balance=True)
-    # val_data = fvloader.load_val_data(size=size)
-    # test_data = fvloader.load_test_data(size=size)
-    train_data = matloader.load_train_data(size=size, balance=False)
-    val_data = matloader.load_val_data(size=size)
-    test_data = matloader.load_test_data(size=size)
-    # imbtrain_data = fvloader.load_train_data(size=size, balance=False)
+def train(fv, model_name, criterion, size=0):
+    if fv == "matlab":
+        dloader = matloader
+    else:
+        dloader = fvloader
 
-    # train_data = garbage_shuffle(train_data)
-    # val_data = garbage_shuffle(val_data)
-    # model_name = "garbage-tv_transformer_%s_size%d_bce_gbalance" % (fv, size)
-    # model_name = "transformer-h4l3_%s_size%d_bce_gbalance" % (fv, size)
-    # model_name = "ploss/transformer_%s_size%d_autoloss_alpha64" % (fv, size)
-    # model_name = "transformer_%s_size%d_sign_balance_decay0.002" % (fv, size)
-    # model_name = "transformer_%s_size%d_f1loss_balance" % (fv, size)
-    # model_name = "transformer_%s_size%d_recallloss_balance" % (fv, size)
-    # model_name = "transformer_%s_size%d_fbetaloss_balance" % (fv, size)
-    model_name = "transformer_%s_size%d_bce" % (fv, size)
+    train_data = dloader.load_train_data(size=size, balance=False)
+    val_data = dloader.load_val_data(size=size)
+    test_data = dloader.load_test_data(size=size)
+    # model_name = "transformer_%s_size%d_bce" % (fv, size)
     model_dir = os.path.join("./modeldir/%s" % model_name)
     model_pth = os.path.join(model_dir, "model.pth")
 
@@ -153,20 +140,7 @@ def train(fv="res18-128", size=0):
     #         optimizer,
     #         patience=100)
 
-    # criterion = torch_util.FbetaLoss()
-    # criterion = torch_util.RecallLoss()
-    # criterion = torch_util.F1Loss()
-    # criterion = torch_util.SignLoss()
-    # criterion = torch_util.AutoLoss(alpha=64, reduction='none')
-    # criterion = torch_util.SFocalLoss(reduction='none')
-    criterion = torch.nn.BCELoss(reduction='none')
-    # criterion = torch.nn.BCELoss(reduce=True, size_average=True)
-    # from util import datautil
-    # freq = datautil.get_label_freq(size)
-    # criterion = torch_util.FocalLoss(freq=freq, gamma=2)
-    # criterion = torch_util.MetricsLoss()
-
-    epochs = 10000
+    epochs = 1000
     step = 1
     val_step = 1
     max_f1 = 0.0
@@ -220,7 +194,7 @@ def train(fv="res18-128", size=0):
 
         if e % 1 == 0:
             val_loss, val_f1 = run_val(
-                model, val_data, writer, val_step, criterion)
+                model, dloader, val_data, writer, val_step, criterion)
             # scheduler.step(val_loss)
             val_step += 1
             if e == 0:
@@ -245,7 +219,7 @@ def train(fv="res18-128", size=0):
                     max_f1 = val_f1
                 torch.save(model, model_pth)
                 result = os.path.join(model_dir, "result_epoch%d.txt" % e)
-                run_test(model, test_data, result)
+                run_test(model, dloader, test_data, result)
 
 
 def final_test(fv="res18-128", size=2):
