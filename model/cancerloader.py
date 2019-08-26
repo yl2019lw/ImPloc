@@ -6,11 +6,10 @@
 import os
 import random
 import numpy as np
-import sys
-sys.path.append("../")
 from util import datautil
+from util import constant as c
 
-FV_DIR = '/ndata/longwei/hpa/cancerfv_4tissue'
+FV_DIR = c.CANCER_FV_DIR
 NUM_CLASSES = 6
 
 

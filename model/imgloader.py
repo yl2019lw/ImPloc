@@ -8,15 +8,15 @@ import numpy as np
 import random
 import cv2
 import time
-import datautil
+from util import datautil
+from util import constant as c
 
 # as enhanced & supported data at different location
-DATA_DIR = "/data/longwei/hpa/qdata"
-SUPP_DATA_DIR = "/ndata/longwei/hpa/data"
-APPROVE_DATA_DIR = "/ndata/longwei/hpa/approve_data"
-
+DATA_DIR = c.QDATA_DIR
+SUPP_DATA_DIR = c.SUPP_DATA_DIR
+APPROVE_DATA_DIR = c.APPROVE_DATA_DIR
 # tissue dir store img name for the 4 tissues
-TISSUE_DIR = "/ndata/longwei/hpa/tissuedata"
+TISSUE_DIR = c.TISSUE_DIR
 
 NUM_CLASSES = 6
 

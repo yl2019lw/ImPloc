@@ -2,10 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import os
-import sys
 import numpy as np
 from scipy import io
-sys.path.append("../")
 from util import datautil
 from util import constant as c
 

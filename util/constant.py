@@ -33,5 +33,12 @@ ALL_FV_DIR = os.path.join(ROOT, "enhanced_all_fv", "res18_128")
 # iLocator fv
 MATLAB_FV_DIR = os.path.join(ROOT, "ilocator_fv")
 
+# cancer fv pic list
+CANCER_DATA_DIR = os.path.join(ROOT, "enhanced_cancerfv_3tissue_piclist")
+
+# cancer fv
+CANCER_FV_DIR = os.path.join(ROOT, "enhanced_cancerfv_3tissue")
+
+
 if __name__ == "__main__":
     pass
