@@ -12,19 +12,12 @@ import gpustat
 import threading
 import queue
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+from util import constant as c
+
 
 # for enhanced level data
-# DATA_DIR = "/data/longwei/hpa/qdata"
-# FV_DIR = "/ndata/longwei/hpa/imgfv/res18"
-
-# for supported level data
-# DATA_DIR = "/ndata/longwei/hpa/data"
-# FV_DIR = "/ndata/longwei/hpa/imgfv_supp/res18"
-
-# for liver data
-DATA_DIR = "/ndata/longwei/hpa/liver"
-FV_DIR = "/ndata/longwei/hpa/liverfv/res18"
+DATA_DIR = c.QDATA_DIR
+FV_DIR = c.FV_DIR
 
 
 def get_gpu_usage(device=1):

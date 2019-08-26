@@ -7,15 +7,13 @@ import os
 import queue
 import threading
 import numpy as np
-import sys
-sys.path.append("../")
 from util import datautil
+from util import constant as c
 
 
-BAG_FV_DIR = '/ndata/longwei/hpa/tissuefv/res18_128'
-INS_FV_DIR = '/ndata/longwei/hpa/normalfv_all'
-
-TISSUE_DIR = "/ndata/longwei/hpa/tissuedata"
+BAG_FV_DIR = c.FV_DIR
+INS_FV_DIR = c.NORMAL_FV_DIR
+TISSUE_DIR = c.TISSUE_DIR
 
 
 def get_gene_pics(gene):

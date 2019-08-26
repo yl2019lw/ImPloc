@@ -13,14 +13,13 @@ import threading
 import queue
 import glob
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+from util import constant as c
 
 # for tissue data
-DATA_DIR = "/data/longwei/hpa/qdata"
-SUPP_DATA_DIR = "/ndata/longwei/hpa/data"
-
-TISSUE_DIR = "/ndata/longwei/hpa/tissuedata"
-FV_DIR = "/ndata/longwei/hpa/tissuefv/res18"
+DATA_DIR = c.QDATA_DIR
+SUPP_DATA_DIR = c.SUPP_DATA_DIR
+TISSUE_DIR = c.TISSUE_DIR
+FV_DIR = c.FV_DIR
 
 
 def get_gpu_usage(device=1):

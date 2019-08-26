@@ -16,13 +16,11 @@ import time
 import queue
 import threading
 import glob
+from util import constant as c
 
-
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-
-CIMG_DIR = '/data/longwei/hpa/qdata'
-CFV_DIR = '/ndata/longwei/hpa/normalfv_all'
-PROJECT_DIR = '/data/longwei/hpa'
+CIMG_DIR = c.QDATA_DIR
+CFV_DIR = c.NORMAL_FV_DIR
+PROJECT_DIR = c.PROJECT
 
 
 def get_gpu_usage(device=1):

@@ -111,13 +111,13 @@ def garbage_shuffle(train_data):
     return garbage_data
 
 
-def train(fv, model_name, criterion, size=0):
+def train(fv, model_name, criterion, balance=False, size=0):
     if fv == "matlab":
         dloader = matloader
     else:
         dloader = fvloader
 
-    train_data = dloader.load_train_data(size=size, balance=False)
+    train_data = dloader.load_train_data(size=size, balance=balance)
     val_data = dloader.load_val_data(size=size)
     test_data = dloader.load_test_data(size=size)
     # model_name = "transformer_%s_size%d_bce" % (fv, size)

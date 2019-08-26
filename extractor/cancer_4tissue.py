@@ -9,12 +9,13 @@ import queue
 import threading
 import os
 from bs4 import BeautifulSoup
+from util import contant as c
 
 
-PROJECT_DIR = '/data/longwei/hpa'
-CIMG_DIR = '/ndata/longwei/hpa/cancerdata'
-CFV_DIR = '/ndata/longwei/hpa/cancerfv_all'
-CFV_4TISSUE_DIR = '/ndata/longwei/hpa/cancerfv_4tissue'
+PROJECT_DIR = c.PROJECT
+CIMG_DIR = c.CANCER_IMG_DIR
+CFV_DIR = c.CANCER_ALL_FV_DIR
+CFV_4TISSUE_DIR = c.CANCER_FV_DIR
 
 tissue_list = ['liver cancer', 'breast cancer', 'prostate cancer']
 
