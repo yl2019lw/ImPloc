@@ -12,19 +12,19 @@ MATLAB_FV_DIR = c.MATLAB_FV_DIR
 NUM_CLASSES = 6
 
 
-def load_train_data(size=0, balance=False):
+def load_train_data(size=0, balance=False, fv='matlab'):
     gene_list = datautil.get_train_gene_list(size)
     if balance:
         gene_list = datautil.get_balanced_gene_list(gene_list, size)
     return _load_data(gene_list, size=size)
 
 
-def load_val_data(size=0):
+def load_val_data(size=0, fv='matlab'):
     gene_list = datautil.get_val_gene_list(size)
     return _load_data(gene_list, size=size)
 
 
-def load_test_data(size=0):
+def load_test_data(size=0, fv='matlab'):
     gene_list = datautil.get_test_gene_list(size)
     return _load_data(gene_list, size=size)
 

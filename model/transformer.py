@@ -188,7 +188,10 @@ def get_attn_pad_mask(seq_q, seq_k):
 class Transformer(nn.Module):
     def __init__(self, fv='res18-128', dropout=0.1, NUM_HEADS=6, NUM_LAYERS=4):
         super(Transformer, self).__init__()
-        MODEL_DIM = int(fv.split("-")[-1])
+        if fv == 'matlab':
+            MODEL_DIM = 1097
+        else:
+            MODEL_DIM = int(fv.split("-")[-1])
         # QUERY_DIM = 32
         KEY_DIM = 32
         VALUE_DIM = 32

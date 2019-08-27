@@ -14,9 +14,6 @@ from transformer import Transformer
 from model import fvloader
 from model import matloader
 
-# BATCH_SIZE = 64
-BATCH_SIZE = 32
-
 
 def run_origin_train(model, dloader, imbtrain_data, writer, step, criterion):
     print("------run origin imblance train data-----------", step)
@@ -111,15 +108,15 @@ def garbage_shuffle(train_data):
     return garbage_data
 
 
-def train(fv, model_name, criterion, balance=False, size=0):
+def train(fv, model_name, criterion, balance=False, batchsize=32, size=0):
     if fv == "matlab":
         dloader = matloader
     else:
         dloader = fvloader
 
-    train_data = dloader.load_train_data(size=size, balance=balance)
-    val_data = dloader.load_val_data(size=size)
-    test_data = dloader.load_test_data(size=size)
+    train_data = dloader.load_train_data(size=size, balance=balance, fv=fv)
+    val_data = dloader.load_val_data(size=size, fv=fv)
+    test_data = dloader.load_test_data(size=size, fv=fv)
     # model_name = "transformer_%s_size%d_bce" % (fv, size)
     model_dir = os.path.join("./modeldir/%s" % model_name)
     model_pth = os.path.join(model_dir, "model.pth")
@@ -151,7 +148,7 @@ def train(fv, model_name, criterion, balance=False, size=0):
         st = time.time()
 
         train_shuffle = fvloader.shuffle(train_data)
-        for item in fvloader.batch_fv(train_shuffle, batch=BATCH_SIZE):
+        for item in fvloader.batch_fv(train_shuffle, batch=batchsize):
 
             # for name, param in model.named_parameters():
             #     writer.add_histogram(

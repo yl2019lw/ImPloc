@@ -37,4 +37,8 @@ def transformer_bce(fv, size=0):
 
 
 if __name__ == "__main__":
+    transformer_bce("res18-64")
     transformer_bce("res18-128")
+    transformer_bce("res18-256")
+    transformer_bce("res18-512")
+    transformer_bce("matlab")

@@ -28,24 +28,25 @@ def get_gene_pics(gene):
     return pics
 
 
-def load_train_data(size=1, balance=False):
+def load_train_data(size=1, balance=False, fv='res18-128'):
     gene_list = datautil.get_train_gene_list(size)
     if balance:
         gene_list = datautil.get_balanced_gene_list(gene_list, size)
-    return _load_data(gene_list, size=size)
+    return _load_data(gene_list, size=size, fv=fv)
 
 
-def load_val_data(size=1):
+def load_val_data(size=1, fv='res18-128'):
     gene_list = datautil.get_val_gene_list(size)
-    return _load_data(gene_list, size=size)
+    return _load_data(gene_list, size=size, fv=fv)
 
 
-def load_test_data(size=1):
+def load_test_data(size=1, fv='res18-128'):
     gene_list = datautil.get_test_gene_list(size)
-    return _load_data(gene_list, size=size)
+    return _load_data(gene_list, size=size, fv=fv)
 
 
-def _handle_load(gene, d):
+def _handle_load(gene, d, fv='res18-128'):
+    FV_DIR = os.path.join(c.ROOT, "enhanced_4tissue_fv", fv.replace('-', '_'))
     genef = os.path.join(FV_DIR, "%s.npy" % gene)
     nimg = np.load(genef)
     gene_label = np.zeros(NUM_CLASSES)
@@ -55,7 +56,7 @@ def _handle_load(gene, d):
     return (gene, nimg, gene_label, timestep)
 
 
-def _load_data(gene_list, size=1):
+def _load_data(gene_list, size=1, fv='res18-128'):
     if size == 0:
         d = datautil.load_enhanced_label()
     elif size == 1:
@@ -65,7 +66,7 @@ def _load_data(gene_list, size=1):
 
     q = [x for x in gene_list if x in d and len(get_gene_pics(x))]
 
-    return [_handle_load(x, d) for x in q]
+    return [_handle_load(x, d, fv) for x in q]
 
 
 def shuffle(items):
