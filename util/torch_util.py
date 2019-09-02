@@ -83,7 +83,7 @@ def threshold_pd(pd, base=0.5):
     return pd_threshold
 
 
-class AutoLoss(nn.Module):
+class FECLoss(nn.Module):
     '''auto weighted loss, called Penalty loss in paper'''
     def __init__(self, alpha=100, gamma=1,
                  reduction='mean', thr=0.5):
@@ -92,7 +92,7 @@ class AutoLoss(nn.Module):
         gamma controls penalty level.
         p > thr as positive, otherwise negative.
         '''
-        super(AutoLoss, self).__init__()
+        super(FECLoss, self).__init__()
         self.alpha = alpha
         self.gamma = gamma
         self.reduction = reduction

@@ -52,5 +52,8 @@ NORMAL_FV_DIR = os.path.join(ROOT, "enhanced_normalfv_3tissue")
 
 NORMAL_ALL_FV_DIR = os.path.join(ROOT, "enhanced_normalfv_all")
 
+# 224 x 224 patch for single model
+PATCH_DIR = os.path.join(ROOT, "patch224")
+
 if __name__ == "__main__":
     pass

@@ -108,7 +108,7 @@ def garbage_shuffle(train_data):
     return garbage_data
 
 
-def train(fv, model_name, criterion, balance=False, batchsize=32, size=0):
+def train(fv, model_name, criterion, balance=False, batchsize=64, size=0):
     if fv == "matlab":
         dloader = matloader
     else:
@@ -127,17 +127,17 @@ def train(fv, model_name, criterion, balance=False, batchsize=32, size=0):
         print("------load model--------")
         model = torch.load(model_pth)
     else:
-        model = Transformer(fv, NUM_HEADS=4, NUM_LAYERS=3).cuda()
-        # model = Transformer(fv).cuda()
+        # model = Transformer(fv, NUM_HEADS=4, NUM_LAYERS=3).cuda()
+        model = Transformer(fv).cuda()
     model = nn.DataParallel(model)
 
     optimizer = torch.optim.Adam(model.parameters(),
                                  lr=0.0001, weight_decay=0.001)
     # scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
-    #         optimizer,
-    #         patience=100)
+    #         optimizer, factor=0.5,
+    #         patience=30, min_lr=1e-4)
 
-    epochs = 1000
+    epochs = 2000
     step = 1
     val_step = 1
     max_f1 = 0.0
@@ -184,8 +184,8 @@ def train(fv, model_name, criterion, balance=False, batchsize=32, size=0):
 
         et = time.time()
         writer.add_scalar("train time", et - st, e)
-        # for param_group in optimizer.param_groups:
-        #     writer.add_scalar("lr", param_group['lr'], e)
+        for param_group in optimizer.param_groups:
+            writer.add_scalar("lr", param_group['lr'], e)
 
         # run_origin_train(model, imbtrain_data, writer, e, criterion)
 
