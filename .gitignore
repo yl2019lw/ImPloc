@@ -1,0 +1,10 @@
+*.log
+*.ignore
+*.pyc
+__pycache__
+data/
+aggcache/
+modeldir/
+modeldir-bak
+simodel/pretrained
+modeldir*

@@ -239,4 +239,5 @@ def final_test(fv="res18-128", size=2):
 
 if __name__ == "__main__":
     # train("res18-128", 0)
-    train("matlab", 0)
+    # train("matlab", 0)
+    pass

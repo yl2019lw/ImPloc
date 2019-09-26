@@ -35,8 +35,10 @@ def load_train_data(size=1, balance=False, fv='res18-128'):
     return _load_data(gene_list, size=size, fv=fv)
 
 
-def load_val_data(size=1, fv='res18-128'):
+def load_val_data(size=1, balance=False, fv='res18-128'):
     gene_list = datautil.get_val_gene_list(size)
+    if balance:
+        gene_list = datautil.get_balanced_gene_list(gene_list, size)
     return _load_data(gene_list, size=size, fv=fv)
 
 
