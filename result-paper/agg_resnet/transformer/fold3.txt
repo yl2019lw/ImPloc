@@ -1,0 +1,13 @@
+example_subset_accuracy:   0.5210
+example_accuracy:          0.5910
+example_precision:         0.6597
+example_recall:            0.5952
+example_f1:                0.6258
+label_accuracy_macro:      0.8557
+label_precision_macro:     0.8050
+label_recall_macro:        0.3037
+label_f1_macro:            0.4410
+label_accuracy_micro:      0.8557
+label_precision_micro:     0.6583
+label_recall_micro:        0.5603
+label_f1_micro:            0.6054
