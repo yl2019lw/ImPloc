@@ -1,0 +1,13 @@
+example_subset_accuracy: 0.38655463
+example_accuracy: 0.46778712
+example_precision: 0.70028013
+example_recall: 0.50700283
+example_f1: 0.5881702950882188
+label_accuracy_macro: 0.8389355742432266
+label_precision_macro: 0.5021164038808431
+label_recall_macro: 0.2693452392111213
+label_f1_macro: 0.3506140904685814
+label_accuracy_micro: 0.8389355742319476
+label_precision_micro: 0.6203703704055212
+label_recall_micro: 0.4751773050017604
+label_f1_micro: 0.5381526055666844
