@@ -88,6 +88,32 @@ def load_fv(fv='fv0'):
     return train_items, val_items, test_items
 
 
+def load_kfold_fv(fv='fv0', fold=1):
+    if fv == 'fv0':
+        vlad_data = fvloader.load_kfold_train_data(fold=fold)
+        kmeans = cluster(vlad_data)
+
+        train_data = fvloader.load_kfold_train_data(fold=fold)
+        val_data = fvloader.load_kfold_val_data(fold=fold)
+        test_data = fvloader.load_kfold_test_data(fold=fold)
+        vladdir = 'vlad/fv0-fold%d' % fold
+
+    elif fv == 'matlab':
+        vlad_data = matloader.load_kfold_train_data(fold=fold)
+        kmeans = cluster(vlad_data)
+
+        train_data = matloader.load_kfold_train_data(fold=fold)
+        val_data = matloader.load_kfold_val_data(fold=fold)
+        test_data = matloader.load_kfold_test_data(fold=fold)
+        vladdir = 'vlad/matlab-fold%d' % fold
+
+    train_items = data2vlad(train_data, kmeans, vladdir=vladdir)
+    val_items = data2vlad(val_data, kmeans, vladdir=vladdir)
+    test_items = data2vlad(test_data, kmeans, vladdir=vladdir)
+
+    return train_items, val_items, test_items
+
+
 def svm(fv='fv0'):
     train_items, val_items, test_items = load_fv(fv)
     print("train items", len(train_items))

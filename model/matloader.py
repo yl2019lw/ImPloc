@@ -29,13 +29,42 @@ def load_test_data(size=0, fv='matlab'):
     return _load_data(gene_list, size=size)
 
 
+def kfold_split(fold=1):
+    all_genes = datautil.get_enhanced_gene_list()
+    candidate_genes = all_genes[:int(len(all_genes) * 0.9)]
+    cl = len(candidate_genes)
+    vl = cl // 10
+    val_start = vl * (fold - 1)
+    val_end = vl * fold
+    val_genes = set(candidate_genes[val_start:val_end])
+    train_genes = set(candidate_genes) - set(val_genes)
+    val_genes = list(val_genes)
+    train_genes = list(train_genes)
+
+    return train_genes, val_genes
+
+
+def load_kfold_train_data(fold=1, fv='matlab'):
+    train_genes, val_genes = kfold_split(fold)
+    return _load_data(train_genes, size=0)
+
+
+def load_kfold_val_data(fold=1, fv='matlab'):
+    train_genes, val_genes = kfold_split(fold)
+    return _load_data(val_genes, size=0)
+
+
+def load_kfold_test_data(fold=1, fv='matlab'):
+    return load_test_data(size=0)
+
+
 def _handle_load(gene, d):
     gene_dir = os.path.join(MATLAB_FV_DIR, gene)
     gene_fv = []
     for matf in os.listdir(gene_dir):
         fv = io.loadmat(os.path.join(gene_dir, matf))['features']
         if np.isnan(fv).any():
-            print("find nan in ", gene, matf)
+            # print("find nan in ", gene, matf)
             continue
         gene_fv.append(fv)
     gene_fv = np.concatenate(gene_fv)

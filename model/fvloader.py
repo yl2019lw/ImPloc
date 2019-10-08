@@ -28,6 +28,35 @@ def get_gene_pics(gene):
     return pics
 
 
+def kfold_split(fold=1):
+    all_genes = datautil.get_enhanced_gene_list()
+    candidate_genes = all_genes[:int(len(all_genes) * 0.9)]
+    cl = len(candidate_genes)
+    vl = cl // 10
+    val_start = vl * (fold - 1)
+    val_end = vl * fold
+    val_genes = set(candidate_genes[val_start:val_end])
+    train_genes = set(candidate_genes) - set(val_genes)
+    val_genes = list(val_genes)
+    train_genes = list(train_genes)
+
+    return train_genes, val_genes
+
+
+def load_kfold_train_data(fold=1, fv='res18-128'):
+    train_genes, val_genes = kfold_split(fold)
+    return _load_data(train_genes, size=0, fv=fv)
+
+
+def load_kfold_val_data(fold=1, fv='res18-128'):
+    train_genes, val_genes = kfold_split(fold)
+    return _load_data(val_genes, size=0, fv=fv)
+
+
+def load_kfold_test_data(fold=1, fv='res18-128'):
+    return load_test_data(size=0, fv=fv)
+
+
 def load_train_data(size=1, balance=False, fv='res18-128'):
     gene_list = datautil.get_train_gene_list(size)
     if balance:

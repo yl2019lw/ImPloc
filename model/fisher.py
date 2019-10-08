@@ -36,6 +36,7 @@ def load_gmm(train_data, gmmdir='gmm/fv0', nmix=12):
     descriptors = np.concatenate(descriptors)
     # gmm = GaussianMixture(n_components=nmix, covariance_type='diag')
     gmm = GaussianMixture(n_components=nmix)
+    print("--------fit gmm-------------", weights_pth)
     gmm.fit(descriptors)
 
     w = gmm.weights_
@@ -63,7 +64,7 @@ def likelihood_statistics(samples, weights, means, covs):
     gaussians, s0, s1, s2 = {}, {}, {}, {}
     samples = zip(range(0, len(samples)), samples)
 
-    g = [multivariate_normal(mean=means[k], cov=covs[k])
+    g = [multivariate_normal(mean=means[k], cov=covs[k], allow_singular=True)
          for k in range(len(weights))]
     for index, x in samples:
         gaussians[index] = np.array([g_k.pdf(x) for g_k in g])
@@ -153,6 +154,40 @@ def load_fv(fv='fv0'):
     train_items = data2fisher(train_data, weights, means, covs)
     val_items = data2fisher(val_data, weights, means, covs)
     test_items = data2fisher(test_data, weights, means, covs)
+
+    return train_items, val_items, test_items
+
+
+def load_kfold_fv(fv='fv0', fold=1):
+    if fv == 'fv0':
+        gmm_data = fvloader.load_kfold_train_data(fold=fold)
+        weights, means, covs = load_gmm(
+            gmm_data, gmmdir='gmm/fv0-fold%d' % fold)
+
+        train_data = fvloader.load_kfold_train_data(fold=fold)
+        val_data = fvloader.load_kfold_val_data(fold=fold)
+        test_data = fvloader.load_kfold_test_data(fold=fold)
+
+        fisherdir = 'fisher/fv0-%d' % fold
+
+    elif fv == 'matlab':
+        train_data = matloader.load_kfold_train_data(fold=fold)
+        val_data = matloader.load_kfold_val_data(fold=fold)
+        gmm_data = train_data
+        gmm_data.extend(val_data)
+
+        weights, means, covs = load_gmm(
+            gmm_data, gmmdir='gmm/matlab-fold%d' % fold)
+
+        train_data = matloader.load_kfold_train_data(fold=fold)
+        val_data = matloader.load_kfold_val_data(fold=fold)
+        test_data = matloader.load_kfold_test_data(fold=fold)
+
+        fisherdir = 'fisher/matlab-%d' % fold
+
+    train_items = data2fisher(train_data, weights, means, covs, fisherdir)
+    val_items = data2fisher(val_data, weights, means, covs, fisherdir)
+    test_items = data2fisher(test_data, weights, means, covs, fisherdir)
 
     return train_items, val_items, test_items
 

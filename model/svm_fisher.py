@@ -178,14 +178,18 @@ def run():
 
 
 if __name__ == "__main__":
-    folds = list(range(1, 11))
-    fvs = ['fv0', 'matlab']
+    folds = list(range(2, 11))
+    # fvs = ['fv0', 'matlab']
+    fvs = ['matlab']
     # methods = ['bov', 'fisher', 'vlad']
-    methods = ['vlad']
+    methods = ['fisher']
     for m in methods:
         for fv in fvs:
             for fold in folds:
-                run_kfold_svm(m, fv, fold)
+                try:
+                    run_kfold_svm(m, fv, fold)
+                except Exception:
+                    continue
     # m = "fisher"
     # fv = "fv0"
     # fold = 1

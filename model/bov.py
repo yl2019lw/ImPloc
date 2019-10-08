@@ -80,6 +80,32 @@ def load_fv(fv='fv0'):
     return train_items, val_items, test_items
 
 
+def load_kfold_fv(fv='fv0', fold=1):
+    if fv == 'fv0':
+        kmean_data = fvloader.load_kfold_train_data(fold=fold)
+        kmeans = cluster(kmean_data)
+
+        train_data = fvloader.load_kfold_train_data(fold=fold)
+        val_data = fvloader.load_kfold_val_data(fold=fold)
+        test_data = fvloader.load_kfold_test_data(fold=fold)
+        bovdir = 'bov/fv0-fold%d' % fold
+
+    elif fv == 'matlab':
+        kmean_data = matloader.load_kfold_train_data(fold=fold)
+        kmeans = cluster(kmean_data)
+
+        train_data = matloader.load_kfold_train_data(fold=fold)
+        val_data = matloader.load_kfold_val_data(fold=fold)
+        test_data = matloader.load_kfold_test_data(fold=fold)
+        bovdir = 'bov/matlab-%d' % fold
+
+    train_items = data2bov(train_data, kmeans, bovdir=bovdir)
+    val_items = data2bov(val_data, kmeans, bovdir=bovdir)
+    test_items = data2bov(test_data, kmeans, bovdir=bovdir)
+
+    return train_items, val_items, test_items
+
+
 def svm(fv='fv0'):
     train_items, val_items, test_items = load_fv(fv)
     print("train items", len(train_items))

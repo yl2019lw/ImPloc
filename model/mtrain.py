@@ -108,17 +108,21 @@ def garbage_shuffle(train_data):
     return garbage_data
 
 
-def train(fv, model_name, criterion, balance=False, batchsize=64, size=0):
+def train(fv, model_name, criterion, balance=False,
+          batchsize=64, size=0, fold=1):
     if fv == "matlab":
         dloader = matloader
     else:
         dloader = fvloader
 
-    train_data = dloader.load_train_data(size=size, balance=balance, fv=fv)
-    val_data = dloader.load_val_data(size=size, fv=fv)
-    test_data = dloader.load_test_data(size=size, fv=fv)
+    # train_data = dloader.load_train_data(size=size, balance=balance, fv=fv)
+    # val_data = dloader.load_val_data(size=size, fv=fv)
+    # test_data = dloader.load_test_data(size=size, fv=fv)
+    train_data = dloader.load_kfold_train_data(fold=fold, fv=fv)
+    val_data = dloader.load_kfold_val_data(fold=fold, fv=fv)
+    test_data = dloader.load_kfold_test_data(fold=fold, fv=fv)
     # model_name = "transformer_%s_size%d_bce" % (fv, size)
-    model_dir = os.path.join("./modeldir/%s" % model_name)
+    model_dir = os.path.join("./modeldir-revision/%s" % model_name)
     model_pth = os.path.join(model_dir, "model.pth")
 
     writer = tensorboardX.SummaryWriter(model_dir)

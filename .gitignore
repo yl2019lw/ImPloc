@@ -8,3 +8,8 @@ modeldir/
 modeldir-bak
 simodel/pretrained
 modeldir*
+bov
+fisher
+gmm
+vlad
+svm_result
