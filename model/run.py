@@ -3,6 +3,7 @@
 
 import torch
 from model import mtrain
+from model import img_rnn
 from util import torch_util
 
 # matlab fv use batchsize=64
@@ -47,6 +48,15 @@ def fix_break_run():
                      batchsize=32, fold=fold)
 
 
+def imgrnn_bce_kfold():
+    folds = list(range(1, 11))
+    # fvs = ["matlab", "res18-128"]
+    fvs = ['res18-128']
+    for fv in fvs:
+        for fold in folds:
+            img_rnn.train(fv, fold=fold)
+
+
 if __name__ == "__main__":
     # transformer_bce("res18-64")
     # transformer_bce("res18-128")
@@ -60,4 +70,5 @@ if __name__ == "__main__":
     # transformer_fec1("res18-512")
     # transformer_fec5("matlab")
     # transformer_bce_kfold("res18-512")
-    fix_break_run()
+    # fix_break_run()
+    imgrnn_bce_kfold()

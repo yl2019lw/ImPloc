@@ -7,14 +7,12 @@ import torch.nn as nn
 import torch.nn.utils.rnn as utils_rnn
 import os
 import time
-# import fvloader
+import fvloader
 import matloader
 import tensorboardX
 from util import npmetrics
 from util import torch_util
 
-
-# os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
 HIDDEN_SIZE = 128
 NUM_CLASSES = 6
@@ -49,14 +47,13 @@ class ImageRNN(nn.Module):
         return torch.sigmoid(out), hidden
 
 
-def run_val(rnn, val_data, writer, val_step, criterion):
+def run_val(rnn, dloader, val_data, writer, val_step, criterion):
     print("------run val-----------", val_step)
     rnn.eval()
     with torch.no_grad():
         st = time.time()
 
-        # for item in fvloader.batch_fv(val_data, len(val_data)):
-        for item in matloader.batch_fv(val_data, len(val_data)):
+        for item in dloader.batch_fv(val_data, len(val_data)):
             hidden = None
             genes, nimgs, labels, timesteps = item
             idx = np.argsort(np.array(-timesteps))
@@ -80,11 +77,10 @@ def run_val(rnn, val_data, writer, val_step, criterion):
         return loss.item(), lab_f1_macro
 
 
-def run_test(rnn, test_data, result):
+def run_test(rnn, dloader, test_data, result):
     rnn.eval()
     with torch.no_grad():
-        # for item in fvloader.batch_fv(test_data, len(test_data)):
-        for item in matloader.batch_fv(test_data, len(test_data)):
+        for item in dloader.batch_fv(test_data, len(test_data)):
             genes, nimgs, labels, timesteps = item
             idx = np.argsort(np.array(-timesteps))
 
@@ -94,23 +90,31 @@ def run_test(rnn, test_data, result):
             out_pack, hidden = rnn(s_nimgs, s_timesteps)
 
         test_pd = torch_util.threshold_tensor_batch(out_pack)
-        npmetrics.write_metrics(labels[idx], np.array(test_pd), result)
+        np_pd = test_pd.data.cpu().numpy()
+        npmetrics.write_metrics(labels[idx], np_pd, result)
 
 
-def train(fv="res18-128", size=0):
-    # train_data = fvloader.load_train_data(size=size, balance=True)
-    # val_data = fvloader.load_val_data(size=size)
-    # test_data = fvloader.load_test_data(size=size)
-    train_data = matloader.load_train_data(size=size, balance=True)
-    val_data = matloader.load_val_data(size=size)
-    test_data = matloader.load_test_data(size=size)
+def train(fv="res18-128", size=0, fold=1):
+    if fv == "matlab":
+        dloader = matloader
+        INPUT_DIM = 1097
+        batch = 64
+        epochs = 2000
+    else:
+        dloader = fvloader
+        INPUT_DIM = int(fv.split("-")[-1])
+        # batch = 256
+        batch = 512
+        epochs = 10000
 
-    model_name = "imgrnn_%s_size%d_bce_gbalance" % (fv, size)
-    model_dir = os.path.join("./modeldir/%s" % model_name)
+    train_data = dloader.load_kfold_train_data(fold=fold, fv=fv)
+    val_data = dloader.load_kfold_val_data(fold=fold, fv=fv)
+    test_data = dloader.load_kfold_test_data(fold=fold, fv=fv)
+
+    # model_name = "imgrnn_%s_size%d_bce_gbalance" % (fv, size)
+    model_name = "imgrnn_%s_bce_fold%d" % (fv, fold)
+    model_dir = os.path.join("./modeldir-revision/%s" % model_name)
     model_pth = os.path.join(model_dir, "model.pth")
-
-    # INPUT_DIM = int(fv.split("-")[-1])
-    INPUT_DIM = 1097
 
     writer = tensorboardX.SummaryWriter(model_dir)
 
@@ -120,10 +124,10 @@ def train(fv="res18-128", size=0):
     else:
         rnn = ImageRNN(INPUT_DIM, HIDDEN_SIZE, NUM_CLASSES).cuda()
 
-    optimizer = torch.optim.Adam(rnn.parameters(), lr=0.00001)
+    # optimizer = torch.optim.Adam(rnn.parameters(), lr=0.00001)
+    optimizer = torch.optim.Adam(rnn.parameters(), lr=0.0001)
     criterion = torch.nn.BCELoss(reduce=True, size_average=True)
 
-    epochs = 10000
     step = 1
     val_step = 1
     max_f1 = 0.0
@@ -132,10 +136,8 @@ def train(fv="res18-128", size=0):
         rnn.train()
         st = time.time()
 
-        # train_shuffle = fvloader.shuffle(train_data)
-        # for item in fvloader.batch_fv(train_shuffle, batch=256):
-        train_shuffle = matloader.shuffle(train_data)
-        for item in matloader.batch_fv(train_shuffle, batch=64):
+        train_shuffle = dloader.shuffle(train_data)
+        for item in dloader.batch_fv(train_shuffle, batch=batch):
 
             rnn.zero_grad()
 
@@ -166,7 +168,7 @@ def train(fv="res18-128", size=0):
 
         if e % 1 == 0:
             val_loss, val_f1 = run_val(
-                rnn, val_data, writer, val_step, criterion)
+                rnn, dloader, val_data, writer, val_step, criterion)
             val_step += 1
             if e == 0:
                 start_loss = val_loss
@@ -175,12 +177,6 @@ def train(fv="res18-128", size=0):
             # if val_loss > 2 * min_loss:
             #     print("early stopping at %d" % e)
             #     break
-
-            # if e % 50 == 0:
-            #     pt = os.path.join(model_dir, "%d.pt" % e)
-            #     torch.save(rnn.state_dict(), pt)
-            #     result = os.path.join(model_dir, "result_epoch%d.txt" % e)
-            #     run_test(rnn, test_data, result)
 
             if min_loss > val_loss or max_f1 < val_f1:
                 if min_loss > val_loss:
@@ -191,7 +187,7 @@ def train(fv="res18-128", size=0):
                     max_f1 = val_f1
                 torch.save(rnn, model_pth)
                 result = os.path.join(model_dir, "result_epoch%d.txt" % e)
-                run_test(rnn, test_data, result)
+                run_test(rnn, dloader, test_data, result)
 
 
 if __name__ == "__main__":
