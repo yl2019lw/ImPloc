@@ -51,7 +51,7 @@ def plot_agg(fv="slf"):
                      mode='expand', shadow=True, fancybox=True)
     leg.get_frame().set_alpha(0.4)
     plt.tight_layout()
-    plt.savefig("%s/mean.eps" % basedir)
+    plt.savefig("%s/%s-mean.eps" % (basedir, fv))
 
 
 if __name__ == "__main__":
