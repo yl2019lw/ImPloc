@@ -10,6 +10,8 @@ import pandas as pd
 def merge_agg(fv="slf"):
     if fv == 'slf':
         srcdir = os.path.join("result-paper/agg_slf")
+    elif fv == "cnnfeat":
+        srcdir = os.path.join("result-paper/cnnfeat")
     else:
         srcdir = os.path.join("result-paper/agg_resnet")
 
@@ -35,5 +37,6 @@ def merge_agg(fv="slf"):
 
 
 if __name__ == "__main__":
-    merge_agg("slf")
-    merge_agg("resnet")
+    # merge_agg("slf")
+    # merge_agg("resnet")
+    merge_agg("cnnfeat")
